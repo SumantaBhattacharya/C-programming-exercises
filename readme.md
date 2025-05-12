@@ -83,3 +83,41 @@ Topics discussed:
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
 
+![WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg](<WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.39_15e793cb.jpg](<WhatsApp Image 2025-05-11 at 09.38.39_15e793cb.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.40_07bd3828.jpg](<WhatsApp Image 2025-05-11 at 09.38.40_07bd3828.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.40_ad0c4b0d.jpg](<WhatsApp Image 2025-05-11 at 09.38.40_ad0c4b0d.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.40_6d51ec0a.jpg](<WhatsApp Image 2025-05-11 at 09.38.40_6d51ec0a.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.41_dd3114b6.jpg](<WhatsApp Image 2025-05-11 at 09.38.41_dd3114b6.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.41_9844318d.jpg](<WhatsApp Image 2025-05-11 at 09.38.41_9844318d.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.41_747a5464.jpg](<WhatsApp Image 2025-05-11 at 09.38.41_747a5464.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.42_618a2c03.jpg](<WhatsApp Image 2025-05-11 at 09.38.42_618a2c03.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.42_7f18ce4e.jpg](<WhatsApp Image 2025-05-11 at 09.38.42_7f18ce4e.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.42_1842a389.jpg](<WhatsApp Image 2025-05-11 at 09.38.42_1842a389.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.43_8bdd03f7.jpg](<WhatsApp Image 2025-05-11 at 09.38.43_8bdd03f7.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.43_224c6c9b.jpg](<WhatsApp Image 2025-05-11 at 09.38.43_224c6c9b.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.43_1a8bf023.jpg](<WhatsApp Image 2025-05-11 at 09.38.43_1a8bf023.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.44_703f899f.jpg](<WhatsApp Image 2025-05-11 at 09.38.44_703f899f.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.44_fec0e700.jpg](<WhatsApp Image 2025-05-11 at 09.38.44_fec0e700.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.45_d344327d.jpg](<WhatsApp Image 2025-05-11 at 09.38.45_d344327d.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.45_278e3c46.jpg](<WhatsApp Image 2025-05-11 at 09.38.45_278e3c46.jpg>)
+
+![WhatsApp Image 2025-05-11 at 09.38.45_8e356df9.jpg](<WhatsApp Image 2025-05-11 at 09.38.45_8e356df9.jpg>)
+
