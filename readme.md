@@ -83,6 +83,8 @@ Topics discussed:
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
 
+<!-- 
+
 ![WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg](<WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg>)
 
 ![WhatsApp Image 2025-05-11 at 09.38.39_15e793cb.jpg](<WhatsApp Image 2025-05-11 at 09.38.39_15e793cb.jpg>)
@@ -121,3 +123,4 @@ Topics discussed:
 
 ![WhatsApp Image 2025-05-11 at 09.38.45_8e356df9.jpg](<WhatsApp Image 2025-05-11 at 09.38.45_8e356df9.jpg>)
 
+-->
