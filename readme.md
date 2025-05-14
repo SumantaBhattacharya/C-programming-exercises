@@ -78,10 +78,22 @@ Topics discussed:
 5. Powers of sigma in FSM  
 6. Cardinality in FSM
 
+[![TOC: Finite State Machine (Finite Automata) in Theory of Computation](https://img.youtube.com/vi/Qa6csfkK7_I/maxresdefault.jpg)](https://youtu.be/Qa6csfkK7_I?si=_ga1j8v5rHdQt1Fm)
+
+
+**TOC: Finite State Machine (Finite Automata) in Theory of Computation**  
+Topics discussed:  
+1. The Basics of Finite State Machine  
+2. Finite Automata  
+3. Types of Finite Automata  
+4. Deterministic Finite Automata (DFA)  
+5. The formal definition of Deterministic Finite Automata (DFA)
+
 
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
+
 
 <!-- 
 
