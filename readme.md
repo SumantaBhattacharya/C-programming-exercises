@@ -127,6 +127,14 @@ This lecture shows how to construct such a DFA and reject only those strings tha
 TOC: An example showing how to determine what a DFA recognizes.  
 This lecture also explains how to **complete a DFA using a Dead State**, helping better understand how a given DFA processes input strings.
 
+## ***Regular Languages | TOC*** 
+
+[![Regular Languages](https://img.youtube.com/vi/WrzaPNj9OZ4/maxresdefault.jpg)](https://youtu.be/WrzaPNj9OZ4?si=0hnWgl8zijNixjEJ)
+
+Topics Discussed:  
+1. Regular Languages in Theory of Computation  
+2. Non-Regular Languages in TOC  
+3. Examples of Languages that are Not Regular  
 
 ![alt text](image.png)
 
