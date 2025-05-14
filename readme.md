@@ -120,6 +120,14 @@ This lecture shows how to construct a DFA that accepts binary strings of exactly
 TOC: An example of a DFA that accepts all strings over `{a, b}` that **do not** contain the substring `'aabb'`.  
 This lecture shows how to construct such a DFA and reject only those strings that include `'aabb'`.
 
+## ***Deterministic Finite Automata (Example 4)*** 
+
+[![Deterministic Finite Automata (Example 4)](https://img.youtube.com/vi/Fpmr1nHqYrw/maxresdefault.jpg)](https://youtu.be/Fpmr1nHqYrw?si=VEL1BYhjhr7Y8VVG)
+
+TOC: An example showing how to determine what a DFA recognizes.  
+This lecture also explains how to **complete a DFA using a Dead State**, helping better understand how a given DFA processes input strings.
+
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
