@@ -95,6 +95,12 @@ Topics discussed:
 TOC: An example of DFA that accepts all binary strings starting with `'0'`.  
 This lecture demonstrates how to construct a DFA that accepts such strings and rejects all others.
 
+[![Deterministic Finite Automata (Example 2)](https://img.youtube.com/vi/2KindKcLjos/maxresdefault.jpg)](https://youtu.be/2KindKcLjos?si=pivmA4YjGFd1iMUk)
+
+**Deterministic Finite Automata (Example 2)**  
+TOC: An example of a DFA that accepts all strings over `{0,1}` of length 2.  
+This lecture shows how to construct a DFA that accepts binary strings of exactly two characters and rejects all others.
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
