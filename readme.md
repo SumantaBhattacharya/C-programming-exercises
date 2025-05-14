@@ -89,6 +89,11 @@ Topics discussed:
 4. Deterministic Finite Automata (DFA)  
 5. The formal definition of Deterministic Finite Automata (DFA)
 
+[![Deterministic Finite Automata (Example 1)](https://img.youtube.com/vi/40i4PKpM0cI/maxresdefault.jpg)](https://youtu.be/40i4PKpM0cI?si=A1Y8IbtywQy_LEm3)
+
+**Deterministic Finite Automata (Example 1)**  
+TOC: An example of DFA that accepts all binary strings starting with `'0'`.  
+This lecture demonstrates how to construct a DFA that accepts such strings and rejects all others.
 
 ![alt text](image.png)
 
