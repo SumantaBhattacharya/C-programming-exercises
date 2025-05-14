@@ -60,6 +60,10 @@ Automatic: All variables defined within a function or block by default (or with 
 
 In programming, actual parameters are the values passed to a function, while formal parameters are the values defined in the function's definition.
 
+# ***Theory of Computation***
+
+## ***An introduction to the subject of Theory of Computation and Automata Theory***
+
 [![An introduction to the subject of Theory of Computation and Automata Theory](https://img.youtube.com/vi/58N2N7zJGrQ/maxresdefault.jpg)](https://youtu.be/58N2N7zJGrQ?si=1Ao_uwyVAoQjp58H)
 
 Topics discussed:  
@@ -67,6 +71,8 @@ Topics discussed:
 2. What is the main concept behind the subject Theory of Computation?  
 3. Some simple examples explaining the scope of TOC.  
 4. A brief overview of the topics in Theory of Computation.
+
+## ***TOC: The prerequisites of Finite State Machine (FSM) in Theory of Computation***
 
 [![TOC: The prerequisites of Finite State Machine (FSM) in Theory of Computation](https://img.youtube.com/vi/TpIBUeyOuv8/maxresdefault.jpg)](https://youtu.be/TpIBUeyOuv8?si=gIlJdYwQJTTMKSDi)
 
@@ -77,6 +83,8 @@ Topics discussed:
 4. Languages in FSM  
 5. Powers of sigma in FSM  
 6. Cardinality in FSM
+
+## ***TOC: Finite State Machine (Finite Automata) in Theory of Computation***
 
 [![TOC: Finite State Machine (Finite Automata) in Theory of Computation](https://img.youtube.com/vi/Qa6csfkK7_I/maxresdefault.jpg)](https://youtu.be/Qa6csfkK7_I?si=_ga1j8v5rHdQt1Fm)
 
@@ -89,17 +97,28 @@ Topics discussed:
 4. Deterministic Finite Automata (DFA)  
 5. The formal definition of Deterministic Finite Automata (DFA)
 
+## ***Deterministic Finite Automata (Example 1)***
+
 [![Deterministic Finite Automata (Example 1)](https://img.youtube.com/vi/40i4PKpM0cI/maxresdefault.jpg)](https://youtu.be/40i4PKpM0cI?si=A1Y8IbtywQy_LEm3)
 
 **Deterministic Finite Automata (Example 1)**  
 TOC: An example of DFA that accepts all binary strings starting with `'0'`.  
 This lecture demonstrates how to construct a DFA that accepts such strings and rejects all others.
 
+## ***Deterministic Finite Automata (Example 2)***
+
 [![Deterministic Finite Automata (Example 2)](https://img.youtube.com/vi/2KindKcLjos/maxresdefault.jpg)](https://youtu.be/2KindKcLjos?si=pivmA4YjGFd1iMUk)
 
 **Deterministic Finite Automata (Example 2)**  
 TOC: An example of a DFA that accepts all strings over `{0,1}` of length 2.  
 This lecture shows how to construct a DFA that accepts binary strings of exactly two characters and rejects all others.
+
+## ***Deterministic Finite Automata (Example 3)***  
+
+[![Deterministic Finite Automata (Example 3)](https://img.youtube.com/vi/_2cKtLkdwnc/maxresdefault.jpg)](https://youtu.be/_2cKtLkdwnc?si=tpm0ZMAFlqsvH5kp)
+
+TOC: An example of a DFA that accepts all strings over `{a, b}` that **do not** contain the substring `'aabb'`.  
+This lecture shows how to construct such a DFA and reject only those strings that include `'aabb'`.
 
 ![alt text](image.png)
 
