@@ -159,6 +159,11 @@ Topics Discussed:
 Topics Discussed:  
 the formal definition of NFA and each of the tuples is explained with special focus on the transition function.
 
+[![NFA Solved Problem 1](https://img.youtube.com/vi/4bjqVsoy6bA/maxresdefault.jpg)](https://youtu.be/4bjqVsoy6bA?si=hvQdnX7pFVJCFnTv)
+
+**TOC: NFA Solved Problem 1**  
+Topics Discussed:  
+An example showing the behavior of NFA and showing in what conditions does an NFA accept or reject.
 
 ![alt text](image.png)
 
