@@ -153,6 +153,12 @@ Topics Discussed:
 2. Properties of Non-Deterministic Finite Automata (NFA)  
 3. Difference between DFA and NFA  
 
+[![The Formal Definition of NFA](https://img.youtube.com/vi/egXhe55dAIk/maxresdefault.jpg)](https://youtu.be/egXhe55dAIk?si=2l9LpOefvCkV3VGF)
+
+**TOC: The Formal Definition of Non-deterministic Finite Automata**  
+Topics Discussed:  
+the formal definition of NFA and each of the tuples is explained with special focus on the transition function.
+
 
 ![alt text](image.png)
 
