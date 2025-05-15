@@ -220,6 +220,11 @@ Design an NFA that accepts all strings over {0,1} where the second last symbol i
 Topics Discussed: 
 Epsilon NFA, how it is defined, and how it differs from the normal NFA.
 
+[![TOC: Conversion of Epsilon NFA to NFA](https://img.youtube.com/vi/WSGcmaHNBFM/maxresdefault.jpg)](https://youtu.be/WSGcmaHNBFM?si=ajjljEHeyChk5_Ou)
+
+**TOC: Conversion of Epsilon NFA to NFA**  
+Topics Discussed: Conversion of an Epsilon NFA to its equivalent NFA.
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
