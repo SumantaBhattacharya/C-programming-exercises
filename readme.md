@@ -165,6 +165,13 @@ the formal definition of NFA and each of the tuples is explained with special fo
 Topics Discussed:  
 An example showing the behavior of NFA and showing in what conditions does an NFA accept or reject.
 
+[![NFA Solved Example 2](https://img.youtube.com/vi/Bcen1W_uFEU/maxresdefault.jpg)](https://youtu.be/Bcen1W_uFEU?si=NnDJEFjB8-aHnayv)
+
+**Non-Deterministic Finite Automata (Solved Example 2)**  
+Topics Discussed:  
+1. An example of NFA which accepts all strings that start with "0".  
+2. An example of NFA which accepts all strings over {0,1} of length two.
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
