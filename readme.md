@@ -225,6 +225,11 @@ Epsilon NFA, how it is defined, and how it differs from the normal NFA.
 **TOC: Conversion of Epsilon NFA to NFA**  
 Topics Discussed: Conversion of an Epsilon NFA to its equivalent NFA.
 
+[![TOC: Conversion of Epsilon NFA to NFA - Examples (Part 1)](https://img.youtube.com/vi/I6GFKekMr7s/maxresdefault.jpg)](https://youtu.be/I6GFKekMr7s?si=25nBxWd-XjRkqjhM)
+
+**TOC: Conversion of Epsilon NFA to NFA - Examples (Part 1)**  
+Conversion of a given Epsilon NFA to its equivalent NFA.
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
