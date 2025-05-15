@@ -134,7 +134,17 @@ This lecture also explains how to **complete a DFA using a Dead State**, helping
 Topics Discussed:  
 1. Regular Languages in Theory of Computation  
 2. Non-Regular Languages in TOC  
-3. Examples of Languages that are Not Regular  
+3. Examples of Languages that are Not Regular 
+
+[![Operations on Regular Languages](https://img.youtube.com/vi/6aRJQNYYz4s/maxresdefault.jpg)](https://youtu.be/6aRJQNYYz4s?si=zFjhTZm6nKqc7E4O)
+
+**Operations on Regular Languages | TOC**  
+Topics Discussed:  
+1. Union Operation on Regular Languages  
+2. Concatenation Operation on Regular Languages  
+3. Star Operation on Regular Languages  
+4. Theorems on Union and Concatenation  
+
 
 ![alt text](image.png)
 
