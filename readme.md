@@ -172,6 +172,16 @@ Topics Discussed:
 1. An example of NFA which accepts all strings that start with "0".  
 2. An example of NFA which accepts all strings over {0,1} of length two.
 
+[![NFA Solved Problem 3](https://img.youtube.com/vi/NGF-b3QVeJU/maxresdefault.jpg)](https://youtu.be/NGF-b3QVeJU?si=wCVvStu8o897Qr1E)
+
+**TOC: NFA Solved Problem 3**  
+Topics Discussed:  
+1. NFA for: L1 = {Set of all strings that end with "1"}  
+2. NFA for: L2 = {Set of all strings that contain "0"}  
+3. NFA for: L3 = {Set of all strings that start with "10"}  
+4. NFA for: L4 = {Set of all strings that contain "01"}  
+5. NFA for: L5 = {Set of all strings that end with "11"}
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
