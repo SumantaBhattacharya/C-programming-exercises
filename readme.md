@@ -145,6 +145,14 @@ Topics Discussed:
 3. Star Operation on Regular Languages  
 4. Theorems on Union and Concatenation  
 
+[![Non-deterministic Finite Automata](https://img.youtube.com/vi/ehy0jGIYRtE/maxresdefault.jpg)](https://youtu.be/ehy0jGIYRtE?si=OU5xMTYtG1f-zwHX)
+
+**TOC: Non-deterministic Finite Automata**  
+Topics Discussed:  
+1. Properties of Deterministic Finite Automata (DFA)  
+2. Properties of Non-Deterministic Finite Automata (NFA)  
+3. Difference between DFA and NFA  
+
 
 ![alt text](image.png)
 
