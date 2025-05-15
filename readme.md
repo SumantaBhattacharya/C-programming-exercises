@@ -214,6 +214,11 @@ Conversion of an NFA that accepts all strings over {0,1} ending with `"01"` into
 Topics Discussed:  
 Design an NFA that accepts all strings over {0,1} where the second last symbol is always `'1'`. After designing the NFA, Converting it to an equivalent DFA using the **Subset Construction Method**.
 
+[![TOC: Epsilon NFA](https://img.youtube.com/vi/84oNUttWlN4/maxresdefault.jpg)](https://youtu.be/84oNUttWlN4?si=amZXPhxxll3qwiND)
+
+**TOC: Epsilon NFA** 
+Topics Discussed: 
+Epsilon NFA, how it is defined, and how it differs from the normal NFA.
 
 ![alt text](image.png)
 
