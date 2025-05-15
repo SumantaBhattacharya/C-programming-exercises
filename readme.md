@@ -182,6 +182,14 @@ Topics Discussed:
 4. NFA for: L4 = {Set of all strings that contain "01"}  
 5. NFA for: L5 = {Set of all strings that end with "11"}
 
+[![Conversion of NFA to DFA](https://img.youtube.com/vi/--CSVsFIDng/maxresdefault.jpg)](https://youtu.be/--CSVsFIDng?si=gHl1EObwWsMSQFRp)
+
+**TOC: Conversion of Non-deterministic Finite Automata (NFA) to Deterministic Finite Automata (DFA)**  
+Topics Discussed:  
+1. How NFA and DFA are equivalent and the process of converting NFA to DFA.  
+2. Equivalence of NFA and DFA.  
+3. Example: Converting the NFA for a language that accepts all strings that start with '0' to its equivalent DFA.
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
