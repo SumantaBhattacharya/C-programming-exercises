@@ -368,6 +368,11 @@ Topics Discussed:
 **TOC: Conversion of Regular Expression to Finite Automata**  
 Shows how to convert Regular Expressions to their equivalent Finite Automata.
 
+[![TOC: Conversion of Regular Expression to Finite Automata - Examples (Part 1)](https://img.youtube.com/vi/62JAy4oH6lU/maxresdefault.jpg)](https://youtu.be/62JAy4oH6lU?si=LkjplLcDbBW3QuUo)
+
+**TOC: Conversion of Regular Expression to Finite Automata - Examples (Part 1)**  
+Shows how to convert Regular Expressions to their equivalent Finite Automata.
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
