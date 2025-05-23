@@ -373,6 +373,11 @@ Shows how to convert Regular Expressions to their equivalent Finite Automata.
 **TOC: Conversion of Regular Expression to Finite Automata - Examples (Part 1)**  
 Shows how to convert Regular Expressions to their equivalent Finite Automata.
 
+[![TOC: Pumping Lemma (For Regular Languages)](https://img.youtube.com/vi/dikEDuepOtI/maxresdefault.jpg)](https://youtu.be/dikEDuepOtI?si=A4MmUu_e5t_pbhJ0)
+
+**TOC: Pumping Lemma (For Regular Languages)**  
+The concept of Pumping Lemma, which is used to prove that a language is **not regular**.
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
