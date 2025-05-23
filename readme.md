@@ -383,6 +383,11 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 **TOC: Pumping Lemma (For Regular Languages) | Example 1**  
 **Example** of how to prove that a given language is **Not Regular** using **Pumping Lemma**.
 
+[![TOC: Pumping Lemma (For Regular Languages) | Example 2](https://img.youtube.com/vi/kZzH8E-s-9o/maxresdefault.jpg)](https://youtu.be/kZzH8E-s-9o?si=KsmiAmcEVb13FM_v)
+
+**TOC: Pumping Lemma (For Regular Languages) | Example 2**  
+**Example** of how to prove that a given language is **Not Regular** using the **Pumping Lemma**.
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
