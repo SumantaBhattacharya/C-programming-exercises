@@ -230,49 +230,85 @@ Topics Discussed: Conversion of an Epsilon NFA to its equivalent NFA.
 **TOC: Conversion of Epsilon NFA to NFA - Examples (Part 1)**  
 Conversion of a given Epsilon NFA to its equivalent NFA.
 
+[![TOC: Conversion of Epsilon NFA to NFA - Examples (Part 2)](https://img.youtube.com/vi/Jz4YQ09nOxA/maxresdefault.jpg)](https://youtu.be/Jz4YQ09nOxA?si=g83n3889SzC77Enj)
+
+**TOC: Conversion of Epsilon NFA to NFA - Examples (Part 2)**  
+This lecture shows how to convert a given Epsilon NFA to its equivalent NFA using step-by-step examples.
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
 
 
 <!-- 
+![WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg](<WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.39_15e793cb.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.39_15e793cb.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.39_15e793cb.jpg](<WhatsApp Image 2025-05-11 at 09.38.39_15e793cb.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.40_07bd3828.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.40_07bd3828.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.40_07bd3828.jpg](<WhatsApp Image 2025-05-11 at 09.38.40_07bd3828.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.40_ad0c4b0d.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.40_ad0c4b0d.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.40_ad0c4b0d.jpg](<WhatsApp Image 2025-05-11 at 09.38.40_ad0c4b0d.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.40_6d51ec0a.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.40_6d51ec0a.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.40_6d51ec0a.jpg](<WhatsApp Image 2025-05-11 at 09.38.40_6d51ec0a.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.41_dd3114b6.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.41_dd3114b6.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.41_dd3114b6.jpg](<WhatsApp Image 2025-05-11 at 09.38.41_dd3114b6.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.41_9844318d.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.41_9844318d.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.41_9844318d.jpg](<WhatsApp Image 2025-05-11 at 09.38.41_9844318d.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.41_747a5464.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.41_747a5464.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.41_747a5464.jpg](<WhatsApp Image 2025-05-11 at 09.38.41_747a5464.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.42_618a2c03.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.42_618a2c03.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.42_618a2c03.jpg](<WhatsApp Image 2025-05-11 at 09.38.42_618a2c03.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.42_7f18ce4e.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.42_7f18ce4e.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.42_7f18ce4e.jpg](<WhatsApp Image 2025-05-11 at 09.38.42_7f18ce4e.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.42_1842a389.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.42_1842a389.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.42_1842a389.jpg](<WhatsApp Image 2025-05-11 at 09.38.42_1842a389.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.43_8bdd03f7.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.43_8bdd03f7.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.43_8bdd03f7.jpg](<WhatsApp Image 2025-05-11 at 09.38.43_8bdd03f7.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.43_224c6c9b.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.43_224c6c9b.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.43_224c6c9b.jpg](<WhatsApp Image 2025-05-11 at 09.38.43_224c6c9b.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.43_1a8bf023.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.43_1a8bf023.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.43_1a8bf023.jpg](<WhatsApp Image 2025-05-11 at 09.38.43_1a8bf023.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.44_703f899f.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.44_703f899f.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.44_703f899f.jpg](<WhatsApp Image 2025-05-11 at 09.38.44_703f899f.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.44_fec0e700.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.44_fec0e700.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.44_fec0e700.jpg](<WhatsApp Image 2025-05-11 at 09.38.44_fec0e700.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.45_d344327d.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.45_d344327d.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.45_d344327d.jpg](<WhatsApp Image 2025-05-11 at 09.38.45_d344327d.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.45_278e3c46.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.45_278e3c46.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.45_278e3c46.jpg](<WhatsApp Image 2025-05-11 at 09.38.45_278e3c46.jpg>)
+![WhatsApp Image 2025-05-11 at 09.38.45_8e356df9.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.45_8e356df9.jpg>)
 
-![WhatsApp Image 2025-05-11 at 09.38.45_8e356df9.jpg](<WhatsApp Image 2025-05-11 at 09.38.45_8e356df9.jpg>)
+![WhatsApp Image 2025-05-23 at 19.42.01_8b09d68f.jpg.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.01_8b09d68f.jpg>)
 
--->
+![WhatsApp Image 2025-05-23 at 19.42.02_ef4b7c47.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.02_ef4b7c47.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.02_4591a6c0.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.02_4591a6c0.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.02_72c28c33.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.02_ef4b7c47.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.03_3b32beea.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.03_3b32beea.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.03_a9a0f034.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.03_a9a0f034.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.03_24fe8588.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.03_24fe8588.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.04_81cfa4a2.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.04_81cfa4a2.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.04_b243ef03.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.04_b243ef03.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.04_8400a4a7.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.04_8400a4a7.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.06_55759075.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.06_55759075.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.06_13e718c9.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.06_13e718c9.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.06_fd5f3c08.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.06_fd5f3c08.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.07_871f42ae.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.07_871f42ae.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.07_4c57e124.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.07_4c57e124.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.07_57880a83.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.07_57880a83.jpg>)
+
+![WhatsApp Image 2025-05-23 at 19.42.08_4412b29f.jpg](<DIP_images/WhatsApp Image 2025-05-23 at 19.42.08_4412b29f.jpg>) -->
