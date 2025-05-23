@@ -261,6 +261,15 @@ The basic **rules**, **symbols**, and **operations** used to define regular lang
 
 > Shows how to prove (1+00*1)+(1+00*1)(0+10*1)*(0+10*1) is equal to 0*1(0+10*1)* using Identities of Regular Expression.
 
+[![TOC: Designing Regular Expressions](https://img.youtube.com/vi/FOhEmW_nMRs/maxresdefault.jpg)](https://youtu.be/FOhEmW_nMRs?si=9s9IQQE-6oOY0RRA)
+
+**TOC: Designing Regular Expressions**  
+Demonstrates how to design Regular Expressions for the following Languages:
+
+1. Language accepting strings of **length exactly 2**  
+2. Language accepting strings of **length at least 2**  
+3. Language accepting strings of **length at most 2**
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
