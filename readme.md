@@ -240,6 +240,11 @@ Conversion given Epsilon NFA to its equivalent NFA using step-by-step examples.
 **TOC: Regular Expression – Introduction and Rules**  
 The basic **rules**, **symbols**, and **operations** used to define regular languages through regular expressions.
 
+[![TOC: Regular Expression – Examples](https://img.youtube.com/vi/paOPoZyjzdg/maxresdefault.jpg)](https://youtu.be/paOPoZyjzdg?si=BRCV18EnVkKYuVnb)
+
+**TOC: Regular Expression – Examples**  
+**sets of strings** using **regular expressions**.
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
