@@ -270,6 +270,13 @@ Demonstrates how to design Regular Expressions for the following Languages:
 2. Language accepting strings of **length at least 2**  
 3. Language accepting strings of **length at most 2**
 
+[![TOC: NFA to Regular Expression Conversion](https://img.youtube.com/vi/OKFrju0HB7k/maxresdefault.jpg)](https://youtu.be/OKFrju0HB7k?si=ZiKPgLdX61weMebc)
+
+**TOC: NFA to Regular Expression Conversion**  
+Topics Discussed:  
+1. **Conversion process** of NFA (Non-deterministic Finite Automaton) to Regular Expression  
+2. **Conversion process** of NFA (Non-deterministic Finite Automaton) to Regular Expression example 
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
