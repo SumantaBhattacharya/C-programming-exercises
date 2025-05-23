@@ -378,6 +378,11 @@ Shows how to convert Regular Expressions to their equivalent Finite Automata.
 **TOC: Pumping Lemma (For Regular Languages)**  
 The concept of Pumping Lemma, which is used to prove that a language is **not regular**.
 
+[![TOC: Pumping Lemma (For Regular Languages) | Example 1](https://img.youtube.com/vi/Ty9tpikilAo/maxresdefault.jpg)](https://youtu.be/Ty9tpikilAo?si=bO3huymbevOM1Bcx)
+
+**TOC: Pumping Lemma (For Regular Languages) | Example 1**  
+**Example** of how to prove that a given language is **Not Regular** using **Pumping Lemma**.
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
