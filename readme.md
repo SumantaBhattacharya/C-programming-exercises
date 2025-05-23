@@ -388,6 +388,14 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 **TOC: Pumping Lemma (For Regular Languages) | Example 2**  
 **Example** of how to prove that a given language is **Not Regular** using the **Pumping Lemma**.
 
+[![Types of Grammar according to Noam Chomsky](https://img.youtube.com/vi/WgEsPTAL55Q/maxresdefault.jpg)](https://youtu.be/WgEsPTAL55Q?si=1N9GeVmbqxQgHQOo)
+
+**Topics Discussed:**  
+1. Types of Grammar according to **Noam Chomsky**  
+2. **Grammar**  
+3. **Regular Grammar**  
+4. Types of Regular Grammar: **Right Linear Grammar** & **Left Linear Grammar**
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
