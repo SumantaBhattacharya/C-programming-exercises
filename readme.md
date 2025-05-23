@@ -233,7 +233,12 @@ Conversion of a given Epsilon NFA to its equivalent NFA.
 [![TOC: Conversion of Epsilon NFA to NFA - Examples (Part 2)](https://img.youtube.com/vi/Jz4YQ09nOxA/maxresdefault.jpg)](https://youtu.be/Jz4YQ09nOxA?si=g83n3889SzC77Enj)
 
 **TOC: Conversion of Epsilon NFA to NFA - Examples (Part 2)**  
-This lecture shows how to convert a given Epsilon NFA to its equivalent NFA using step-by-step examples.
+Conversion given Epsilon NFA to its equivalent NFA using step-by-step examples.
+
+[![TOC: Regular Expression – Introduction and Rules](https://img.youtube.com/vi/upu_TeZImN0/maxresdefault.jpg)](https://youtu.be/upu_TeZImN0?si=SVzNyMh-jZyjZaQ9)
+
+**TOC: Regular Expression – Introduction and Rules**  
+The basic **rules**, **symbols**, and **operations** used to define regular languages through regular expressions.
 
 ![alt text](image.png)
 
