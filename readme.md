@@ -245,6 +245,10 @@ The basic **rules**, **symbols**, and **operations** used to define regular lang
 **TOC: Regular Expression – Examples**  
 **sets of strings** using **regular expressions**.
 
+[![TOC: Identities of Regular Expression](https://img.youtube.com/vi/yp4pYgXfYD8/maxresdefault.jpg)](https://youtu.be/yp4pYgXfYD8?si=AEmz6S3wCYNlAat7)
+
+**TOC: Identities of Regular Expression**  
+
 ![alt text](image.png)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
