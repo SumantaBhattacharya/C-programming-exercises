@@ -10,18 +10,89 @@
 C is not object oriented programming language
 
 `(Dennis Ritchie in 1972 at Bell Labs developed C).`
+Here's your content restyled and formatted properly in **Markdown**:
 
-pre-defined reserved word - keyword-32
+---
 
-by deafault all variable are stored in stack memory
+### 🔑 Predefined Reserved Word (Keyword-32)
 
-reg int(4 byte(32 bits because 1 byte is equal to 8 bits(8 byte is reserved for double, char memory is 1 byte))) a(variable-mutable) will allocate memory in register
+* C has **32 predefined reserved keywords**.
+* These **keywords** are reserved and **cannot be used as variable names**.
 
-identifies-variable_name
+---
 
-printf is capacited in stdio.h(standard input/output) header file
+### 🧮 Memory Allocation by Default
 
-#include is file inclusion pre processor is pre processed during compilation then it generate assembly code then object code then The linker combines the object file(s) with libraries (like the standard library) to produce a single executable file (.exe) and ultimately then When you run the executable, the loader loads it into memory and executes it.
+* **All variables** are stored in **stack memory** by default in C.
+
+```c
+int a;
+```
+
+* Here, variable `a`:
+
+  * is **mutable**
+  * gets memory allocated in the **stack** (unless `register` is used)
+
+---
+
+### ⚙️ `register` Keyword Example
+
+```c
+register int a;
+```
+
+* **`register`** suggests the compiler to **store variable `a` in a CPU register** instead of RAM (for faster access).
+* `int` is 4 bytes = 32 bits (because 1 byte = 8 bits).
+* Other data type sizes (may vary by system):
+
+  * `double`: 8 bytes
+  * `char`: 1 byte
+
+---
+
+### 🆔 Identifiers
+
+* Identifiers are **names used to identify**:
+
+  * Variables (`variable_name`)
+  * Functions
+  * Arrays, etc.
+* Example: `int score;` → `score` is an **identifier**
+
+---
+
+### 🖨️ `printf()` Function
+
+* `printf()` is defined in the **`<stdio.h>`** header file.
+* `stdio.h` stands for **Standard Input/Output**.
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, world!\n");
+    return 0;
+}
+```
+
+---
+
+### ⚙️ Compilation Flow of a C Program
+
+1. **Preprocessing**
+   `#include` directives and macros are handled by the **preprocessor**.
+2. **Compilation**
+   Preprocessed code is **converted to assembly code**.
+3. **Assembly**
+   Assembly code is translated into **object code** (`.obj` or `.o`).
+4. **Linking**
+   Linker combines the object file(s) and **library files** (e.g., standard library) to produce an executable (`.exe`).
+5. **Loading & Execution**
+   The **loader** loads the executable into **memory** and starts execution.
+
+---
+
 
 ```
 Preprocessing → Compilation → Assembly → Linking → Executable → [Loaded by OS for execution]
@@ -43,22 +114,37 @@ unsigned long long int - %llu
 double - %lf
 ```
 
-the storage class of a variable determines where a variable is stored in memory or CPU registers. It also determines the scope and initial value of the variable. There are four storage classes in C: automatic, register, static and external.
 
-auto - automatic storage class - all variables defined within a function or block belong to automatic storage 
-register - register storage class - 
-static - static storage class
-extern - external storage class
+---
 
-Automatic: All variables defined within a function or block by default (or with auto specification) belong to the automatic storage class. The automatic variables are local to the block in which they are defined, and get destroyed on exit from the block.
+The **storage class** of a variable determines where the variable is stored—either in memory or CPU registers. It also defines the **scope** and **initial value** of the variable. In the C programming language, there are four storage classes: **automatic**, **register**, **static**, and **external**.
 
-(b) Register: The register specifier declares a variable of the register storage class. Variables declared as register are local to the block in which they are defined, and get destroyed on exit from the block. Register variables are placed in CPU registers, not in memory.
+* **auto** — Automatic storage class: All variables defined within a function or block belong to the automatic storage class by default.
+* **register** — Register storage class
+* **static** — Static storage class
+* **extern** — External storage class
 
-(c) Static: The static specifier declares a variable of the static storage class. Static variables are global to the program, and persist across function calls. Static variable are not visible outside their function, Static variables are placed in memory.
+### Automatic Storage Class
 
-(d) External: The extern specifier gives the declared variable external storage class. No storage is allocated to an extern variable. It is assumed that the variable has already been defined elsewhere in the program. When we use an extern specifier the variable cannot be initialized because an extern variable is only declared, not defined.
+All variables defined within a function or block, either by default or with the `auto` specifier, belong to the automatic storage class. Automatic variables are local to the block in which they are defined, and their lifetime ends when the program exits the block.
 
-In programming, actual parameters are the values passed to a function, while formal parameters are the values defined in the function's definition.
+### Register Storage Class
+
+The `register` specifier declares a variable of the register storage class. Variables declared as `register` are local to the block in which they are defined and are destroyed upon exiting the block. Register variables are stored in CPU registers rather than memory, which can result in faster access.
+
+### Static Storage Class
+
+The `static` specifier declares a variable of the static storage class. Static variables are global to the program and persist across multiple function calls. However, static variables are not visible outside the function in which they are declared. These variables are stored in memory.
+
+### External Storage Class
+
+The `extern` specifier gives a variable the external storage class. No storage is allocated for an `extern` variable within the declaring file. It is assumed that the variable has already been defined elsewhere in the program. Because an `extern` variable is only declared and not defined, it cannot be initialized at the point of declaration.
+
+---
+
+In programming, **actual parameters** refer to the values passed to a function during a function call, whereas **formal parameters** are the variables defined in the function’s signature that receive these values.
+
+---
 
 # ***Theory of Computation***
 
@@ -276,6 +362,11 @@ Demonstrates how to design Regular Expressions for the following Languages:
 Topics Discussed:  
 1. **Conversion process** of NFA (Non-deterministic Finite Automaton) to Regular Expression  
 2. **Conversion process** of NFA (Non-deterministic Finite Automaton) to Regular Expression example 
+
+[![TOC: Conversion of Regular Expression to Finite Automata](https://img.youtube.com/vi/RxfXyvfTsgQ/maxresdefault.jpg)](https://youtu.be/RxfXyvfTsgQ?si=DJIVNDxTsFlplxDR)
+
+**TOC: Conversion of Regular Expression to Finite Automata**  
+Shows how to convert Regular Expressions to their equivalent Finite Automata.
 
 ![alt text](image.png)
 
