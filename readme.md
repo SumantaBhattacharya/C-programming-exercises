@@ -185,6 +185,13 @@ Topics discussed:
 - Sigma Star (Kleene Closure)  
 - Positive Closure  
 
+[![Grammar in Automata Theory](https://img.youtube.com/vi/5Jd54dxQ1_Q/maxresdefault.jpg)](https://youtu.be/5Jd54dxQ1_Q?si=GC10B5rdn3G8DoMn)
+
+**Topics Discussed:**  
+- Grammar and its importance in formal language theory  
+- Examples of grammar rules  
+- Checking strings using grammar  
+
 ## ***TOC: The prerequisites of Finite State Machine (FSM) in Theory of Computation***
 
 [![TOC: The prerequisites of Finite State Machine (FSM) in Theory of Computation](https://img.youtube.com/vi/TpIBUeyOuv8/maxresdefault.jpg)](https://youtu.be/TpIBUeyOuv8?si=gIlJdYwQJTTMKSDi)
