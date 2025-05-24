@@ -177,6 +177,14 @@ Topics discussed:
 - Example of Language  
 - Automata  
 
+[![Power of Σ (Sigma) in Automata Theory](https://img.youtube.com/vi/4Q2rE6R31GU/maxresdefault.jpg)](https://youtu.be/4Q2rE6R31GU?si=4Jw0DP3NSAGWMOqG)
+
+**Topics Discussed:**  
+- Introduction  
+- Power of Σ (Sigma)  
+- Sigma Star (Kleene Closure)  
+- Positive Closure  
+
 ## ***TOC: The prerequisites of Finite State Machine (FSM) in Theory of Computation***
 
 [![TOC: The prerequisites of Finite State Machine (FSM) in Theory of Computation](https://img.youtube.com/vi/TpIBUeyOuv8/maxresdefault.jpg)](https://youtu.be/TpIBUeyOuv8?si=gIlJdYwQJTTMKSDi)
