@@ -158,6 +158,17 @@ Topics discussed:
 3. Some simple examples explaining the scope of TOC.  
 4. A brief overview of the topics in Theory of Computation.
 
+[![Theory of Computation - Introduction to Language, Alphabet, Symbol, String](https://img.youtube.com/vi/V19S3Mqfrzo/maxresdefault.jpg)](https://youtu.be/V19S3Mqfrzo?si=rlEFyLye04OLOwFz)
+
+**Topics Discussed:**  
+- Introduction to Theory of Computation  
+- LAG (Language, Automata, Grammar)  
+- Symbol  
+- Alphabet  
+- String  
+- Language  
+- Examples
+
 ## ***TOC: The prerequisites of Finite State Machine (FSM) in Theory of Computation***
 
 [![TOC: The prerequisites of Finite State Machine (FSM) in Theory of Computation](https://img.youtube.com/vi/TpIBUeyOuv8/maxresdefault.jpg)](https://youtu.be/TpIBUeyOuv8?si=gIlJdYwQJTTMKSDi)
