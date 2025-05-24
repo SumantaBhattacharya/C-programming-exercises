@@ -169,6 +169,14 @@ Topics discussed:
 - Language  
 - Examples
 
+[![Introduction to Automata and Language](https://img.youtube.com/vi/aoUEXRlvmxc/maxresdefault.jpg)](https://youtu.be/aoUEXRlvmxc?si=qszI_Fig5Le-TsCO)
+
+**Topics Discussed:**  
+- Introduction to Automata  
+- Language  
+- Example of Language  
+- Automata  
+
 ## ***TOC: The prerequisites of Finite State Machine (FSM) in Theory of Computation***
 
 [![TOC: The prerequisites of Finite State Machine (FSM) in Theory of Computation](https://img.youtube.com/vi/TpIBUeyOuv8/maxresdefault.jpg)](https://youtu.be/TpIBUeyOuv8?si=gIlJdYwQJTTMKSDi)
