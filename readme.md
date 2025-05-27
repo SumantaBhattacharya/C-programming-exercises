@@ -284,7 +284,19 @@ Designing a DFA over the alphabet **{a, b}** that recognizes the language consis
 **Topics Covered:**  
 - Language definition using **De Morgan's Theorem**  
 - DFA for strings starting with 'a' & ending with 'b'  
-- Complement of DFA to handle the negation case  
+- Complement of DFA to handle the negation case 
+
+[![DFA vs NFA in TOC](https://img.youtube.com/vi/4BDz876IJBc/maxresdefault.jpg)](https://youtu.be/4BDz876IJBc?si=rQcuqs9su6CvxxWg)
+
+**Lecture 14: DFA vs NFA in TOC**  
+
+**Description:**  
+**differences between DFA (Deterministic Finite Automaton)** and **NFA (Nondeterministic Finite Automaton)** in Hindi, with examples.  
+
+**Topics Covered:**  
+- Structural differences between DFA and NFA  
+- Language recognition power of DFA vs NFA  
+- Examples to highlight the contrast  
 
 ## ***Deterministic Finite Automata (Example 3)***  
 
