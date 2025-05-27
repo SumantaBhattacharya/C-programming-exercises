@@ -264,6 +264,17 @@ Solved designing a DFA over the alphabet **{a, b}** that recognizes the language
 TOC: An example of a DFA that accepts all strings over `{0,1}` of length 2.  
 This lecture shows how to construct a DFA that accepts binary strings of exactly two characters and rejects all others.
 
+[![DFA Example - Strings Starting with 'a' & Ending with 'b'](https://img.youtube.com/vi/v9IwDI0GtpE/maxresdefault.jpg)](https://youtu.be/v9IwDI0GtpE?si=vKnspVo5ZcX7an3f)
+
+**Lecture 9: DFA of Language with All Strings Starting with 'a' & Ending with 'b'**  
+**Instructor:** Varun Sir  
+**Problem Statement:**  
+Design a DFA over the alphabet **{a, b}** that recognizes the language consisting of **all strings that start with 'a' and end with 'b'**.
+
+**Topics Covered:**  
+- Language analysis (strings starting with 'a' and ending with 'b')  
+- Step-by-step DFA construction  
+
 ## ***Deterministic Finite Automata (Example 3)***  
 
 [![Deterministic Finite Automata (Example 3)](https://img.youtube.com/vi/_2cKtLkdwnc/maxresdefault.jpg)](https://youtu.be/_2cKtLkdwnc?si=tpm0ZMAFlqsvH5kp)
