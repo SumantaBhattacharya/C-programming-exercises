@@ -217,6 +217,15 @@ Topics discussed:
 4. Deterministic Finite Automata (DFA)  
 5. The formal definition of Deterministic Finite Automata (DFA)
 
+[![What is DFA in TOC (Hindi)](https://img.youtube.com/vi/CiXJnosT0UE/maxresdefault.jpg)](https://youtu.be/CiXJnosT0UE?si=_-oSixlYjRNvL4kk)
+
+**Lecture 6: What is DFA in TOC with Examples (in Hindi)**  
+**Topics Discussed:**  
+- Definition and components of DFA (Q, Σ, δ, q₀, F)  
+- Determinism in DFA  
+- Example and DFA design  
+- DFA transition explanation  
+
 ## ***Deterministic Finite Automata (Example 1)***
 
 [![Deterministic Finite Automata (Example 1)](https://img.youtube.com/vi/40i4PKpM0cI/maxresdefault.jpg)](https://youtu.be/40i4PKpM0cI?si=A1Y8IbtywQy_LEm3)
