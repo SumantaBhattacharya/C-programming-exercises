@@ -267,13 +267,24 @@ This lecture shows how to construct a DFA that accepts binary strings of exactly
 [![DFA Example - Strings Starting with 'a' & Ending with 'b'](https://img.youtube.com/vi/v9IwDI0GtpE/maxresdefault.jpg)](https://youtu.be/v9IwDI0GtpE?si=vKnspVo5ZcX7an3f)
 
 **Lecture 9: DFA of Language with All Strings Starting with 'a' & Ending with 'b'**  
-**Instructor:** Varun Sir  
 **Problem Statement:**  
 Design a DFA over the alphabet **{a, b}** that recognizes the language consisting of **all strings that start with 'a' and end with 'b'**.
 
 **Topics Covered:**  
 - Language analysis (strings starting with 'a' and ending with 'b')  
-- Step-by-step DFA construction  
+- Step-by-step DFA construction
+
+[![DFA Example - Not Starting with 'a' OR Not Ending with 'b'](https://img.youtube.com/vi/gUeh54lmlik/maxresdefault.jpg)](https://youtu.be/gUeh54lmlik?si=CMzmmesLv03uH_Q8)
+
+**Lecture 10: DFA of Language with All Strings Not Starting with 'a' OR Not Ending with 'b'**  
+
+**Problem Statement:**  
+Designing a DFA over the alphabet **{a, b}** that recognizes the language consisting of all strings **that do NOT start with 'a' OR do NOT end with 'b'**.
+
+**Topics Covered:**  
+- Language definition using **De Morgan's Theorem**  
+- DFA for strings starting with 'a' & ending with 'b'  
+- Complement of DFA to handle the negation case  
 
 ## ***Deterministic Finite Automata (Example 3)***  
 
