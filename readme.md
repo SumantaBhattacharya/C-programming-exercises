@@ -245,6 +245,17 @@ Solved designing a DFA over the alphabet **{a, b}** that recognizes the language
 TOC: An example of DFA that accepts all binary strings starting with `'0'`.  
 This lecture demonstrates how to construct a DFA that accepts such strings and rejects all others.
 
+[![DFA Example 2 - Strings ending with 'a'](https://img.youtube.com/vi/cEX7V3c2CWc/maxresdefault.jpg)](https://youtu.be/cEX7V3c2CWc?si=95AF-QlqpOCXIUCM)
+
+**Lecture 8: DFA Example 2 | DFA of Language with All Strings Ending with 'a'**  
+**Instructor:** Varun Sir  
+**Problem Statement:**  
+Solved designing a DFA over the alphabet **{a, b}** that recognizes the language consisting of **all strings that end with 'a'**.
+
+**Topics Covered:**  
+- Language analysis (strings ending in 'a')  
+- Step-by-step DFA construction  
+
 ## ***Deterministic Finite Automata (Example 2)***
 
 [![Deterministic Finite Automata (Example 2)](https://img.youtube.com/vi/2KindKcLjos/maxresdefault.jpg)](https://youtu.be/2KindKcLjos?si=pivmA4YjGFd1iMUk)
