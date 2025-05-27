@@ -224,7 +224,18 @@ Topics discussed:
 - Definition and components of DFA (Q, Σ, δ, q₀, F)  
 - Determinism in DFA  
 - Example and DFA design  
-- DFA transition explanation  
+- DFA transition explanation
+
+[![DFA Example 1 - Contains at least one 'a'](https://img.youtube.com/vi/vsEKN2f22bE/maxresdefault.jpg)](https://youtu.be/vsEKN2f22bE?si=V9OS2YkAXyavF9CG)
+
+**Lecture 7: DFA Example 1 | How to Construct DFA in TOC**  
+**Instructor:** Varun Sir  
+**Problem Statement:**  
+Solved designing a DFA over the alphabet **{a, b}** that recognizes the language consisting of **all strings containing at least one 'a'**.
+
+**Topics Covered:**  
+- Language analysis (strings containing 'a')  
+- Step-by-step DFA construction  
 
 ## ***Deterministic Finite Automata (Example 1)***
 
