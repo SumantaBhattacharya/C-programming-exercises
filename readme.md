@@ -499,6 +499,8 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![What is Computer Vision? | Introduction](https://img.youtube.com/vi/wVE8SFMSBJ0/0.jpg)](https://youtu.be/wVE8SFMSBJ0?si=wO8unJOLaw6oBYdb)
 
+[![What is Vision Used For? | Introduction](https://img.youtube.com/vi/qt1UfF0fn4w/0.jpg)](https://youtu.be/qt1UfF0fn4w?si=AzUJ8mKG0L-jG60_)
+
 [![Hough's Transform in image processing in hindi](https://img.youtube.com/vi/fiDDn_F9U74/0.jpg)](https://youtu.be/fiDDn_F9U74?si=BFzxdEiB97TNdABN)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
