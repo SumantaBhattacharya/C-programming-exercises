@@ -497,6 +497,8 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 ![alt text](image.png)
 
+[![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
+
 [![What is Computer Vision? | Introduction](https://img.youtube.com/vi/wVE8SFMSBJ0/0.jpg)](https://youtu.be/wVE8SFMSBJ0?si=wO8unJOLaw6oBYdb)
 
 [![What is Vision Used For? | Introduction](https://img.youtube.com/vi/qt1UfF0fn4w/0.jpg)](https://youtu.be/qt1UfF0fn4w?si=AzUJ8mKG0L-jG60_)
@@ -509,9 +511,13 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Edge Detection Using Gradients | Edge Detection](https://img.youtube.com/vi/lOEBsQodtEQ/0.jpg)](https://youtu.be/lOEBsQodtEQ?si=edGDVk90q7SNv7hZ)
 
-[![Hough's Transform in image processing in hindi](https://img.youtube.com/vi/fiDDn_F9U74/0.jpg)](https://youtu.be/fiDDn_F9U74?si=BFzxdEiB97TNdABN)
+[![Edge Detection Using Laplacian | Edge Detection](https://img.youtube.com/vi/uNP6ZwQ3r6A/0.jpg)](https://youtu.be/uNP6ZwQ3r6A?si=eQpGsLmK5aE750vt)
 
-[![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
+[![Canny Edge Detector | Edge Detection](https://img.youtube.com/vi/hUC1uoigH6s/0.jpg)](https://youtu.be/hUC1uoigH6s?si=T97BKqeBVap6mjQG)
+
+[![Hough Transform | Boundary Detection](https://img.youtube.com/vi/XRBc_xkZREg/0.jpg)](https://youtu.be/XRBc_xkZREg?si=hwpiRihl7EAhL7hb)
+
+[![Hough's Transform in image processing in hindi](https://img.youtube.com/vi/fiDDn_F9U74/0.jpg)](https://youtu.be/fiDDn_F9U74?si=BFzxdEiB97TNdABN)
 
 [![Hough Transform Explained with Example](https://img.youtube.com/vi/t1GXMvK9m84/0.jpg)](https://youtu.be/t1GXMvK9m84?si=vRKu8VBbBXzccjHe)
 
