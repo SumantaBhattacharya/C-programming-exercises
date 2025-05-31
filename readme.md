@@ -499,6 +499,8 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
 
+[![Hough Transform Explained with Example](https://img.youtube.com/vi/t1GXMvK9m84/0.jpg)](https://youtu.be/t1GXMvK9m84?si=vRKu8VBbBXzccjHe)
+
 [![DIP#25 Introduction to image restoration in digital image processing || EC Academy](https://img.youtube.com/vi/hL1aHfrDFPs/0.jpg)](https://youtu.be/hL1aHfrDFPs?si=L5XbA63_qtLzdd3z)
 
 
