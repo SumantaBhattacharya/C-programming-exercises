@@ -497,6 +497,8 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 ![alt text](image.png)
 
+[![Hough's Transform in image processing in hindi](https://img.youtube.com/vi/fiDDn_F9U74/0.jpg)](https://youtu.be/fiDDn_F9U74?si=BFzxdEiB97TNdABN)
+
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
 
 [![Hough Transform Explained with Example](https://img.youtube.com/vi/t1GXMvK9m84/0.jpg)](https://youtu.be/t1GXMvK9m84?si=vRKu8VBbBXzccjHe)
