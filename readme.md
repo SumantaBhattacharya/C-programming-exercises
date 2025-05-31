@@ -507,6 +507,8 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![What is an Edge? | Edge Detection](https://img.youtube.com/vi/G8yp6f9V_6c/0.jpg)](https://youtu.be/G8yp6f9V_6c?si=Zl9z8s3crce2NUuw)
 
+[![Edge Detection Using Gradients | Edge Detection](https://img.youtube.com/vi/lOEBsQodtEQ/0.jpg)](https://youtu.be/lOEBsQodtEQ?si=edGDVk90q7SNv7hZ)
+
 [![Hough's Transform in image processing in hindi](https://img.youtube.com/vi/fiDDn_F9U74/0.jpg)](https://youtu.be/fiDDn_F9U74?si=BFzxdEiB97TNdABN)
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
