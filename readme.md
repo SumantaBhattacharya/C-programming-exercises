@@ -528,6 +528,9 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Contrast Stretching in Image Processing | Contrast Stretching Point Processing Technique | DIP Unit 2](https://img.youtube.com/vi/jCznifrIkf0/0.jpg)](https://youtu.be/jCznifrIkf0?si=-elLmA_Ri5_QdI_J)
 
+[![Log Transformation in Image Processing | Image Processing Unit 2 | Image Processing | DIP](https://img.youtube.com/vi/eifdE-x85U4/0.jpg)](https://youtu.be/eifdE-x85U4?si=uf-73bK-afJE0WWr)
+
+
 <!-- 
 ![WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg>)
 
