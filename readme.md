@@ -531,6 +531,8 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 [![Log Transformation in Image Processing | Image Processing Unit 2 | Image Processing | DIP](https://img.youtube.com/vi/eifdE-x85U4/0.jpg)](https://youtu.be/eifdE-x85U4?si=uf-73bK-afJE0WWr)
 
 
+[![The fundamental steps in digital image processing](https://img.youtube.com/vi/8ekTeZD_lNY/0.jpg)](https://youtu.be/8ekTeZD_lNY?si=pV0cXddCtFNgtk67)
+
 <!-- 
 ![WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg>)
 
