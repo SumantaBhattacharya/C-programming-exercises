@@ -499,6 +499,7 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
 
+<<<<<<< HEAD
 # ***The description of Moore Machine in TOC with example — Finite set of states, input symbol, transition function, start state, output symbol, and output function.***
 
 [![The description of Moore Machine in TOC](https://img.youtube.com/vi/_88FzOc9GzA/0.jpg)](https://youtu.be/_88FzOc9GzA?si=GSaHn829vQ7t2sTM)
@@ -596,6 +597,10 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 
 <!-- 
+=======
+<!-- 
+
+>>>>>>> c8fa0759db1ff9c0467690af60b4e251bbcb4d06
 # ***Digital Image Processing***
 
 [![What is Computer Vision? | Introduction](https://img.youtube.com/vi/wVE8SFMSBJ0/0.jpg)](https://youtu.be/wVE8SFMSBJ0?si=wO8unJOLaw6oBYdb)
@@ -625,6 +630,14 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Contrast Stretching in Image Processing | Contrast Stretching Point Processing Technique | DIP Unit 2](https://img.youtube.com/vi/jCznifrIkf0/0.jpg)](https://youtu.be/jCznifrIkf0?si=-elLmA_Ri5_QdI_J)
 
+<<<<<<< HEAD
+=======
+[![Log Transformation in Image Processing | Image Processing Unit 2 | Image Processing | DIP](https://img.youtube.com/vi/eifdE-x85U4/0.jpg)](https://youtu.be/eifdE-x85U4?si=uf-73bK-afJE0WWr)
+
+
+[![The fundamental steps in digital image processing](https://img.youtube.com/vi/8ekTeZD_lNY/0.jpg)](https://youtu.be/8ekTeZD_lNY?si=pV0cXddCtFNgtk67)
+
+>>>>>>> c8fa0759db1ff9c0467690af60b4e251bbcb4d06
 
 ![WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg>)
 
