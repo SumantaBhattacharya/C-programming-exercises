@@ -515,6 +515,10 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![TOC: Minimization of DFA - Examples (Part 1)](https://img.youtube.com/vi/0XaGAkY09Wc/0.jpg)](https://youtu.be/0XaGAkY09Wc?si=cVwsGwFroQ6mIphu)
 
+# ***Basics of regular part | TOC | THEORY OF COMPUTATION | AUTOMATA | COMPUTER SCIENCE | part-10***
+
+[![Basics of regular part | TOC | THEORY OF COMPUTATION | AUTOMATA | COMPUTER SCIENCE | part-10](https://img.youtube.com/vi/CFa2x8QOr-8/0.jpg)](https://youtu.be/CFa2x8QOr-8?si=ndy0l5JbP0c1_6h1)
+
 
 <!-- 
 # ***Digital Image Processing***
