@@ -523,6 +523,11 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Lec-47: What is Context free grammar in TOC | Formal Definition](https://img.youtube.com/vi/SlSA9vEXCm4/0.jpg)](https://youtu.be/SlSA9vEXCm4?si=y1VmhUv0tBwXdCjw)
 
+# ***Lec-48: Convert Context free language to Context free grammar with examples | TOC***
+
+[![Lec-48: Convert Context free language to Context free grammar with examples | TOC](https://img.youtube.com/vi/eDAOxyZkl68/0.jpg)](https://youtu.be/eDAOxyZkl68?si=vFAyQislg9lIFAEN)
+
+
 <!-- 
 # ***Digital Image Processing***
 
