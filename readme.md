@@ -590,6 +590,11 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![1.4 What is Kleene Closure ∑* and Positive Closure ∑+ | Theory of Computation | Automata Theory](https://img.youtube.com/vi/u9McYuXTYVY/0.jpg)](https://youtu.be/u9McYuXTYVY?si=GmXntuM2jik_LR9K)
 
+# ***Derivation Tree (Left & Right Derivation Trees)***
+
+[![Derivation Tree (Left & Right Derivation Trees)](https://img.youtube.com/vi/u4-rpIlV9NI/0.jpg)](https://youtu.be/u4-rpIlV9NI?si=VH4fYZ1ov5Iz_BZi)
+
+
 <!-- 
 # ***Digital Image Processing***
 
