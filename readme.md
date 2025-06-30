@@ -511,6 +511,10 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![TOC: Minimization of Deterministic Finite Automata (DFA)](https://img.youtube.com/vi/hOzc4BUIXRk/0.jpg)](https://youtu.be/hOzc4BUIXRk?si=kCftEYuwh2y_feUm)
 
+# ***TOC: Minimization of DFA - Examples (Part 1)***
+
+[![TOC: Minimization of DFA - Examples (Part 1)](https://img.youtube.com/vi/0XaGAkY09Wc/0.jpg)](https://youtu.be/0XaGAkY09Wc?si=cVwsGwFroQ6mIphu)
+
 
 <!-- 
 # ***Digital Image Processing***
