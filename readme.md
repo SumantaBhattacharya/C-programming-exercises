@@ -567,6 +567,9 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Lec-51: Design PDA for 0ⁿ1²ⁿ CFL Language](https://img.youtube.com/vi/fc7wLWiDNBM/0.jpg)](https://youtu.be/fc7wLWiDNBM?si=3YtH7A0MuGIKJYMY)
 
+[![0OgKbFx3mH0](https://img.youtube.com/vi/0OgKbFx3mH0/0.jpg)](https://youtu.be/0OgKbFx3mH0?si=h-kJnXEIIwrtvgWT)
+
+
 <!-- 
 # ***Digital Image Processing***
 
