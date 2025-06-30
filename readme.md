@@ -531,6 +531,10 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Pushdown Automata (Introduction)](https://img.youtube.com/vi/4ejIAmp_Atw/0.jpg)](https://youtu.be/4ejIAmp_Atw?si=BcJVryeOC4YCTFcD)
 
+# ***Pushdown Automata (Formal Definition)***
+
+[![Pushdown Automata (Formal Definition)](https://img.youtube.com/vi/JtRyd7Svlew/0.jpg)](https://youtu.be/JtRyd7Svlew?si=aBpxRvX2c5gkg88S)
+
 <!-- 
 # ***Digital Image Processing***
 
