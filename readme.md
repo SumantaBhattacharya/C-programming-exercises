@@ -503,6 +503,12 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![The description of Moore Machine in TOC](https://img.youtube.com/vi/_88FzOc9GzA/0.jpg)](https://youtu.be/_88FzOc9GzA?si=GSaHn829vQ7t2sTM)
 
+# ***Lec-21: Mealy Machine in TOC | Formal Definition | Mealy Machine in Hindi***
+
+[![Lec-21: Mealy Machine in TOC | Formal Definition | Mealy Machine in Hindi](https://img.youtube.com/vi/kikut5SJVTE/0.jpg)](https://youtu.be/kikut5SJVTE?si=uXFwi50XE7dmiotj)
+
+
+
 <!-- 
 # ***Digital Image Processing***
 
