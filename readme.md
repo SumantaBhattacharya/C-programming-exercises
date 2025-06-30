@@ -519,6 +519,9 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Basics of regular part | TOC | THEORY OF COMPUTATION | AUTOMATA | COMPUTER SCIENCE | part-10](https://img.youtube.com/vi/CFa2x8QOr-8/0.jpg)](https://youtu.be/CFa2x8QOr-8?si=ndy0l5JbP0c1_6h1)
 
+# ***Lec-47: What is Context free grammar in TOC | Formal Definition***
+
+[![Lec-47: What is Context free grammar in TOC | Formal Definition](https://img.youtube.com/vi/SlSA9vEXCm4/0.jpg)](https://youtu.be/SlSA9vEXCm4?si=y1VmhUv0tBwXdCjw)
 
 <!-- 
 # ***Digital Image Processing***
