@@ -573,6 +573,19 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Kleene Closure | TOC | THEORY OF COMPUTATION | AUTOMATA | COMPUTER SCIENCE | part-8](https://img.youtube.com/vi/Lp_FFsY5CLw/0.jpg)](https://youtu.be/Lp_FFsY5CLw?si=5vmcNSsJp0wbz6QD)
 
+# ***Lec-4: Power of Sigma Σ in TOC | Kleene closure in TOC***
+
+[![Lec-4: Power of Sigma Σ in TOC | Kleene closure in TOC](https://img.youtube.com/vi/4Q2rE6R31GU/0.jpg)](https://youtu.be/4Q2rE6R31GU?si=Plo-QIQh7CKf21u7)
+
+**Description:**  
+"Power of Σ" refers to the expressive capabilities or computational strength of the alphabet Σ and the languages that can be constructed over that alphabet.
+
+**Topics Discussed:**
+- Introduction  
+- Power of Sigma  
+- Sigma Star (Kleene closure)  
+- Positive Closure  
+
 <!-- 
 # ***Digital Image Processing***
 
