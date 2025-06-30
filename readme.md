@@ -527,6 +527,9 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Lec-48: Convert Context free language to Context free grammar with examples | TOC](https://img.youtube.com/vi/eDAOxyZkl68/0.jpg)](https://youtu.be/eDAOxyZkl68?si=vFAyQislg9lIFAEN)
 
+# ***Pushdown Automata (Introduction)***
+
+[![Pushdown Automata (Introduction)](https://img.youtube.com/vi/4ejIAmp_Atw/0.jpg)](https://youtu.be/4ejIAmp_Atw?si=BcJVryeOC4YCTFcD)
 
 <!-- 
 # ***Digital Image Processing***
