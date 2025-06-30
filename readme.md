@@ -507,6 +507,9 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Lec-21: Mealy Machine in TOC | Formal Definition | Mealy Machine in Hindi](https://img.youtube.com/vi/kikut5SJVTE/0.jpg)](https://youtu.be/kikut5SJVTE?si=uXFwi50XE7dmiotj)
 
+# ***TOC: Minimization of Deterministic Finite Automata (DFA) in Theory of Computation — Minimization process, need for minimization, and equivalence of states.***
+
+[![TOC: Minimization of Deterministic Finite Automata (DFA)](https://img.youtube.com/vi/hOzc4BUIXRk/0.jpg)](https://youtu.be/hOzc4BUIXRk?si=kCftEYuwh2y_feUm)
 
 
 <!-- 
