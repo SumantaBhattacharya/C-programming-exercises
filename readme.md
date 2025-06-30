@@ -559,6 +559,11 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![9.4 aⁿbⁿ example | Pushdown Automata | Design PDA in Theory Of Computation | Automata Theory](https://img.youtube.com/vi/vClPjqb2rAY/0.jpg)](https://youtu.be/vClPjqb2rAY?si=Uqt-_P4s5dNX2Chh)
 
+# ***Lec-51: Design PDA for 0ⁿ1²ⁿ CFL Language***
+
+[![Lec-51: Design PDA for 0ⁿ1²ⁿ CFL Language](https://img.youtube.com/vi/fc7wLWiDNBM/0.jpg)](https://youtu.be/fc7wLWiDNBM?si=3YtH7A0MuGIKJYMY)
+
+
 <!-- 
 # ***Digital Image Processing***
 
