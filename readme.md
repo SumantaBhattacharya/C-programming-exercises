@@ -539,6 +539,22 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![TOC: Pushdown Automata (Graphical Notation)](https://img.youtube.com/vi/eY7fwj5jvC4/0.jpg)](https://youtu.be/eY7fwj5jvC4?si=TnaLdl3j3ONPAzhe)
 
+**Topics Discussed:**
+1. Graphical notation of pushdown automata  
+2. Input symbol  
+3. Pop and push symbols  
+4. Example of PDA construction  
+
+# ***TOC: Pushdown Automata Example – Even Palindrome (Part 1)***
+
+[![TOC: Pushdown Automata Example – Even Palindrome (Part 1)](https://img.youtube.com/vi/TEQcJybMMFU/0.jpg)](https://youtu.be/TEQcJybMMFU?si=ceWxcJTeC4i-17eF)
+
+**Topics Discussed:**
+1. Construction of PDA that accepts even palindromes over the symbols {a, b}  
+2. Palindromes  
+3. Palindrome examples  
+4. Even and odd palindromes  
+
 
 <!-- 
 # ***Digital Image Processing***
