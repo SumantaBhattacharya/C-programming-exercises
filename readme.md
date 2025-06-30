@@ -569,6 +569,9 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![0OgKbFx3mH0](https://img.youtube.com/vi/0OgKbFx3mH0/0.jpg)](https://youtu.be/0OgKbFx3mH0?si=h-kJnXEIIwrtvgWT)
 
+# ***Kleene Closure | TOC | THEORY OF COMPUTATION | AUTOMATA | COMPUTER SCIENCE | part-8***
+
+[![Kleene Closure | TOC | THEORY OF COMPUTATION | AUTOMATA | COMPUTER SCIENCE | part-8](https://img.youtube.com/vi/Lp_FFsY5CLw/0.jpg)](https://youtu.be/Lp_FFsY5CLw?si=5vmcNSsJp0wbz6QD)
 
 <!-- 
 # ***Digital Image Processing***
