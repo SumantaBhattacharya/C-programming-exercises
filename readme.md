@@ -586,6 +586,10 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 - Sigma Star (Kleene closure)  
 - Positive Closure  
 
+# ***1.4 What is Kleene Closure ∑* and Positive Closure ∑+ | Theory of Computation | Automata Theory***
+
+[![1.4 What is Kleene Closure ∑* and Positive Closure ∑+ | Theory of Computation | Automata Theory](https://img.youtube.com/vi/u9McYuXTYVY/0.jpg)](https://youtu.be/u9McYuXTYVY?si=GmXntuM2jik_LR9K)
+
 <!-- 
 # ***Digital Image Processing***
 
