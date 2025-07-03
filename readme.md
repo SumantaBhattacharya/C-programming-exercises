@@ -614,8 +614,9 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![3.13 Practice Problem for NFA to DFA Conversion In Hindi | Practice Question for NFA to DFA | TOC](https://img.youtube.com/vi/SKz4A4wUc68/0.jpg)](https://youtu.be/SKz4A4wUc68?si=w_qZcVg6Q3S9J803)
 
+# ***TOC: Minimization of DFA - Examples (Part 2)***
 
-
+[![TOC: Minimization of DFA - Examples (Part 2)](https://img.youtube.com/vi/ex9sPLq5CRg/0.jpg)](https://youtu.be/ex9sPLq5CRg?si=VkqK96IS7qXWAyiL)
 
 <!-- 
 # ***Digital Image Processing***
