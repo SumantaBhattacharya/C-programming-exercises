@@ -610,6 +610,13 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Check Whether the Given Grammar is Ambiguous or Not](https://img.youtube.com/vi/xkyCnzDCfGw/0.jpg)](https://youtu.be/xkyCnzDCfGw?si=ClRxnOxztLHioKH1)
 
+# ***3.13 Practice Problem for NFA to DFA Conversion In Hindi | Practice Question for NFA to DFA | TOC***
+
+[![3.13 Practice Problem for NFA to DFA Conversion In Hindi | Practice Question for NFA to DFA | TOC](https://img.youtube.com/vi/SKz4A4wUc68/0.jpg)](https://youtu.be/SKz4A4wUc68?si=w_qZcVg6Q3S9J803)
+
+
+
+
 <!-- 
 # ***Digital Image Processing***
 
