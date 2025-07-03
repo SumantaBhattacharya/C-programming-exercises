@@ -626,6 +626,10 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![6.8 Problem Solving on Regular Grammar | Important PYQs on Regular Grammar | Theory of Computation](https://img.youtube.com/vi/9JtmTDrMUZU/0.jpg)](https://youtu.be/9JtmTDrMUZU?si=VMDPfgp0CKbSQqfu)
 
+# ***Grammar Production Rules and Different Types | Theory of Computation***
+
+[![Grammar Production Rules and Different Types | Theory of Computation](https://img.youtube.com/vi/8Th7KB0uEqs/0.jpg)](https://youtu.be/8Th7KB0uEqs?si=n-FH7ASpSm9Z1Bsh)
+
 <!-- 
 # ***Digital Image Processing***
 
