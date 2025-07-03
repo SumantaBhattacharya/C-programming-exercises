@@ -630,6 +630,10 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Grammar Production Rules and Different Types | Theory of Computation](https://img.youtube.com/vi/8Th7KB0uEqs/0.jpg)](https://youtu.be/8Th7KB0uEqs?si=n-FH7ASpSm9Z1Bsh)
 
+# ***2.2 How to Design Deterministic Finite Automata (DFA) | Theory of Computation | Automata Theory***
+
+[![2.2 How to Design Deterministic Finite Automata (DFA) | Theory of Computation | Automata Theory](https://img.youtube.com/vi/00cXiux2Kjk/0.jpg)](https://youtu.be/00cXiux2Kjk?si=uachjn4yzoy3QgPZ)
+
 # ***Lec-12: DFA of all binary strings divisible by 3 | DFA Example 5***
 
 [![Lec-12: DFA of all binary strings divisible by 3 | DFA Example 5](https://img.youtube.com/vi/DNDQdd4VLR4/0.jpg)](https://youtu.be/DNDQdd4VLR4?si=wlsl9jXM-ncFAYUV)
