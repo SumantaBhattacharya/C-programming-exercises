@@ -606,6 +606,10 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Check Whether Grammar is Ambiguous or Not](https://img.youtube.com/vi/WYkALp7lnTs/0.jpg)](https://youtu.be/WYkALp7lnTs?si=G5vFD3AgrmiQjOnT)
 
+# ***Check Whether the Given Grammar is Ambiguous or Not***
+
+[![Check Whether the Given Grammar is Ambiguous or Not](https://img.youtube.com/vi/xkyCnzDCfGw/0.jpg)](https://youtu.be/xkyCnzDCfGw?si=ClRxnOxztLHioKH1)
+
 <!-- 
 # ***Digital Image Processing***
 
