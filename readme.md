@@ -499,7 +499,6 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Finding the input sequence](https://img.youtube.com/vi/vIwxS-sG8-4/maxresdefault.jpg)](https://youtu.be/vIwxS-sG8-4?si=tPgB-Rm-Cl8eiflH)
 
-<<<<<<< HEAD
 # ***The description of Moore Machine in TOC with example — Finite set of states, input symbol, transition function, start state, output symbol, and output function.***
 
 [![The description of Moore Machine in TOC](https://img.youtube.com/vi/_88FzOc9GzA/0.jpg)](https://youtu.be/_88FzOc9GzA?si=GSaHn829vQ7t2sTM)
@@ -595,12 +594,13 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Derivation Tree (Left & Right Derivation Trees)](https://img.youtube.com/vi/u4-rpIlV9NI/0.jpg)](https://youtu.be/u4-rpIlV9NI?si=VH4fYZ1ov5Iz_BZi)
 
+# ***TOC: Ambiguous Grammar | Ambiguous Grammars and Example***
+
+[![TOC: Ambiguous Grammar | Ambiguous Grammars and Example](https://img.youtube.com/vi/wQjppolFdas/0.jpg)](https://youtu.be/wQjppolFdas?si=pDC4cP9vFQkIMKdL)
+
+
 
 <!-- 
-=======
-<!-- 
-
->>>>>>> c8fa0759db1ff9c0467690af60b4e251bbcb4d06
 # ***Digital Image Processing***
 
 [![What is Computer Vision? | Introduction](https://img.youtube.com/vi/wVE8SFMSBJ0/0.jpg)](https://youtu.be/wVE8SFMSBJ0?si=wO8unJOLaw6oBYdb)
