@@ -678,6 +678,9 @@ Here is the text from the image exactly as it appears:
 
 [![Solutions of Mock Test Results | C Programming | JECA Exam Preparation 2025](https://img.youtube.com/vi/P3giFSZzfr4/0.jpg)](https://youtu.be/P3giFSZzfr4?si=ppCgSlsKuFTgj1UB)
 
+# ***Important JECA 50 MCQ Questions & Answers for DBMS | JECA Exam 2025 Preparation***
+
+[![Important JECA 50 MCQ Questions & Answers for DBMS | JECA Exam 2025 Preparation](https://img.youtube.com/vi/nkSYa-0aar8/0.jpg)](https://youtu.be/nkSYa-0aar8?si=nshli2kyKiqcNiVZ)
 
 # ***MCA***
  
