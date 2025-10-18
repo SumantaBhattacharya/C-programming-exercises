@@ -4,5 +4,5 @@
   int a = 40; 
   float b; 
   b = ++a; 
-  printf(“%d, %f”, a, ++b); 
+  printf("%d, %f", a, ++b); 
  } 
