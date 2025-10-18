@@ -682,6 +682,10 @@ Here is the text from the image exactly as it appears:
 
 [![Important JECA 50 MCQ Questions & Answers for DBMS | JECA Exam 2025 Preparation](https://img.youtube.com/vi/nkSYa-0aar8/0.jpg)](https://youtu.be/nkSYa-0aar8?si=nshli2kyKiqcNiVZ)
 
+# ***JECA 50 C++ Important MCQ Questions & Answers | JECA Exam 2025 Preparation***
+
+[![JECA 50 C++ Important MCQ Questions & Answers | JECA Exam 2025 Preparation](https://img.youtube.com/vi/9qargAd4aaU/0.jpg)](https://youtu.be/9qargAd4aaU?si=IUkY0HIoggAy0Rs3)
+
 # ***MCA***
  
 - ***Can be two to three years***
@@ -767,14 +771,6 @@ Here is the text from the image exactly as it appears:
 
 [![Contrast Stretching in Image Processing | Contrast Stretching Point Processing Technique | DIP Unit 2](https://img.youtube.com/vi/jCznifrIkf0/0.jpg)](https://youtu.be/jCznifrIkf0?si=-elLmA_Ri5_QdI_J)
 
-<<<<<<< HEAD
-=======
-[![Log Transformation in Image Processing | Image Processing Unit 2 | Image Processing | DIP](https://img.youtube.com/vi/eifdE-x85U4/0.jpg)](https://youtu.be/eifdE-x85U4?si=uf-73bK-afJE0WWr)
-
-
-[![The fundamental steps in digital image processing](https://img.youtube.com/vi/8ekTeZD_lNY/0.jpg)](https://youtu.be/8ekTeZD_lNY?si=pV0cXddCtFNgtk67)
-
->>>>>>> c8fa0759db1ff9c0467690af60b4e251bbcb4d06
 
 ![WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg](<DIP_images/WhatsApp Image 2025-05-11 at 09.38.39_8dcc5db4.jpg>)
 
