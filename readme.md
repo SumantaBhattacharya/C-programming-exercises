@@ -638,7 +638,7 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Lec-12: DFA of all binary strings divisible by 3 | DFA Example 5](https://img.youtube.com/vi/DNDQdd4VLR4/0.jpg)](https://youtu.be/DNDQdd4VLR4?si=wlsl9jXM-ncFAYUV)
 
-<<<<<<< HEAD
+
 <h1 style="color: #FEDE00; font-family: Arial, sans-serif; font-weight: bold; font-size: 40px; text-decoration: underline;">
   Software Engineering
 </h1>
