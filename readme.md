@@ -638,6 +638,33 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Lec-12: DFA of all binary strings divisible by 3 | DFA Example 5](https://img.youtube.com/vi/DNDQdd4VLR4/0.jpg)](https://youtu.be/DNDQdd4VLR4?si=wlsl9jXM-ncFAYUV)
 
+<h1 style="color: #FEDE00; font-family: Arial, sans-serif; font-weight: bold; font-size: 40px; text-decoration: underline;">
+  Software Engineering
+</h1>
+
+
+# ***1.6 Software Development Life Cycle | Waterfall Model | Software Engineering***
+
+[![1.6 Software Development Life Cycle | Waterfall Model | Software Engineering](https://img.youtube.com/vi/xNwtCtxfSuM/0.jpg)](https://youtu.be/xNwtCtxfSuM?si=hDPuCdeX1dZ8XQUk)
+
+> Software development organization follows some process when developing a s/w product, in mature organization this is well defined and managed. In SDLC we development s/w in a systematic and disciplined manner.
+
+> SDLC will define entry and exit for every stage. It makes assessment possible, time prediction, cost prediction, scheduling, to identify faults early possible.
+
+> Selection of a correct development model play an important role in cost, quality, overall success of the project.
+
+Here is the text from the image exactly as it appears:
+
+---
+
+**Waterfall Model**
+
+* Developed in the 1970s by Winston W. Royce.
+
+* Inspired by manufacturing and construction processes, where each step relies on the completion of the previous one.
+
+
+
 <!-- 
 # ***Digital Image Processing***
 
