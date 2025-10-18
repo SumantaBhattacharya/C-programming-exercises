@@ -665,7 +665,7 @@ Here is the text from the image exactly as it appears:
 * Inspired by manufacturing and construction processes, where each step relies on the completion of the previous one.
 
 
-=======
+
 # ***C Programming Most Important MCQ For JECA 2022 [PART-1] | MCQ For JECA 2022 | JECA Exam***
 
 [![C Programming Most Important MCQ For JECA 2022 [PART-1] | MCQ For JECA 2022 | JECA Exam](https://img.youtube.com/vi/kIO31GoN_40/0.jpg)](https://youtu.be/kIO31GoN_40?si=hOSdUGxpzf2YJUVv)
@@ -725,7 +725,6 @@ Here is the text from the image exactly as it appears:
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
->>>>>>> 124b6dfee762107bb2b62950c9e47d64cf86fcbf
 
 <!-- 
 # ***Digital Image Processing***
