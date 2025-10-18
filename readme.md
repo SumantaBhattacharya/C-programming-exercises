@@ -670,6 +670,10 @@ Here is the text from the image exactly as it appears:
 
 [![C Programming Most Important MCQ For JECA 2022 [PART-1] | MCQ For JECA 2022 | JECA Exam](https://img.youtube.com/vi/kIO31GoN_40/0.jpg)](https://youtu.be/kIO31GoN_40?si=hOSdUGxpzf2YJUVv)
 
+# ***Solutions of Mock Test Results | C Programming | JECA Exam Preparation 2025***
+
+[![Solutions of Mock Test Results | C Programming | JECA Exam Preparation 2025](https://img.youtube.com/vi/P3giFSZzfr4/0.jpg)](https://youtu.be/P3giFSZzfr4?si=ppCgSlsKuFTgj1UB)
+
 
 # ***MCA***
  
