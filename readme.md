@@ -638,6 +638,7 @@ The concept of Pumping Lemma, which is used to prove that a language is **not re
 
 [![Lec-12: DFA of all binary strings divisible by 3 | DFA Example 5](https://img.youtube.com/vi/DNDQdd4VLR4/0.jpg)](https://youtu.be/DNDQdd4VLR4?si=wlsl9jXM-ncFAYUV)
 
+<<<<<<< HEAD
 <h1 style="color: #FEDE00; font-family: Arial, sans-serif; font-weight: bold; font-size: 40px; text-decoration: underline;">
   Software Engineering
 </h1>
@@ -664,6 +665,67 @@ Here is the text from the image exactly as it appears:
 * Inspired by manufacturing and construction processes, where each step relies on the completion of the previous one.
 
 
+=======
+# ***C Programming Most Important MCQ For JECA 2022 [PART-1] | MCQ For JECA 2022 | JECA Exam***
+
+[![C Programming Most Important MCQ For JECA 2022 [PART-1] | MCQ For JECA 2022 | JECA Exam](https://img.youtube.com/vi/kIO31GoN_40/0.jpg)](https://youtu.be/kIO31GoN_40?si=hOSdUGxpzf2YJUVv)
+
+
+# ***MCA***
+ 
+- ***Can be two to three years***
+- ***Going to be held on 30 june***
+- ***Timing around 2hrs***
+
+## ***Analysis of question***
+
+- ***Total number of questions = 100***
+
+- ***Total marks = 120***
+
+- ***There are two categories***
+
+### ***Category-1***
+
+- 80 ***MCQ Questions***
+
+- ***With 4 Options***
+
+- ***Carries 1 mark each***
+
+- ***Will be carrying Nagative marks***
+  - 1/4 = 0.25 = 25%
+
+- ***Only one could be correct***
+
+### ***Category-2***
+
+- 20 ***MCQ Questions***
+
+- ***With 4 Options***
+
+- ***Carries 2 mark each***
+
+- ***Will be carrying no Nagative marking***
+
+- ***Multiple options could be correct***
+
+## ***Syllabus***
+
+- ***C programming***
+- ***OOPS***
+- ***Computer Networks***
+- ***OS***
+- ***Computer Archetechture***
+- ***DSA***
+- ***DBMS***
+- ***Software Engineering***
+- ***Machine Learning***
+
+# ***Certificate of Participation***
+
+[![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
+>>>>>>> 124b6dfee762107bb2b62950c9e47d64cf86fcbf
 
 <!-- 
 # ***Digital Image Processing***
