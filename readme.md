@@ -686,7 +686,13 @@ Here is the text from the image exactly as it appears:
 
 [![JECA 50 C++ Important MCQ Questions & Answers | JECA Exam 2025 Preparation](https://img.youtube.com/vi/9qargAd4aaU/0.jpg)](https://youtu.be/9qargAd4aaU?si=IUkY0HIoggAy0Rs3)
 
+# ***JECA Top 25 Important MCQs on Object Oriented Programming in C++ | OOPs in C++***
+
 [![JECA Top 25 Important MCQs on Object Oriented Programming in C++ | OOPs in C++](https://img.youtube.com/vi/ig4liEW_fqc/0.jpg)](https://youtu.be/ig4liEW_fqc?si=WgJdrrK-O6b2Fr_a)
+
+# ***Important JECA 50 MCQ Questions & Answers for Software Engineering | JECA Exam 2025 Preparation***
+
+[![Important JECA 50 MCQ Questions & Answers for Software Engineering | JECA Exam 2025 Preparation](https://img.youtube.com/vi/IYkzJ5m6Tnw/0.jpg)](https://youtu.be/IYkzJ5m6Tnw?si=vUaRtm_I5NMfDUyu)
 
 # ***MCA***
  
