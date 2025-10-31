@@ -686,6 +686,8 @@ Here is the text from the image exactly as it appears:
 
 [![JECA 50 C++ Important MCQ Questions & Answers | JECA Exam 2025 Preparation](https://img.youtube.com/vi/9qargAd4aaU/0.jpg)](https://youtu.be/9qargAd4aaU?si=IUkY0HIoggAy0Rs3)
 
+[![JECA Top 25 Important MCQs on Object Oriented Programming in C++ | OOPs in C++](https://img.youtube.com/vi/ig4liEW_fqc/0.jpg)](https://youtu.be/ig4liEW_fqc?si=WgJdrrK-O6b2Fr_a)
+
 # ***MCA***
  
 - ***Can be two to three years***
@@ -740,8 +742,6 @@ Here is the text from the image exactly as it appears:
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
-
-[![JECA Top 25 Important MCQs on Object Oriented Programming in C++ | OOPs in C++](https://img.youtube.com/vi/ig4liEW_fqc/0.jpg)](https://youtu.be/ig4liEW_fqc?si=WgJdrrK-O6b2Fr_a)
 
 <!-- 
 # ***Digital Image Processing***
