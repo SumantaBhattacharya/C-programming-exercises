@@ -741,6 +741,8 @@ Here is the text from the image exactly as it appears:
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
 
+[![JECA Top 25 Important MCQs on Object Oriented Programming in C++ | OOPs in C++](https://img.youtube.com/vi/ig4liEW_fqc/0.jpg)](https://youtu.be/ig4liEW_fqc?si=WgJdrrK-O6b2Fr_a)
+
 <!-- 
 # ***Digital Image Processing***
 
