@@ -698,6 +698,10 @@ Here is the text from the image exactly as it appears:
 
 [![Important UNIX MCQ Questions & Answers for JECA Exam Preparation | JECA 2025](https://img.youtube.com/vi/2N_ZZY_NuRc/0.jpg)](https://youtu.be/2N_ZZY_NuRc?si=NsKBR5k1n2w91RkD)
 
+# ***JECA Important NETWORK MCQ Questions & Answers for JECA EXAM | JECA 2025***
+
+[![JECA Important NETWORK MCQ Questions & Answers for JECA EXAM | JECA 2025](https://img.youtube.com/vi/i3XrDUg31R4/0.jpg)](https://youtu.be/i3XrDUg31R4?si=4CO7FL1qNlZmLYah)
+
 # ***MCA***
  
 - ***Can be two to three years***
