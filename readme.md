@@ -694,6 +694,10 @@ Here is the text from the image exactly as it appears:
 
 [![Important JECA 50 MCQ Questions & Answers for Software Engineering | JECA Exam 2025 Preparation](https://img.youtube.com/vi/IYkzJ5m6Tnw/0.jpg)](https://youtu.be/IYkzJ5m6Tnw?si=vUaRtm_I5NMfDUyu)
 
+# ***Important UNIX MCQ Questions & Answers for JECA Exam Preparation | JECA 2025***
+
+[![Important UNIX MCQ Questions & Answers for JECA Exam Preparation | JECA 2025](https://img.youtube.com/vi/2N_ZZY_NuRc/0.jpg)](https://youtu.be/2N_ZZY_NuRc?si=NsKBR5k1n2w91RkD)
+
 # ***MCA***
  
 - ***Can be two to three years***
