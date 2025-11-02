@@ -702,6 +702,10 @@ Here is the text from the image exactly as it appears:
 
 [![JECA Important NETWORK MCQ Questions & Answers for JECA EXAM | JECA 2025](https://img.youtube.com/vi/i3XrDUg31R4/0.jpg)](https://youtu.be/i3XrDUg31R4?si=4CO7FL1qNlZmLYah)
 
+# ***JECA 50 Important MCQ Questions & Answers for Machine Learning | JECA Exam 2025 Preparation***
+
+[![JECA 50 Important MCQ Questions & Answers for Machine Learning | JECA Exam 2025 Preparation](https://img.youtube.com/vi/G3_pdNfn-Uo/0.jpg)](https://youtu.be/G3_pdNfn-Uo?si=R8HkbWRfALoIQeeM)
+
 # ***MCA***
  
 - ***Can be two to three years***
