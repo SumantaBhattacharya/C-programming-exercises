@@ -15,6 +15,9 @@
 # ***#4: Get User Input in C Programming***  
 [![#4: Get User Input in C Programming](https://img.youtube.com/vi/17gp5DJEyiw/0.jpg)](https://youtu.be/17gp5DJEyiw?si=MegWV2vALpD9jJdy)
 
+# ***#5: Comments in C Programming | C Programming for Beginners***  
+[![#5: Comments in C Programming | C Programming for Beginners](https://img.youtube.com/vi/L2H2rtCLB-0/0.jpg)](https://youtu.be/L2H2rtCLB-0?si=mb60Og3ZMhqxQMM4)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
