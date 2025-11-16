@@ -4,6 +4,9 @@
 
 [![Getting Started with C Programming | C Programming for Beginners](https://img.youtube.com/vi/KnvbUiSxvbM/0.jpg)](https://youtu.be/KnvbUiSxvbM?si=KHH5YlK5jjFIlLuk)
 
+# ***#2: C Variables and Print Output | [2025] C Programming for Beginners***  
+[![#2: C Variables and Print Output | [2025] C Programming for Beginners](https://img.youtube.com/vi/h4VBpylsjJc/0.jpg)](https://youtu.be/h4VBpylsjJc?si=3x0GZjAQZ0Qxu9aU)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
