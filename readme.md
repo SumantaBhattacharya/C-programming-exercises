@@ -6,11 +6,14 @@
 
 # ***#2: C Variables and Print Output | C Programming for Beginners***  
 
-[![#2: C Variables and Print Output | [2025] C Programming for Beginners](https://img.youtube.com/vi/h4VBpylsjJc/0.jpg)](https://youtu.be/h4VBpylsjJc?si=3x0GZjAQZ0Qxu9aU)
+[![#2: C Variables and Print Output | C Programming for Beginners](https://img.youtube.com/vi/h4VBpylsjJc/0.jpg)](https://youtu.be/h4VBpylsjJc?si=3x0GZjAQZ0Qxu9aU)
 
 # ***#3: Data Types in C Programming | C Programming for Beginners***  
 
-[![#3: Data Types in C Programming | [2025] C Programming for Beginners](https://img.youtube.com/vi/sARaqR0hRI4/0.jpg)](https://youtu.be/sARaqR0hRI4?si=3JF81emkAwDw1u3W)
+[![#3: Data Types in C Programming | C Programming for Beginners](https://img.youtube.com/vi/sARaqR0hRI4/0.jpg)](https://youtu.be/sARaqR0hRI4?si=3JF81emkAwDw1u3W)
+
+# ***#4: Get User Input in C Programming***  
+[![#4: Get User Input in C Programming](https://img.youtube.com/vi/17gp5DJEyiw/0.jpg)](https://youtu.be/17gp5DJEyiw?si=MegWV2vALpD9jJdy)
 
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
