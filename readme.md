@@ -1,5 +1,9 @@
 <!-- my first programming language which i leaned on the 1st year of my graduation -->
 
+# ***#1: Getting Started with C Programming| C Programming for Beginners***  
+
+[![Getting Started with C Programming | C Programming for Beginners](https://img.youtube.com/vi/KnvbUiSxvbM/0.jpg)](https://youtu.be/KnvbUiSxvbM?si=KHH5YlK5jjFIlLuk)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
@@ -113,7 +117,6 @@ unsigned long int - %lu
 unsigned long long int - %llu
 double - %lf
 ```
-
 
 ---
 
