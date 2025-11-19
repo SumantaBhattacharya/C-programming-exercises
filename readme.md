@@ -32,6 +32,10 @@
 
 [![#8: Boolean and Comparison Operators in C Programming](https://img.youtube.com/vi/TybmJxXRV80/0.jpg)](https://youtu.be/TybmJxXRV80?si=EKttYYo9-JjlcPu4)
 
+# ***#9: If Else Statements in C | C Programming for Beginners***  
+
+[![#9: If Else Statements in C | C Programming for Beginners](https://img.youtube.com/vi/K8mntKyBJGc/0.jpg)](https://youtu.be/K8mntKyBJGc?si=38__svvQ5WoTnDZb)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
