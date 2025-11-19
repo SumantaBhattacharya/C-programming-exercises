@@ -24,6 +24,10 @@
 
 [![#6: C Operators | C Programming for Beginners](https://img.youtube.com/vi/_57FcSBtJNU/0.jpg)](https://youtu.be/_57FcSBtJNU?si=dYFSinNTynC3P2YM)
 
+# ***#7: Type Conversion in C | Implicit and Explicit Type Conversion***
+
+[![#7: Type Conversion in C | Implicit and Explicit Type Conversion](https://img.youtube.com/vi/xi2wf0Zy2Y4/0.jpg)](https://youtu.be/xi2wf0Zy2Y4?si=YbWoSBbHtlKZPYHl)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
