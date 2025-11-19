@@ -40,6 +40,10 @@
 
 [![#10: Ternary Operator in C | C Programming for Beginners](https://img.youtube.com/vi/05xv2nMj6Ls/0.jpg)](https://youtu.be/05xv2nMj6Ls?si=v6lijDaitaXyaGtz)
 
+# ***#12: while Loop in C Programming | C Programming for Beginners***  
+
+[![#12: while Loop in C Programming | C Programming for Beginners](https://img.youtube.com/vi/WgS_SF1VrEk/0.jpg)](https://youtu.be/WgS_SF1VrEk?si=Wup6uHC2rIo-DjTg)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
