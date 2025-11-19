@@ -28,6 +28,10 @@
 
 [![#7: Type Conversion in C | Implicit and Explicit Type Conversion](https://img.youtube.com/vi/xi2wf0Zy2Y4/0.jpg)](https://youtu.be/xi2wf0Zy2Y4?si=YbWoSBbHtlKZPYHl)
 
+# ***#8: Boolean and Comparison Operators in C Programming***  
+
+[![#8: Boolean and Comparison Operators in C Programming](https://img.youtube.com/vi/TybmJxXRV80/0.jpg)](https://youtu.be/TybmJxXRV80?si=EKttYYo9-JjlcPu4)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
