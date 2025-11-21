@@ -56,6 +56,10 @@
 
 [![#17: C Standard Library Functions | C Programming For Beginners](https://img.youtube.com/vi/OJvwk3pLK34/0.jpg)](https://youtu.be/OJvwk3pLK34?si=ViBi6XSisPJ8pPEK)
 
+# ***[#18: C Recursion | C Programming For Beginners](https://youtu.be/61T0cZ8KyGM?si=C5Zj1O1k9x_x6AcH)*** 
+
+[![#18: C Recursion | C Programming For Beginners](https://img.youtube.com/vi/61T0cZ8KyGM/0.jpg)](https://youtu.be/61T0cZ8KyGM?si=C5Zj1O1k9x_x6AcH)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
