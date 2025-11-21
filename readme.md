@@ -60,6 +60,10 @@
 
 [![#18: C Recursion | C Programming For Beginners](https://img.youtube.com/vi/61T0cZ8KyGM/0.jpg)](https://youtu.be/61T0cZ8KyGM?si=C5Zj1O1k9x_x6AcH)
 
+# ***[#19: C Arrays | [2025] C Programming For Beginners](https://youtu.be/MOeGnamlUP4?si=do5QK9yROYMkiVmm)*** 
+
+[![#19: C Arrays | [2025] C Programming For Beginners](https://img.youtube.com/vi/MOeGnamlUP4/0.jpg)](https://youtu.be/MOeGnamlUP4?si=do5QK9yROYMkiVmm)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
