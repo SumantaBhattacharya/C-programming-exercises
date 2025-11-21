@@ -52,6 +52,10 @@
 
 [![#16: C Variable Scope | C Programming For Beginners](https://img.youtube.com/vi/ej-GOnj7mj0/0.jpg)](https://youtu.be/ej-GOnj7mj0?si=93SOTmCZztslfONh)
 
+# ***#17: C Standard Library Functions | C Programming For Beginners***  
+
+[![#17: C Standard Library Functions | C Programming For Beginners](https://img.youtube.com/vi/OJvwk3pLK34/0.jpg)](https://youtu.be/OJvwk3pLK34?si=ViBi6XSisPJ8pPEK)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
