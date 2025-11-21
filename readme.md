@@ -44,6 +44,10 @@
 
 [![#12: while Loop in C Programming | C Programming for Beginners](https://img.youtube.com/vi/WgS_SF1VrEk/0.jpg)](https://youtu.be/WgS_SF1VrEk?si=Wup6uHC2rIo-DjTg)
 
+# ***#15: C Functions | C Programming for Beginners*** 
+
+[![#15: C Functions | C Programming for Beginners](https://img.youtube.com/vi/Npo1u37lcg8/0.jpg)](https://youtu.be/Npo1u37lcg8?si=mhr494BN1sHMd0X5)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
