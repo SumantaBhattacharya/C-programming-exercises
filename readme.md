@@ -68,9 +68,13 @@
 
 [![#20: C Multidimensional Arrays | C Programming For Beginners](https://img.youtube.com/vi/ATA6dYDz954/0.jpg)](https://youtu.be/ATA6dYDz954?si=SWC_4iTS5N5HPZjB)
 
-# ***[#21: C Strings | [2025] C Programming For Beginners](https://youtu.be/l7zI3nswO1g?si=igMY4EKVmFuiFy3Z)***  
+# ***[#21: C Strings | C Programming For Beginners](https://youtu.be/l7zI3nswO1g?si=igMY4EKVmFuiFy3Z)***  
 
-[![#21: C Strings | [2025] C Programming For Beginners](https://img.youtube.com/vi/l7zI3nswO1g/0.jpg)](https://youtu.be/l7zI3nswO1g?si=igMY4EKVmFuiFy3Z)
+[![#21: C Strings | C Programming For Beginners](https://img.youtube.com/vi/l7zI3nswO1g/0.jpg)](https://youtu.be/l7zI3nswO1g?si=igMY4EKVmFuiFy3Z)
+
+# ***[#22: C String Functions | C Programming For Beginners](https://youtu.be/XdnmsKUvGsc?si=3RWyMW9CTA7DQo9t)***  
+
+[![#22: C String Functions | C Programming For Beginners](https://img.youtube.com/vi/XdnmsKUvGsc/0.jpg)](https://youtu.be/XdnmsKUvGsc?si=3RWyMW9CTA7DQo9t)
 
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
