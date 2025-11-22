@@ -76,6 +76,10 @@
 
 [![#22: C String Functions | C Programming For Beginners](https://img.youtube.com/vi/XdnmsKUvGsc/0.jpg)](https://youtu.be/XdnmsKUvGsc?si=3RWyMW9CTA7DQo9t)
 
+# ***[#23: C Pointers | C Programming For Beginners](https://youtu.be/KGhacRRMnDw?si=i6wnEDKkWQLMl8ZH)***  
+
+[![#23: C Pointers | C Programming For Beginners](https://img.youtube.com/vi/KGhacRRMnDw/0.jpg)](https://youtu.be/KGhacRRMnDw?si=i6wnEDKkWQLMl8ZH)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
