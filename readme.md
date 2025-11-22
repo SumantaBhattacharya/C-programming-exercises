@@ -64,6 +64,10 @@
 
 [![#19: C Arrays | [2025] C Programming For Beginners](https://img.youtube.com/vi/MOeGnamlUP4/0.jpg)](https://youtu.be/MOeGnamlUP4?si=do5QK9yROYMkiVmm)
 
+# ***[#20: C Multidimensional Arrays | C Programming For Beginners](https://youtu.be/ATA6dYDz954?si=SWC_4iTS5N5HPZjB)***  
+
+[![#20: C Multidimensional Arrays | C Programming For Beginners](https://img.youtube.com/vi/ATA6dYDz954/0.jpg)](https://youtu.be/ATA6dYDz954?si=SWC_4iTS5N5HPZjB)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
