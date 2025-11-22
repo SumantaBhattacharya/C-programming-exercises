@@ -80,6 +80,10 @@
 
 [![#23: C Pointers | C Programming For Beginners](https://img.youtube.com/vi/KGhacRRMnDw/0.jpg)](https://youtu.be/KGhacRRMnDw?si=i6wnEDKkWQLMl8ZH)
 
+# ***[#24: C Pointers and Arrays | C Programming For Beginners](https://youtu.be/LscgaBzlGdE?si=Ol3jqsx6BZaO15Bs)*** 
+
+[![#24: C Pointers and Arrays | C Programming For Beginners](https://img.youtube.com/vi/LscgaBzlGdE/0.jpg)](https://youtu.be/LscgaBzlGdE?si=Ol3jqsx6BZaO15Bs)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
