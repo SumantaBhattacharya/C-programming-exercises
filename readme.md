@@ -1,5 +1,89 @@
 <!-- my first programming language which i leaned on the 1st year of my graduation -->
 
+# ***#1: Getting Started with C Programming| C Programming for Beginners***  
+
+[![Getting Started with C Programming | C Programming for Beginners](https://img.youtube.com/vi/KnvbUiSxvbM/0.jpg)](https://youtu.be/KnvbUiSxvbM?si=KHH5YlK5jjFIlLuk)
+
+# ***#2: C Variables and Print Output | C Programming for Beginners***  
+
+[![#2: C Variables and Print Output | C Programming for Beginners](https://img.youtube.com/vi/h4VBpylsjJc/0.jpg)](https://youtu.be/h4VBpylsjJc?si=3x0GZjAQZ0Qxu9aU)
+
+# ***#3: Data Types in C Programming | C Programming for Beginners***  
+
+[![#3: Data Types in C Programming | C Programming for Beginners](https://img.youtube.com/vi/sARaqR0hRI4/0.jpg)](https://youtu.be/sARaqR0hRI4?si=3JF81emkAwDw1u3W)
+
+# ***#4: Get User Input in C Programming***  
+
+[![#4: Get User Input in C Programming](https://img.youtube.com/vi/17gp5DJEyiw/0.jpg)](https://youtu.be/17gp5DJEyiw?si=MegWV2vALpD9jJdy)
+
+# ***#5: Comments in C Programming | C Programming for Beginners***  
+
+[![#5: Comments in C Programming | C Programming for Beginners](https://img.youtube.com/vi/L2H2rtCLB-0/0.jpg)](https://youtu.be/L2H2rtCLB-0?si=mb60Og3ZMhqxQMM4)
+
+# ***#6: C Operators | C Programming for Beginners***  
+
+[![#6: C Operators | C Programming for Beginners](https://img.youtube.com/vi/_57FcSBtJNU/0.jpg)](https://youtu.be/_57FcSBtJNU?si=dYFSinNTynC3P2YM)
+
+# ***#7: Type Conversion in C | Implicit and Explicit Type Conversion***
+
+[![#7: Type Conversion in C | Implicit and Explicit Type Conversion](https://img.youtube.com/vi/xi2wf0Zy2Y4/0.jpg)](https://youtu.be/xi2wf0Zy2Y4?si=YbWoSBbHtlKZPYHl)
+
+# ***#8: Boolean and Comparison Operators in C Programming***  
+
+[![#8: Boolean and Comparison Operators in C Programming](https://img.youtube.com/vi/TybmJxXRV80/0.jpg)](https://youtu.be/TybmJxXRV80?si=EKttYYo9-JjlcPu4)
+
+# ***#9: If Else Statements in C | C Programming for Beginners***  
+
+[![#9: If Else Statements in C | C Programming for Beginners](https://img.youtube.com/vi/K8mntKyBJGc/0.jpg)](https://youtu.be/K8mntKyBJGc?si=38__svvQ5WoTnDZb)
+
+# ***#10: Ternary Operator in C | C Programming for Beginners***  
+
+[![#10: Ternary Operator in C | C Programming for Beginners](https://img.youtube.com/vi/05xv2nMj6Ls/0.jpg)](https://youtu.be/05xv2nMj6Ls?si=v6lijDaitaXyaGtz)
+
+# ***#12: while Loop in C Programming | C Programming for Beginners***  
+
+[![#12: while Loop in C Programming | C Programming for Beginners](https://img.youtube.com/vi/WgS_SF1VrEk/0.jpg)](https://youtu.be/WgS_SF1VrEk?si=Wup6uHC2rIo-DjTg)
+
+# ***#15: C Functions | C Programming for Beginners*** 
+
+[![#15: C Functions | C Programming for Beginners](https://img.youtube.com/vi/Npo1u37lcg8/0.jpg)](https://youtu.be/Npo1u37lcg8?si=mhr494BN1sHMd0X5)
+
+# ***#16: C Variable Scope | C Programming For Beginners***  
+
+[![#16: C Variable Scope | C Programming For Beginners](https://img.youtube.com/vi/ej-GOnj7mj0/0.jpg)](https://youtu.be/ej-GOnj7mj0?si=93SOTmCZztslfONh)
+
+# ***#17: C Standard Library Functions | C Programming For Beginners***  
+
+[![#17: C Standard Library Functions | C Programming For Beginners](https://img.youtube.com/vi/OJvwk3pLK34/0.jpg)](https://youtu.be/OJvwk3pLK34?si=ViBi6XSisPJ8pPEK)
+
+# ***[#18: C Recursion | C Programming For Beginners](https://youtu.be/61T0cZ8KyGM?si=C5Zj1O1k9x_x6AcH)*** 
+
+[![#18: C Recursion | C Programming For Beginners](https://img.youtube.com/vi/61T0cZ8KyGM/0.jpg)](https://youtu.be/61T0cZ8KyGM?si=C5Zj1O1k9x_x6AcH)
+
+# ***[#19: C Arrays | [2025] C Programming For Beginners](https://youtu.be/MOeGnamlUP4?si=do5QK9yROYMkiVmm)*** 
+
+[![#19: C Arrays | [2025] C Programming For Beginners](https://img.youtube.com/vi/MOeGnamlUP4/0.jpg)](https://youtu.be/MOeGnamlUP4?si=do5QK9yROYMkiVmm)
+
+# ***[#20: C Multidimensional Arrays | C Programming For Beginners](https://youtu.be/ATA6dYDz954?si=SWC_4iTS5N5HPZjB)***  
+
+[![#20: C Multidimensional Arrays | C Programming For Beginners](https://img.youtube.com/vi/ATA6dYDz954/0.jpg)](https://youtu.be/ATA6dYDz954?si=SWC_4iTS5N5HPZjB)
+
+# ***[#21: C Strings | C Programming For Beginners](https://youtu.be/l7zI3nswO1g?si=igMY4EKVmFuiFy3Z)***  
+
+[![#21: C Strings | C Programming For Beginners](https://img.youtube.com/vi/l7zI3nswO1g/0.jpg)](https://youtu.be/l7zI3nswO1g?si=igMY4EKVmFuiFy3Z)
+
+# ***[#22: C String Functions | C Programming For Beginners](https://youtu.be/XdnmsKUvGsc?si=3RWyMW9CTA7DQo9t)***  
+
+[![#22: C String Functions | C Programming For Beginners](https://img.youtube.com/vi/XdnmsKUvGsc/0.jpg)](https://youtu.be/XdnmsKUvGsc?si=3RWyMW9CTA7DQo9t)
+
+# ***[#23: C Pointers | C Programming For Beginners](https://youtu.be/KGhacRRMnDw?si=i6wnEDKkWQLMl8ZH)***  
+
+[![#23: C Pointers | C Programming For Beginners](https://img.youtube.com/vi/KGhacRRMnDw/0.jpg)](https://youtu.be/KGhacRRMnDw?si=i6wnEDKkWQLMl8ZH)
+
+# ***[#24: C Pointers and Arrays | C Programming For Beginners](https://youtu.be/LscgaBzlGdE?si=Ol3jqsx6BZaO15Bs)*** 
+
+[![#24: C Pointers and Arrays | C Programming For Beginners](https://img.youtube.com/vi/LscgaBzlGdE/0.jpg)](https://youtu.be/LscgaBzlGdE?si=Ol3jqsx6BZaO15Bs)
+
 * ***C is a general purpose procedural programming language***. *good for memory management and internal tasks examples used in embedded system, OS, compiler, drivers, etc.*
 * *C language is not generally used for software devlopment*
 * *compiler based programming language are C, C++, Java, Python, etc.*
@@ -113,7 +197,6 @@ unsigned long int - %lu
 unsigned long long int - %llu
 double - %lf
 ```
-
 
 ---
 
@@ -685,6 +768,26 @@ Here is the text from the image exactly as it appears:
 # ***JECA 50 C++ Important MCQ Questions & Answers | JECA Exam 2025 Preparation***
 
 [![JECA 50 C++ Important MCQ Questions & Answers | JECA Exam 2025 Preparation](https://img.youtube.com/vi/9qargAd4aaU/0.jpg)](https://youtu.be/9qargAd4aaU?si=IUkY0HIoggAy0Rs3)
+
+# ***JECA Top 25 Important MCQs on Object Oriented Programming in C++ | OOPs in C++***
+
+[![JECA Top 25 Important MCQs on Object Oriented Programming in C++ | OOPs in C++](https://img.youtube.com/vi/ig4liEW_fqc/0.jpg)](https://youtu.be/ig4liEW_fqc?si=WgJdrrK-O6b2Fr_a)
+
+# ***Important JECA 50 MCQ Questions & Answers for Software Engineering | JECA Exam 2025 Preparation***
+
+[![Important JECA 50 MCQ Questions & Answers for Software Engineering | JECA Exam 2025 Preparation](https://img.youtube.com/vi/IYkzJ5m6Tnw/0.jpg)](https://youtu.be/IYkzJ5m6Tnw?si=vUaRtm_I5NMfDUyu)
+
+# ***Important UNIX MCQ Questions & Answers for JECA Exam Preparation | JECA 2025***
+
+[![Important UNIX MCQ Questions & Answers for JECA Exam Preparation | JECA 2025](https://img.youtube.com/vi/2N_ZZY_NuRc/0.jpg)](https://youtu.be/2N_ZZY_NuRc?si=NsKBR5k1n2w91RkD)
+
+# ***JECA Important NETWORK MCQ Questions & Answers for JECA EXAM | JECA 2025***
+
+[![JECA Important NETWORK MCQ Questions & Answers for JECA EXAM | JECA 2025](https://img.youtube.com/vi/i3XrDUg31R4/0.jpg)](https://youtu.be/i3XrDUg31R4?si=4CO7FL1qNlZmLYah)
+
+# ***JECA 50 Important MCQ Questions & Answers for Machine Learning | JECA Exam 2025 Preparation***
+
+[![JECA 50 Important MCQ Questions & Answers for Machine Learning | JECA Exam 2025 Preparation](https://img.youtube.com/vi/G3_pdNfn-Uo/0.jpg)](https://youtu.be/G3_pdNfn-Uo?si=R8HkbWRfALoIQeeM)
 
 # ***MCA***
  
