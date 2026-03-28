@@ -7,7 +7,7 @@ for(int i=3;i<=n;i++)
 c=a+b;
     a=b;
     b=c;
-printf("%d",c);
+
 return c;
 }
 }
@@ -16,6 +16,5 @@ int main()
     int n;
     printf("Enter the number");
     scanf("%d",&n);
-int result=fib(n);
-printf("%d",result);
+int result=fib();
 }
