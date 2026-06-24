@@ -810,6 +810,9 @@ Here is the text from the image exactly as it appears:
 # **COMPUTER NETWORKS FOR JECA || PART 1 || JECA 2023 PREPARATION**
 [![COMPUTER NETWORKS FOR JECA || PART 1 || JECA 2023 PREPARATION](https://img.youtube.com/vi/tmTQuh5sf5E/0.jpg)](https://youtu.be/tmTQuh5sf5E?si=F1sttP9XswDPdCiF)
 
+# **COMPUTER NETWORKS FOR JECA | PART 2 | JECA 2023 PREPARATION**
+[![COMPUTER NETWORKS FOR JECA | PART 2 | JECA 2023 PREPARATION](https://img.youtube.com/vi/57wF3pUxFDg/0.jpg)](https://youtu.be/57wF3pUxFDg?si=H66MECq76K1UhC0U)
+
 # **Most expected DBMS questions for JECA 2022**
 [![Most expected DBMS questions for JECA 2022](https://img.youtube.com/vi/PeKp0qdrTGA/0.jpg)](https://youtu.be/PeKp0qdrTGA?si=ak6apQv4b6LpPrgS)
 
