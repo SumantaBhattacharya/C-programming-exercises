@@ -822,6 +822,9 @@ Here is the text from the image exactly as it appears:
 # **WB JECA 2023 PREPARATION || OOPS - PART 2 || Most Expected MCQ Questions**
 [![WB JECA 2023 PREPARATION || OOPS - PART 2 || Most Expected MCQ Questions](https://img.youtube.com/vi/9WtzLNqrcVE/0.jpg)](https://youtu.be/9WtzLNqrcVE?si=mINXi4oIQvv3a0Ej)
 
+# **Operating System in One Shot | WB JECA 2023 Crash Course**
+[![Operating System in One Shot | WB JECA 2023 Crash Course](https://img.youtube.com/vi/vsU0_xvBFkk/0.jpg)](https://youtu.be/vsU0_xvBFkk?si=YyEpVFN2I0R8SUA9) 
+
 # **WB JECA 2023 PREPARATION || C Programming Language || Part 1 || Most Important MCQ Questions**
 [![WB JECA 2023 PREPARATION || C Programming Language || Part 1 || Most Important MCQ Questions](https://img.youtube.com/vi/vCPZA6us4Zc/0.jpg)](https://youtu.be/vCPZA6us4Zc?si=GRRT1sW18VYHb8Ak)
 
