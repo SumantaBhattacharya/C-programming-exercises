@@ -840,6 +840,9 @@ Here is the text from the image exactly as it appears:
 # **Data Structure Lecture 2 JECA 2022**
 [![Data Structure Lecture 2 JECA 2022](https://img.youtube.com/vi/fPx56KBDeYA/0.jpg)](https://youtu.be/fPx56KBDeYA?si=7wuSnzg2VmRcUBGl)
 
+# **Machine Learning in ONE SHOT for WB JECA 2023**
+[![Machine Learning in ONE SHOT for WB JECA 2023](https://img.youtube.com/vi/96IrU-c4oLI/0.jpg)](https://youtu.be/96IrU-c4oLI?si=oY_WzdFjMr6hqQq8)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
