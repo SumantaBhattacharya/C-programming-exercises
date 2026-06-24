@@ -813,6 +813,9 @@ Here is the text from the image exactly as it appears:
 # **WB JECA 2023 EXAM PREPARATION || OOPS || Part - 1 || Most Expected MCQ Questions**
 [![WB JECA 2023 EXAM PREPARATION || OOPS || Part - 1 || Most Expected MCQ Questions](https://img.youtube.com/vi/PSmqVG1uVlY/0.jpg)](https://youtu.be/PSmqVG1uVlY?si=k4DCKiIwtF3OVSFb)
 
+# **WB JECA 2023 PREPARATION || OOPS - PART 2 || Most Expected MCQ Questions**
+[![WB JECA 2023 PREPARATION || OOPS - PART 2 || Most Expected MCQ Questions](https://img.youtube.com/vi/9WtzLNqrcVE/0.jpg)](https://youtu.be/9WtzLNqrcVE?si=mINXi4oIQvv3a0Ej)
+
 # **WB JECA 2023 PREPARATION || C Programming Language || Part 1 || Most Important MCQ Questions**
 [![WB JECA 2023 PREPARATION || C Programming Language || Part 1 || Most Important MCQ Questions](https://img.youtube.com/vi/vCPZA6us4Zc/0.jpg)](https://youtu.be/vCPZA6us4Zc?si=GRRT1sW18VYHb8Ak)
 
