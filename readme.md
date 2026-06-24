@@ -801,6 +801,9 @@ Here is the text from the image exactly as it appears:
 # **C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 3**
 [![C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 3](https://img.youtube.com/vi/oepwLrJnFY0/0.jpg)](https://youtu.be/oepwLrJnFY0?si=Fu22CXjs0j6bqv7R)
 
+# **Most expected DBMS questions for JECA 2022**
+[![Most expected DBMS questions for JECA 2022](https://img.youtube.com/vi/PeKp0qdrTGA/0.jpg)](https://youtu.be/PeKp0qdrTGA?si=ak6apQv4b6LpPrgS)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
