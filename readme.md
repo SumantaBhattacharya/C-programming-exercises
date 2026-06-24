@@ -798,56 +798,8 @@ Here is the text from the image exactly as it appears:
 # **MCQS of Operating Systems for JECA Exam 2025 | Important QA Set 2**
 [![MCQS of Operating Systems for JECA Exam 2025 | Important QA Set 2](https://img.youtube.com/vi/zbODcZuuiVc/0.jpg)](https://youtu.be/zbODcZuuiVc?si=uQWyBHYtjxe4IJ0o)
 
-# ***MCA***
- 
-- ***Can be two to three years***
-- ***Going to be held on 30 june***
-- ***Timing around 2hrs***
-
-## ***Analysis of question***
-
-- ***Total number of questions = 100***
-
-- ***Total marks = 120***
-
-- ***There are two categories***
-
-### ***Category-1***
-
-- 80 ***MCQ Questions***
-
-- ***With 4 Options***
-
-- ***Carries 1 mark each***
-
-- ***Will be carrying Nagative marks***
-  - 1/4 = 0.25 = 25%
-
-- ***Only one could be correct***
-
-### ***Category-2***
-
-- 20 ***MCQ Questions***
-
-- ***With 4 Options***
-
-- ***Carries 2 mark each***
-
-- ***Will be carrying no Nagative marking***
-
-- ***Multiple options could be correct***
-
-## ***Syllabus***
-
-- ***C programming***
-- ***OOPS***
-- ***Computer Networks***
-- ***OS***
-- ***Computer Archetechture***
-- ***DSA***
-- ***DBMS***
-- ***Software Engineering***
-- ***Machine Learning***
+# **C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 3**
+[![C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 3](https://img.youtube.com/vi/oepwLrJnFY0/0.jpg)](https://youtu.be/oepwLrJnFY0?si=Fu22CXjs0j6bqv7R)
 
 # ***Certificate of Participation***
 
