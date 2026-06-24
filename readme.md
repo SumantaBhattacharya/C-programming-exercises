@@ -804,6 +804,9 @@ Here is the text from the image exactly as it appears:
 # **MCQS of Operating Systems for JECA Exam 2025 | Important QA Set 2**
 [![MCQS of Operating Systems for JECA Exam 2025 | Important QA Set 2](https://img.youtube.com/vi/zbODcZuuiVc/0.jpg)](https://youtu.be/zbODcZuuiVc?si=uQWyBHYtjxe4IJ0o)
 
+# **Computer Networks JECA 2022 PART 1**
+[![Computer Networks JECA 2022 PART 1](https://img.youtube.com/vi/ZNRI9W9hDUs/0.jpg)](https://youtu.be/ZNRI9W9hDUs?si=GJO1K-I2uXeQzOfl)
+
 # **Most expected DBMS questions for JECA 2022**
 [![Most expected DBMS questions for JECA 2022](https://img.youtube.com/vi/PeKp0qdrTGA/0.jpg)](https://youtu.be/PeKp0qdrTGA?si=ak6apQv4b6LpPrgS)
 
