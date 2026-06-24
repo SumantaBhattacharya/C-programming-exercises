@@ -792,8 +792,11 @@ Here is the text from the image exactly as it appears:
 # ***[JECA 2026 Mock Test 1 | Full Syllabus Practice | MCA Entrance Exam Preparation](https://youtu.be/ijGCIVQxZEA?si=gMgZz4SiWre0apWv)***
 [![JECA 2026 Mock Test 1 | Full Syllabus Practice | MCA Entrance Exam Preparation](https://img.youtube.com/vi/ijGCIVQxZEA/0.jpg)](https://youtu.be/ijGCIVQxZEA?si=gMgZz4SiWre0apWv)
 
-**C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 1**
+# **C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 1**
 [![C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 1](https://img.youtube.com/vi/4H5XOObRKAo/0.jpg)](https://youtu.be/4H5XOObRKAo?si=0pdRwlu8nicN8Iuw)
+
+# **MCQS of Operating Systems for JECA Exam 2025 | Important QA Set 2**
+[![MCQS of Operating Systems for JECA Exam 2025 | Important QA Set 2](https://img.youtube.com/vi/zbODcZuuiVc/0.jpg)](https://youtu.be/zbODcZuuiVc?si=uQWyBHYtjxe4IJ0o)
 
 # ***MCA***
  
