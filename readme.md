@@ -789,6 +789,9 @@ Here is the text from the image exactly as it appears:
 
 [![JECA 50 Important MCQ Questions & Answers for Machine Learning | JECA Exam 2025 Preparation](https://img.youtube.com/vi/G3_pdNfn-Uo/0.jpg)](https://youtu.be/G3_pdNfn-Uo?si=R8HkbWRfALoIQeeM)
 
+# ***[JECA 2026 Mock Test 1 | Full Syllabus Practice | MCA Entrance Exam Preparation](https://youtu.be/ijGCIVQxZEA?si=gMgZz4SiWre0apWv)***
+[![JECA 2026 Mock Test 1 | Full Syllabus Practice | MCA Entrance Exam Preparation](https://img.youtube.com/vi/ijGCIVQxZEA/0.jpg)](https://youtu.be/ijGCIVQxZEA?si=gMgZz4SiWre0apWv)
+
 # ***MCA***
  
 - ***Can be two to three years***
