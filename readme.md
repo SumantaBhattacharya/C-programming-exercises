@@ -807,6 +807,9 @@ Here is the text from the image exactly as it appears:
 # **Computer Networks JECA 2022 PART 1**
 [![Computer Networks JECA 2022 PART 1](https://img.youtube.com/vi/ZNRI9W9hDUs/0.jpg)](https://youtu.be/ZNRI9W9hDUs?si=GJO1K-I2uXeQzOfl)
 
+# **COMPUTER NETWORKS FOR JECA || PART 1 || JECA 2023 PREPARATION**
+[![COMPUTER NETWORKS FOR JECA || PART 1 || JECA 2023 PREPARATION](https://img.youtube.com/vi/tmTQuh5sf5E/0.jpg)](https://youtu.be/tmTQuh5sf5E?si=F1sttP9XswDPdCiF)
+
 # **Most expected DBMS questions for JECA 2022**
 [![Most expected DBMS questions for JECA 2022](https://img.youtube.com/vi/PeKp0qdrTGA/0.jpg)](https://youtu.be/PeKp0qdrTGA?si=ak6apQv4b6LpPrgS)
 
