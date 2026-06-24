@@ -804,6 +804,9 @@ Here is the text from the image exactly as it appears:
 # **Most expected DBMS questions for JECA 2022**
 [![Most expected DBMS questions for JECA 2022](https://img.youtube.com/vi/PeKp0qdrTGA/0.jpg)](https://youtu.be/PeKp0qdrTGA?si=ak6apQv4b6LpPrgS)
 
+# **WB JECA 2023 PREPARATION || C Programming Language || Part 1 || Most Important MCQ Questions**
+[![WB JECA 2023 PREPARATION || C Programming Language || Part 1 || Most Important MCQ Questions](https://img.youtube.com/vi/vCPZA6us4Zc/0.jpg)](https://youtu.be/vCPZA6us4Zc?si=GRRT1sW18VYHb8Ak)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
