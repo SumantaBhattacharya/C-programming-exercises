@@ -846,6 +846,12 @@ Here is the text from the image exactly as it appears:
 # **Operating System MCQs | For All Competitive Exams**
 [![Operating System MCQs | For All Competitive Exams](https://img.youtube.com/vi/wvXr1Dv5czI/0.jpg)](https://youtu.be/wvXr1Dv5czI?si=cDdJaTLs9WqXBD9Q)
 
+# **L-1.2: Batch Operating System | Types of Operating System**
+[![L-1.2: Batch Operating System | Types of Operating System](https://img.youtube.com/vi/povNcHSasgs/0.jpg)](https://youtu.be/povNcHSasgs?si=3UKzkyHyNgZH-cDK)
+
+# **L-1.3: Multiprogramming and Multitasking Operating System in Hindi with real life examples**
+[![L-1.3: Multiprogramming and Multitasking Operating System in Hindi with real life examples](https://img.youtube.com/vi/3MqyDWDpZoI/0.jpg)](https://youtu.be/3MqyDWDpZoI?si=dgUosIRpn5YIasa-)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
