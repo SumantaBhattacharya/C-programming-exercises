@@ -813,6 +813,9 @@ Here is the text from the image exactly as it appears:
 # **WB JECA 2023 PREPARATION || C PROGRAMMING LANGUAGE || Part 2**
 [![WB JECA 2023 PREPARATION || C PROGRAMMING LANGUAGE || Part 2](https://img.youtube.com/vi/H_9qxQ7VpQA/0.jpg)](https://youtu.be/H_9qxQ7VpQA?si=PwoLovTUTLbomwMa)
 
+# **WB JECA EXAM PREPARATION | MOCK TEST ANALYSIS ON C PROGRAMMING LANGUAGE | TARGET JECA 2023**
+[![WB JECA EXAM PREPARATION | MOCK TEST ANALYSIS ON C PROGRAMMING LANGUAGE | TARGET JECA 2023](https://img.youtube.com/vi/xiO8Fyss2SI/0.jpg)](https://youtu.be/xiO8Fyss2SI?si=qPhMa04rmbj0VvFI)
+
 # **Data Structure Lecture 1 JECA 2022**
 [![Data Structure Lecture 1 JECA 2022](https://img.youtube.com/vi/pXgxkm4nPy8/0.jpg)](https://youtu.be/pXgxkm4nPy8?si=tD2ClNY1To4thO4J)
 
