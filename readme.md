@@ -795,11 +795,14 @@ Here is the text from the image exactly as it appears:
 # **C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 1**
 [![C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 1](https://img.youtube.com/vi/4H5XOObRKAo/0.jpg)](https://youtu.be/4H5XOObRKAo?si=0pdRwlu8nicN8Iuw)
 
-# **MCQS of Operating Systems for JECA Exam 2025 | Important QA Set 2**
-[![MCQS of Operating Systems for JECA Exam 2025 | Important QA Set 2](https://img.youtube.com/vi/zbODcZuuiVc/0.jpg)](https://youtu.be/zbODcZuuiVc?si=uQWyBHYtjxe4IJ0o)
-
 # **C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 3**
 [![C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 3](https://img.youtube.com/vi/oepwLrJnFY0/0.jpg)](https://youtu.be/oepwLrJnFY0?si=Fu22CXjs0j6bqv7R)
+
+# **Operating Systems MCQs for JECA Exam 2025 | Important QA Set 1**
+[![Operating Systems MCQs for JECA Exam 2025 | Important QA Set 1](https://img.youtube.com/vi/sTNRON7ZdOc/0.jpg)](https://youtu.be/sTNRON7ZdOc?si=iUpwcpRSX74LXqH7)
+
+# **MCQS of Operating Systems for JECA Exam 2025 | Important QA Set 2**
+[![MCQS of Operating Systems for JECA Exam 2025 | Important QA Set 2](https://img.youtube.com/vi/zbODcZuuiVc/0.jpg)](https://youtu.be/zbODcZuuiVc?si=uQWyBHYtjxe4IJ0o)
 
 # **Most expected DBMS questions for JECA 2022**
 [![Most expected DBMS questions for JECA 2022](https://img.youtube.com/vi/PeKp0qdrTGA/0.jpg)](https://youtu.be/PeKp0qdrTGA?si=ak6apQv4b6LpPrgS)
@@ -807,14 +810,14 @@ Here is the text from the image exactly as it appears:
 # **WB JECA 2023 PREPARATION || C Programming Language || Part 1 || Most Important MCQ Questions**
 [![WB JECA 2023 PREPARATION || C Programming Language || Part 1 || Most Important MCQ Questions](https://img.youtube.com/vi/vCPZA6us4Zc/0.jpg)](https://youtu.be/vCPZA6us4Zc?si=GRRT1sW18VYHb8Ak)
 
-# **Data Structure Lecture 1 JECA 2022**
-[![Data Structure Lecture 1 JECA 2022](https://img.youtube.com/vi/pXgxkm4nPy8/0.jpg)](https://youtu.be/pXgxkm4nPy8?si=tD2ClNY1To4thO4J)
-
 # **WB JECA 2023 PREPARATION || C PROGRAMMING LANGUAGE || Part 2**
 [![WB JECA 2023 PREPARATION || C PROGRAMMING LANGUAGE || Part 2](https://img.youtube.com/vi/H_9qxQ7VpQA/0.jpg)](https://youtu.be/H_9qxQ7VpQA?si=PwoLovTUTLbomwMa)
 
-# **Operating Systems MCQs for JECA Exam 2025 | Important QA Set 1**
-[![Operating Systems MCQs for JECA Exam 2025 | Important QA Set 1](https://img.youtube.com/vi/sTNRON7ZdOc/0.jpg)](https://youtu.be/sTNRON7ZdOc?si=iUpwcpRSX74LXqH7)
+# **Data Structure Lecture 1 JECA 2022**
+[![Data Structure Lecture 1 JECA 2022](https://img.youtube.com/vi/pXgxkm4nPy8/0.jpg)](https://youtu.be/pXgxkm4nPy8?si=tD2ClNY1To4thO4J)
+
+# **Data Structure Lecture 2 JECA 2022**
+[![Data Structure Lecture 2 JECA 2022](https://img.youtube.com/vi/fPx56KBDeYA/0.jpg)](https://youtu.be/fPx56KBDeYA?si=7wuSnzg2VmRcUBGl)
 
 # ***Certificate of Participation***
 
