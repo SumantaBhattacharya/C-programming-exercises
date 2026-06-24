@@ -813,6 +813,9 @@ Here is the text from the image exactly as it appears:
 # **WB JECA 2023 PREPARATION || C PROGRAMMING LANGUAGE || Part 2**
 [![WB JECA 2023 PREPARATION || C PROGRAMMING LANGUAGE || Part 2](https://img.youtube.com/vi/H_9qxQ7VpQA/0.jpg)](https://youtu.be/H_9qxQ7VpQA?si=PwoLovTUTLbomwMa)
 
+# **Operating Systems MCQs for JECA Exam 2025 | Important QA Set 1**
+[![Operating Systems MCQs for JECA Exam 2025 | Important QA Set 1](https://img.youtube.com/vi/sTNRON7ZdOc/0.jpg)](https://youtu.be/sTNRON7ZdOc?si=iUpwcpRSX74LXqH7)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
