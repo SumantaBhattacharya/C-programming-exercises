@@ -864,6 +864,9 @@ Here is the text from the image exactly as it appears:
 # **L-1.9: Questions on Fork System Call With Explanation | Operating System**
 [![L-1.9: Questions on Fork System Call With Explanation | Operating System](https://img.youtube.com/vi/uMMvYLB4cys/0.jpg)](https://youtu.be/uMMvYLB4cys?si=z0Fk6I6MKZcNogFU)
 
+# **L-1.10: User mode and Kernel mode in operating system in hindi**
+[![L-1.10: User mode and Kernel mode in operating system in hindi](https://img.youtube.com/vi/8duV1LLHHJU/0.jpg)](https://youtu.be/8duV1LLHHJU?si=GUVJvPR-Uhc9rYIy)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
