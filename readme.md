@@ -858,6 +858,9 @@ Here is the text from the image exactly as it appears:
 # **L-1.5: Process States in Operating System| Schedulers(Long term,Short term,Medium term)**
 [![L-1.5: Process States in Operating System| Schedulers(Long term,Short term,Medium term)](https://img.youtube.com/vi/2dJdHMpCLIg/0.jpg)](https://youtu.be/2dJdHMpCLIg?si=8KiODJVEiMApU7Z-)
 
+# **L-1.8: Fork System call with Example | Fork() system call questions**
+[![L-1.8: Fork System call with Example | Fork() system call questions](https://img.youtube.com/vi/ixq5cpdEO2Q/0.jpg)](https://youtu.be/ixq5cpdEO2Q?si=ZwHBXjDc2XhB6OJm)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
