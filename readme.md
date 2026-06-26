@@ -852,6 +852,9 @@ Here is the text from the image exactly as it appears:
 # **L-1.3: Multiprogramming and Multitasking Operating System in Hindi with real life examples**
 [![L-1.3: Multiprogramming and Multitasking Operating System in Hindi with real life examples](https://img.youtube.com/vi/3MqyDWDpZoI/0.jpg)](https://youtu.be/3MqyDWDpZoI?si=dgUosIRpn5YIasa-)
 
+# **L-1.4: Types of OS(Real Time OS, Distributed, Clustered & Embedded OS)**
+[![L-1.4: Types of OS(Real Time OS, Distributed, Clustered & Embedded OS)](https://img.youtube.com/vi/YQZbIT9FcUk/0.jpg)](https://youtu.be/YQZbIT9FcUk?si=rcKbq10eRKmwOjgm)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
