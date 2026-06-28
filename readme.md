@@ -870,6 +870,9 @@ Here is the text from the image exactly as it appears:
 # **L-1.12: User Level Vs Kernel Level Thread in Operating System | All Imp Points**
 [![L-1.12: User Level Vs Kernel Level Thread in Operating System | All Imp Points](https://img.youtube.com/vi/-NONm-Jq34Y/0.jpg)](https://youtu.be/-NONm-Jq34Y?si=SFZ2JctXwy26ny2n)
 
+# **L-2.2: What is Arrival, Burst, Completion, Turnaround, Waiting and Response time in CPU Scheduling**
+[![L-2.2: What is Arrival, Burst, Completion, Turnaround, Waiting and Response time in CPU Scheduling](https://img.youtube.com/vi/n7Owxwfr6Ko/0.jpg)](https://youtu.be/n7Owxwfr6Ko?si=5q0lV0dNh0d7LKUp)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
