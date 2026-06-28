@@ -876,6 +876,9 @@ Here is the text from the image exactly as it appears:
 # **L-2.3: First Come First Serve(FCFS) CPU Scheduling Algorithm with Example**
 [![L-2.3: First Come First Serve(FCFS) CPU Scheduling Algorithm with Example](https://img.youtube.com/vi/MZdVAVMgNpA/0.jpg)](https://youtu.be/MZdVAVMgNpA?si=Ks1EACy4sqlO5kR1)
 
+# **L-2.4: Shortest Job First(SJF) Scheduling Algorithm with Example | Operating System**
+[![L-2.4: Shortest Job First(SJF) Scheduling Algorithm with Example | Operating System](https://img.youtube.com/vi/VCIVXPoiLpU/0.jpg)](https://youtu.be/VCIVXPoiLpU?si=b1z4qy4Tbd64eb39)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
