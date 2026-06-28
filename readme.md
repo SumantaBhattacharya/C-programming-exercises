@@ -873,6 +873,9 @@ Here is the text from the image exactly as it appears:
 # **L-2.2: What is Arrival, Burst, Completion, Turnaround, Waiting and Response time in CPU Scheduling**
 [![L-2.2: What is Arrival, Burst, Completion, Turnaround, Waiting and Response time in CPU Scheduling](https://img.youtube.com/vi/n7Owxwfr6Ko/0.jpg)](https://youtu.be/n7Owxwfr6Ko?si=5q0lV0dNh0d7LKUp)
 
+# **L-2.3: First Come First Serve(FCFS) CPU Scheduling Algorithm with Example**
+[![L-2.3: First Come First Serve(FCFS) CPU Scheduling Algorithm with Example](https://img.youtube.com/vi/MZdVAVMgNpA/0.jpg)](https://youtu.be/MZdVAVMgNpA?si=Ks1EACy4sqlO5kR1)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
