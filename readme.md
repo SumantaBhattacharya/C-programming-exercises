@@ -885,6 +885,9 @@ Here is the text from the image exactly as it appears:
 # **L-2.7: Round Robin(RR) CPU Scheduling Algorithm with Example**
 [![L-2.7: Round Robin(RR) CPU Scheduling Algorithm with Example](https://img.youtube.com/vi/TxjIlNYRZ5M/0.jpg)](https://youtu.be/TxjIlNYRZ5M?si=2TyGZGXTSNhui8zn)
 
+# **L-2.8: Pre-emptive Priority Scheduling Algorithm with Example | Operating System**
+[![L-2.8: Pre-emptive Priority Scheduling Algorithm with Example | Operating System](https://img.youtube.com/vi/rsDGfFxSgiY/0.jpg)](https://youtu.be/rsDGfFxSgiY?si=VgSDe_k8nPQZL8mh)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
