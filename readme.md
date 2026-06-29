@@ -891,6 +891,9 @@ Here is the text from the image exactly as it appears:
 # **L-2.9: Example of Mix Burst Time(CPU & I/O both) in CPU Scheduling | Tough Question**
 [![L-2.9: Example of Mix Burst Time(CPU & I/O both) in CPU Scheduling | Tough Question](https://img.youtube.com/vi/0T5PlFVA9_k/0.jpg)](https://youtu.be/0T5PlFVA9_k?si=KrjaoPdownCTJKez)
 
+# **L-3.1: Process Synchronization | Process Types | Race Condition | Operating System-1**
+[![L-3.1: Process Synchronization | Process Types | Race Condition | Operating System-1](https://img.youtube.com/vi/3Eaw1SSIqRg/0.jpg)](https://youtu.be/3Eaw1SSIqRg?si=zSkT0fSftBTTxcsL)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
