@@ -894,6 +894,9 @@ Here is the text from the image exactly as it appears:
 # **L-3.1: Process Synchronization | Process Types | Race Condition | Operating System-1**
 [![L-3.1: Process Synchronization | Process Types | Race Condition | Operating System-1](https://img.youtube.com/vi/3Eaw1SSIqRg/0.jpg)](https://youtu.be/3Eaw1SSIqRg?si=zSkT0fSftBTTxcsL)
 
+# **L-5.18: Overlay | Memory Management | Operating system**
+[![L-5.18: Overlay | Memory Management | Operating system](https://img.youtube.com/vi/Quj-Goz4VMA/0.jpg)](https://youtu.be/Quj-Goz4VMA?si=YGW0Zfa4y2ehkBbb)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
