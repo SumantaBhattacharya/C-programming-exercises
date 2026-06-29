@@ -888,6 +888,9 @@ Here is the text from the image exactly as it appears:
 # **L-2.8: Pre-emptive Priority Scheduling Algorithm with Example | Operating System**
 [![L-2.8: Pre-emptive Priority Scheduling Algorithm with Example | Operating System](https://img.youtube.com/vi/rsDGfFxSgiY/0.jpg)](https://youtu.be/rsDGfFxSgiY?si=VgSDe_k8nPQZL8mh)
 
+# **L-2.9: Example of Mix Burst Time(CPU & I/O both) in CPU Scheduling | Tough Question**
+[![L-2.9: Example of Mix Burst Time(CPU & I/O both) in CPU Scheduling | Tough Question](https://img.youtube.com/vi/0T5PlFVA9_k/0.jpg)](https://youtu.be/0T5PlFVA9_k?si=KrjaoPdownCTJKez)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
