@@ -897,6 +897,9 @@ Here is the text from the image exactly as it appears:
 # **L-5.18: Overlay | Memory Management | Operating system**
 [![L-5.18: Overlay | Memory Management | Operating system](https://img.youtube.com/vi/Quj-Goz4VMA/0.jpg)](https://youtu.be/Quj-Goz4VMA?si=YGW0Zfa4y2ehkBbb)
 
+# **L-5.22: Page Replacement Introduction | FIFO Page Replacement algorithm | Operating System**
+[![L-5.22: Page Replacement Introduction | FIFO Page Replacement algorithm | Operating System](https://img.youtube.com/vi/8rcUs5RutX0/0.jpg)](https://youtu.be/8rcUs5RutX0?si=9ykEYoGZDAiqp6MD)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
