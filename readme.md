@@ -900,6 +900,42 @@ Here is the text from the image exactly as it appears:
 # **L-5.22: Page Replacement Introduction | FIFO Page Replacement algorithm | Operating System**
 [![L-5.22: Page Replacement Introduction | FIFO Page Replacement algorithm | Operating System](https://img.youtube.com/vi/8rcUs5RutX0/0.jpg)](https://youtu.be/8rcUs5RutX0?si=9ykEYoGZDAiqp6MD)
 
+# **L-5.23: Belady's Anomaly in FIFO page Replacement with example | Operating System**
+[![L-5.23: Belady's Anomaly in FIFO page Replacement with example | Operating System](https://img.youtube.com/vi/pR1uhp--COc/0.jpg)](https://youtu.be/pR1uhp--COc?si=Ck_ctTS0QloL4kJ0)
+
+# **L-5.24: Optimal Page Replacement algorithm | Operating System**
+[![L-5.24: Optimal Page Replacement algorithm | Operating System](https://img.youtube.com/vi/q2BpMvPhhrY/0.jpg)](https://youtu.be/q2BpMvPhhrY?si=bh6Gm6uqUXPpe5QL)
+
+# **L-5.25: Least Recently Used Page Replacement Algorithm | Operating System**
+[![L-5.25: Least Recently Used Page Replacement Algorithm | Operating System](https://img.youtube.com/vi/dYIoWkCvd6A/0.jpg)](https://youtu.be/dYIoWkCvd6A?si=KIEFFE0PvQtCl_1V)
+
+# **L-6.3: Disk Scheduling Algorithm | Operating System**
+[![L-6.3: Disk Scheduling Algorithm | Operating System](https://img.youtube.com/vi/9uoa_p8q47Y/0.jpg)](https://youtu.be/9uoa_p8q47Y?si=MlJI04qjYHsIofEu)
+
+# **L-6.4: FCFS in Disk scheduling with Example | Operating System**
+[![L-6.4: FCFS in Disk scheduling with Example | Operating System](https://img.youtube.com/vi/yP89YlEGCqA/0.jpg)](https://youtu.be/yP89YlEGCqA?si=Iqn04gQvWFhDbu6m)
+
+# **L-6.5: SSTF in Disk scheduling with Example | Operating System**
+[![L-6.5: SSTF in Disk scheduling with Example | Operating System](https://img.youtube.com/vi/P_dA8VGJjA8/0.jpg)](https://youtu.be/P_dA8VGJjA8?si=WkaJcPyOkYnqYCHb)
+
+# **L-6.6: SCAN Algorithm in Disk scheduling with Example | Operating System**
+[![L-6.6: SCAN Algorithm in Disk scheduling with Example | Operating System](https://img.youtube.com/vi/xouo556RGiE/0.jpg)](https://youtu.be/xouo556RGiE?si=088nBS56Az6WM4Qy)
+
+# **L-6.7: LOOK Algorithm in Disk scheduling with Example | Operating System**
+[![L-6.7: LOOK Algorithm in Disk scheduling with Example | Operating System](https://img.youtube.com/vi/Q2qcqX_hvR0/0.jpg)](https://youtu.be/Q2qcqX_hvR0?si=Kduvh5AeCasVDNP-)
+
+# **L-6.8: C-SCAN Algorithm in Disk scheduling with Example | Operating System**
+[![L-6.8: C-SCAN Algorithm in Disk scheduling with Example | Operating System](https://img.youtube.com/vi/vLqZ6ZMBkX8/0.jpg)](https://youtu.be/vLqZ6ZMBkX8?si=Zg768ZEK_Y2Mltaq)
+
+# **L-6.9: C-LOOK Algorithm in Disk scheduling with Example | Operating System**
+[![L-6.9: C-LOOK Algorithm in Disk scheduling with Example | Operating System](https://img.youtube.com/vi/gwCgG5ORXW8/0.jpg)](https://youtu.be/gwCgG5ORXW8?si=_9VQhqmi9jUgszNf)
+
+# **L-6.10: Important Questions on Operating System | Must Watch | NTA NET June 2021**
+[![L-6.10: Important Questions on Operating System | Must Watch | NTA NET June 2021](https://img.youtube.com/vi/AF3FoARvtcc/0.jpg)](https://youtu.be/AF3FoARvtcc?si=n-WdaWGcFCYCZ_uR)
+
+# **Linker & Loader with example**
+[![Linker & Loader with example](https://img.youtube.com/vi/j7VU5A8ajSA/0.jpg)](https://youtu.be/j7VU5A8ajSA?si=-010MyN_nCr0r3xP)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
