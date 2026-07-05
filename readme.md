@@ -936,6 +936,9 @@ Here is the text from the image exactly as it appears:
 # **Linker & Loader with example**
 [![Linker & Loader with example](https://img.youtube.com/vi/j7VU5A8ajSA/0.jpg)](https://youtu.be/j7VU5A8ajSA?si=-010MyN_nCr0r3xP)
 
+# **C language MCQs | C mcq questions and answers**
+[![C language MCQs | C mcq questions and answers](https://img.youtube.com/vi/Q6raLU5nK_w/0.jpg)](https://youtu.be/Q6raLU5nK_w?si=ic2D-RgSUwsusoYc)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
