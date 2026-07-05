@@ -945,6 +945,9 @@ Here is the text from the image exactly as it appears:
 # **Top 20 C++ Mcq | C++ MCQs Questions and Answers**
 [![Top 20 C++ Mcq | C++ MCQs Questions and Answers](https://img.youtube.com/vi/bw19ngoOs-4/0.jpg)](https://youtu.be/bw19ngoOs-4?si=OeO8m42JWkfvUp82)
 
+# **C++ MCQ | c++ mcq questions and answers**
+[![C++ MCQ | c++ mcq questions and answers](https://img.youtube.com/vi/IE3G5F7mBPQ/0.jpg)](https://youtu.be/IE3G5F7mBPQ?si=55loRrp4svoEegqr)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
