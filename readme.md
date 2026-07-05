@@ -939,6 +939,9 @@ Here is the text from the image exactly as it appears:
 # **C language MCQs | C mcq questions and answers**
 [![C language MCQs | C mcq questions and answers](https://img.youtube.com/vi/Q6raLU5nK_w/0.jpg)](https://youtu.be/Q6raLU5nK_w?si=ic2D-RgSUwsusoYc)
 
+# **C MCQs | C MCQ Questions and Answers | Top 50 C Programming MCQs**
+[![C MCQs | C MCQ Questions and Answers | Top 50 C Programming MCQs](https://img.youtube.com/vi/yrRCVFyxL6A/0.jpg)](https://youtu.be/yrRCVFyxL6A?si=Wlzx1HuIH3UjHuwh)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
