@@ -226,6 +226,9 @@ Here is the text from the image exactly as it appears:
 # **WB-JECA 2026 Machine Learning Mock Test 1 | Top Important Questions**
 [![WB-JECA 2026 Machine Learning Mock Test 1 | Top Important Questions](https://img.youtube.com/vi/CkeKEdzvMX0/0.jpg)](https://youtu.be/CkeKEdzvMX0?si=U78lW3t97TQNvfZv)
 
+# **WB-JECA 2026 Machine Learning Mock Test 2 | Top Important Questions**
+[![WB-JECA 2026 Machine Learning Mock Test 2 | Top Important Questions](https://img.youtube.com/vi/ZnkWyHXEXjQ/0.jpg)](https://youtu.be/ZnkWyHXEXjQ?si=274aEB9PTBZVzwXw)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
