@@ -67,25 +67,25 @@ Here is the text from the image exactly as it appears:
 # ***[JECA 2026 Mock Test 1 | Full Syllabus Practice | MCA Entrance Exam Preparation](https://youtu.be/ijGCIVQxZEA?si=gMgZz4SiWre0apWv)***
 [![JECA 2026 Mock Test 1 | Full Syllabus Practice | MCA Entrance Exam Preparation](https://img.youtube.com/vi/ijGCIVQxZEA/0.jpg)](https://youtu.be/ijGCIVQxZEA?si=gMgZz4SiWre0apWv)
 
-# **C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 1**
+# ***C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 1***
 [![C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 1](https://img.youtube.com/vi/4H5XOObRKAo/0.jpg)](https://youtu.be/4H5XOObRKAo?si=0pdRwlu8nicN8Iuw)
 
-# **C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 3**
+# ***C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 3***
 [![C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 3](https://img.youtube.com/vi/oepwLrJnFY0/0.jpg)](https://youtu.be/oepwLrJnFY0?si=Fu22CXjs0j6bqv7R)
 
-# **Operating Systems MCQs for JECA Exam 2025 | Important QA Set 1**
+# ***Operating Systems MCQs for JECA Exam 2025 | Important QA Set 1***
 [![Operating Systems MCQs for JECA Exam 2025 | Important QA Set 1](https://img.youtube.com/vi/sTNRON7ZdOc/0.jpg)](https://youtu.be/sTNRON7ZdOc?si=iUpwcpRSX74LXqH7)
 
 # **MCQS of Operating Systems for JECA Exam 2025 | Important QA Set 2**
 [![MCQS of Operating Systems for JECA Exam 2025 | Important QA Set 2](https://img.youtube.com/vi/zbODcZuuiVc/0.jpg)](https://youtu.be/zbODcZuuiVc?si=uQWyBHYtjxe4IJ0o)
 
-# **Computer Networks JECA 2022 PART 1**
+# ***Computer Networks JECA 2022 PART 1***
 [![Computer Networks JECA 2022 PART 1](https://img.youtube.com/vi/ZNRI9W9hDUs/0.jpg)](https://youtu.be/ZNRI9W9hDUs?si=GJO1K-I2uXeQzOfl)
 
-# **COMPUTER NETWORKS FOR JECA || PART 1 || JECA 2023 PREPARATION**
+# ***COMPUTER NETWORKS FOR JECA || PART 1 || JECA 2023 PREPARATION***
 [![COMPUTER NETWORKS FOR JECA || PART 1 || JECA 2023 PREPARATION](https://img.youtube.com/vi/tmTQuh5sf5E/0.jpg)](https://youtu.be/tmTQuh5sf5E?si=F1sttP9XswDPdCiF)
 
-# **COMPUTER NETWORKS FOR JECA | PART 2 | JECA 2023 PREPARATION**
+# ***[COMPUTER NETWORKS FOR JECA | PART 2 | JECA 2023 PREPARATION](https://youtu.be/57wF3pUxFDg?si=H66MECq76K1UhC0U)***
 [![COMPUTER NETWORKS FOR JECA | PART 2 | JECA 2023 PREPARATION](https://img.youtube.com/vi/57wF3pUxFDg/0.jpg)](https://youtu.be/57wF3pUxFDg?si=H66MECq76K1UhC0U)
 
 # **Most expected DBMS questions for JECA 2022**
@@ -229,6 +229,28 @@ Here is the text from the image exactly as it appears:
 # **WB-JECA 2026 Machine Learning Mock Test 2 | Top Important Questions**
 [![WB-JECA 2026 Machine Learning Mock Test 2 | Top Important Questions](https://img.youtube.com/vi/ZnkWyHXEXjQ/0.jpg)](https://youtu.be/ZnkWyHXEXjQ?si=274aEB9PTBZVzwXw)
 
+**Computer Networks**
+
+# ***[Lec-4: TCP/IP Protocol Suite | Internet Protocol Suite | OSI vs TCP/IP](https://youtu.be/GfaHdjApnhU?si=ecrC0f-pdIjJw7-c)***
+[![Lec-4: TCP/IP Protocol Suite | Internet Protocol Suite | OSI vs TCP/IP](https://img.youtube.com/vi/GfaHdjApnhU/0.jpg)](https://youtu.be/GfaHdjApnhU?si=ecrC0f-pdIjJw7-c)
+
+# ***[Lec-5: Physical layer in computer networks in hindi | Functions of Physical layer | OSI](https://youtu.be/lg-f92uY1Lc?si=K0X5m3LglKDAViq-)***
+[![Lec-5: Physical layer in computer networks in hindi | Functions of Physical layer | OSI](https://img.youtube.com/vi/lg-f92uY1Lc/0.jpg)](https://youtu.be/lg-f92uY1Lc?si=K0X5m3LglKDAViq-)
+
+# ***[Lec-17: What is Circuit Switching in Computer Networks in Hindi](https://youtu.be/Cug52cpjM_g?si=7UzGZaieLT8suozu)***
+[![Lec-17: What is Circuit Switching in Computer Networks in Hindi](https://img.youtube.com/vi/Cug52cpjM_g/0.jpg)](https://youtu.be/Cug52cpjM_g?si=7UzGZaieLT8suozu)
+
+# ***[Lec-18: Packet Switching In Computer Networks | Imp for GATE and UGC NET](https://youtu.be/_0mE6PH1E4c?si=gigZo3qeI8QA-_Xp)***
+[![Lec-18: Packet Switching In Computer Networks | Imp for GATE and UGC NET](https://img.youtube.com/vi/_0mE6PH1E4c/0.jpg)](https://youtu.be/_0mE6PH1E4c?si=gigZo3qeI8QA-_Xp)
+
+# ***[Lec-19: Datagram Switching Vs Virtual Circuit Switching in Packet Switching | Computer Networks](https://youtu.be/-S-NThI_79o?si=2VGaT6uu8XGiYWYJ)***
+[![Lec-19: Datagram Switching Vs Virtual Circuit Switching in Packet Switching | Computer Networks](https://img.youtube.com/vi/-S-NThI_79o/0.jpg)](https://youtu.be/-S-NThI_79o?si=2VGaT6uu8XGiYWYJ)
+
+# ***[Lec-20: What is Message Switching In Computer Networks](https://youtu.be/T1rSrLPHLLI?si=Nmba-yxnYNdQ8icd)***
+[![Lec-20: What is Message Switching In Computer Networks](https://img.youtube.com/vi/T1rSrLPHLLI/0.jpg)](https://youtu.be/T1rSrLPHLLI?si=Nmba-yxnYNdQ8icd)
+
+# ***[Lec-22: Data link layer in computer Networks and its Responsibilities](https://youtu.be/JRgmPco0KWI?si=MbuXbXzQorCe1upB)***
+[![Lec-22: Data link layer in computer Networks and its Responsibilities](https://img.youtube.com/vi/JRgmPco0KWI/0.jpg)](https://youtu.be/JRgmPco0KWI?si=MbuXbXzQorCe1upB)
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
