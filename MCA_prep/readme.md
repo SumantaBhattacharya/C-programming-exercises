@@ -258,6 +258,9 @@ Here is the text from the image exactly as it appears:
 # ***[Lec-43: Class B in IP addressing with Example | Classful Addressing in hindi with most easiest way](https://youtu.be/es1NEZbgCss?si=WPrqWlhn0YmH6E95)***
 [![Lec-43: Class B in IP addressing with Example | Classful Addressing in hindi with most easiest way](https://img.youtube.com/vi/es1NEZbgCss/0.jpg)](https://youtu.be/es1NEZbgCss?si=WPrqWlhn0YmH6E95)
 
+# ***[Lec-44: Class C in IP addressing with Example | Classful Addressing | Network Layer](https://youtu.be/gk7c-Dceg5Y?si=v_WSDmPq58jafbz-)***
+[![Lec-44: Class C in IP addressing with Example | Classful Addressing | Network Layer](https://img.youtube.com/vi/gk7c-Dceg5Y/0.jpg)](https://youtu.be/gk7c-Dceg5Y?si=v_WSDmPq58jafbz-)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
