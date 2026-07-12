@@ -253,4 +253,7 @@ Here is the text from the image exactly as it appears:
 [![Lec-22: Data link layer in computer Networks and its Responsibilities](https://img.youtube.com/vi/JRgmPco0KWI/0.jpg)](https://youtu.be/JRgmPco0KWI?si=MbuXbXzQorCe1upB)
 # ***Certificate of Participation***
 
+# ***[Lec-42: Class A in IP addressing with Example in HINDI | Classful Addressing | Network Layer](https://youtu.be/iurle2xZrBQ?si=w-08eV2w2fzm3xDM)***
+[![Lec-42: Class A in IP addressing with Example in HINDI | Classful Addressing | Network Layer](https://img.youtube.com/vi/iurle2xZrBQ/0.jpg)](https://youtu.be/iurle2xZrBQ?si=w-08eV2w2fzm3xDM)
+
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
