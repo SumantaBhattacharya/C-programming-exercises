@@ -279,6 +279,9 @@ Here is the text from the image exactly as it appears:
 # ***[Lec-55: Fragmentation of IPv4 Datagram | Identification, Flags and Fragment Offset | Networks](https://youtu.be/k8VgrqDOIUo?si=rOrgI32Hppij77WF)***
 [![Lec-55: Fragmentation of IPv4 Datagram | Identification, Flags and Fragment Offset | Networks](https://img.youtube.com/vi/k8VgrqDOIUo/0.jpg)](https://youtu.be/k8VgrqDOIUo?si=rOrgI32Hppij77WF)
 
+# ***[Lec-56: Options & Padding in IPv4 Header | Computer Networks](https://youtu.be/W1UzRlh1gNc?si=vcdwhhWjM4egw4hu)***
+[![Lec-56: Options & Padding in IPv4 Header | Computer Networks](https://img.youtube.com/vi/W1UzRlh1gNc/0.jpg)](https://youtu.be/W1UzRlh1gNc?si=vcdwhhWjM4egw4hu)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
