@@ -276,6 +276,9 @@ Here is the text from the image exactly as it appears:
 # ***[Lec-54: IPv4 Header Format – All Fields Explained in Hindi | Computer Networks](https://youtu.be/zoFSxIuS5Ro?si=k2Xvn6Da4lQ3wO3h)***
 [![Lec-54: IPv4 Header Format – All Fields Explained in Hindi | Computer Networks](https://img.youtube.com/vi/zoFSxIuS5Ro/0.jpg)](https://youtu.be/zoFSxIuS5Ro?si=k2Xvn6Da4lQ3wO3h)
 
+# ***[Lec-55: Fragmentation of IPv4 Datagram | Identification, Flags and Fragment Offset | Networks](https://youtu.be/k8VgrqDOIUo?si=rOrgI32Hppij77WF)***
+[![Lec-55: Fragmentation of IPv4 Datagram | Identification, Flags and Fragment Offset | Networks](https://img.youtube.com/vi/k8VgrqDOIUo/0.jpg)](https://youtu.be/k8VgrqDOIUo?si=rOrgI32Hppij77WF)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
