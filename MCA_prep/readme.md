@@ -270,6 +270,9 @@ Here is the text from the image exactly as it appears:
 # ***[Lec-49: Subnetting in Classful Addressing with Examples in Hindi | Computer Networks](https://youtu.be/rdb2ki4iGuo?si=xHJm7AuxsazXqNz0)***
 [![Lec-49: Subnetting in Classful Addressing with Examples in Hindi | Computer Networks](https://img.youtube.com/vi/rdb2ki4iGuo/0.jpg)](https://youtu.be/rdb2ki4iGuo?si=xHJm7AuxsazXqNz0)
 
+# ***[Lec-52: Numerical Question on CIDR | Classless Addressing | Very Imp for all Competitive Exams](https://youtu.be/jXioURQ2v8E?si=hFkm23TYO7XGI5x6)***
+[![Lec-52: Numerical Question on CIDR | Classless Addressing | Very Imp for all Competitive Exams](https://img.youtube.com/vi/jXioURQ2v8E/0.jpg)](https://youtu.be/jXioURQ2v8E?si=hFkm23TYO7XGI5x6)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
