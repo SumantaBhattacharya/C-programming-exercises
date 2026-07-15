@@ -282,6 +282,9 @@ Here is the text from the image exactly as it appears:
 # ***[Lec-56: Options & Padding in IPv4 Header | Computer Networks](https://youtu.be/W1UzRlh1gNc?si=vcdwhhWjM4egw4hu)***
 [![Lec-56: Options & Padding in IPv4 Header | Computer Networks](https://img.youtube.com/vi/W1UzRlh1gNc/0.jpg)](https://youtu.be/W1UzRlh1gNc?si=vcdwhhWjM4egw4hu)
 
+# ***[Lec-67: Transport Layer | Responsibilities of Transport Layer | OSI Model | Computer Networks](https://youtu.be/kAty4mKczEg?si=ggZezcrjpaD7m8f9)***
+[![Lec-67: Transport Layer | Responsibilities of Transport Layer | OSI Model | Computer Networks](https://img.youtube.com/vi/kAty4mKczEg/0.jpg)](https://youtu.be/kAty4mKczEg?si=ggZezcrjpaD7m8f9)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
