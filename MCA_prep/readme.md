@@ -285,6 +285,9 @@ Here is the text from the image exactly as it appears:
 # ***[Lec-67: Transport Layer | Responsibilities of Transport Layer | OSI Model | Computer Networks](https://youtu.be/kAty4mKczEg?si=ggZezcrjpaD7m8f9)***
 [![Lec-67: Transport Layer | Responsibilities of Transport Layer | OSI Model | Computer Networks](https://img.youtube.com/vi/kAty4mKczEg/0.jpg)](https://youtu.be/kAty4mKczEg?si=ggZezcrjpaD7m8f9)
 
+# ***[Lec-69: TCP: Transmission control protocol | TCP Header | Transport layer | part -1](https://youtu.be/c8aet11HNxg?si=wr6dEmGpUxdH8cst)***
+[![Lec-69: TCP: Transmission control protocol | TCP Header | Transport layer | part -1](https://img.youtube.com/vi/c8aet11HNxg/0.jpg)](https://youtu.be/c8aet11HNxg?si=wr6dEmGpUxdH8cst)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
