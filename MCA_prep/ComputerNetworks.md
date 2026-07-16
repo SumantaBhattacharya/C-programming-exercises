@@ -63,3 +63,6 @@
 
 # ***[Lec-75: UDP (User Datagram Protocol) header in Computer Networks in Hindi](https://youtu.be/HF_znV8x9a0?si=B6vD8t0-KXVONXFm)***
 [![Lec-75: UDP (User Datagram Protocol) header in Computer Networks in Hindi](https://img.youtube.com/vi/HF_znV8x9a0/0.jpg)](https://youtu.be/HF_znV8x9a0?si=B6vD8t0-KXVONXFm)
+
+# ***[Lec-77: TCP vs UDP differences in hindi](https://youtu.be/jJyXpMmXJI0?si=-SOC6_zyU_jI2bLS)***
+[![Lec-77: TCP vs UDP differences in hindi](https://img.youtube.com/vi/jJyXpMmXJI0/0.jpg)](https://youtu.be/jJyXpMmXJI0?si=-SOC6_zyU_jI2bLS)
