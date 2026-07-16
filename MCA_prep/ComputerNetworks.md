@@ -49,7 +49,7 @@
 # ***[Lec-55: Fragmentation of IPv4 Datagram | Identification, Flags and Fragment Offset | Networks](https://youtu.be/k8VgrqDOIUo?si=rOrgI32Hppij77WF)***
 [![Lec-55: Fragmentation of IPv4 Datagram | Identification, Flags and Fragment Offset | Networks](https://img.youtube.com/vi/k8VgrqDOIUo/0.jpg)](https://youtu.be/k8VgrqDOIUo?si=rOrgI32Hppij77WF)
 
-# ***[Lec-56: Options & Padding in IPv4 Header | Computer Networks](https://youtu.be/W1UzRlh1gNc?si=vcdwhhWjM4egw4hu)***
+# ***[`Lec-56: Options & Padding in IPv4 Header | Computer Networks`](https://youtu.be/W1UzRlh1gNc?si=vcdwhhWjM4egw4hu)***
 [![Lec-56: Options & Padding in IPv4 Header | Computer Networks](https://img.youtube.com/vi/W1UzRlh1gNc/0.jpg)](https://youtu.be/W1UzRlh1gNc?si=vcdwhhWjM4egw4hu)
 
 # ***[Lec-67: Transport Layer | Responsibilities of Transport Layer | OSI Model | Computer Networks](https://youtu.be/kAty4mKczEg?si=ggZezcrjpaD7m8f9)***
@@ -57,3 +57,6 @@
 
 # ***[Lec-69: TCP: Transmission control protocol | TCP Header | Transport layer | part -1](https://youtu.be/c8aet11HNxg?si=wr6dEmGpUxdH8cst)***
 [![Lec-69: TCP: Transmission control protocol | TCP Header | Transport layer | part -1](https://img.youtube.com/vi/c8aet11HNxg/0.jpg)](https://youtu.be/c8aet11HNxg?si=wr6dEmGpUxdH8cst)
+
+# ***[Lec-71: TCP connection Establishment and connection Termination | Transport layer](https://youtu.be/qIEHUUt2Wfc?si=pJpKci7D9MGBkwn2)***
+[![Lec-71: TCP connection Establishment and connection Termination | Transport layer](https://img.youtube.com/vi/qIEHUUt2Wfc/0.jpg)](https://youtu.be/qIEHUUt2Wfc?si=pJpKci7D9MGBkwn2)
