@@ -72,5 +72,8 @@
 # ***[`Lec-81: Domain Name System (DNS) in computer Networks`](https://youtu.be/vhfRArT11jc?si=9NYowWycrtQNvivc)***
 [![Lec-81: Domain Name System (DNS) in computer Networks](https://img.youtube.com/vi/vhfRArT11jc/0.jpg)](https://youtu.be/vhfRArT11jc?si=9NYowWycrtQNvivc)
 
+# ***[`Lec-85 : SMTP vs POP3 vs IMAP with real life example | All in 1 | Application layer Protocols`](https://youtu.be/cjPVlxmf_Vk?si=7v9johjNFFtI4ibK)***
+[![Lec-85 : SMTP vs POP3 vs IMAP with real life example | All in 1 | Application layer Protocols](https://img.youtube.com/vi/cjPVlxmf_Vk/0.jpg)](https://youtu.be/cjPVlxmf_Vk?si=7v9johjNFFtI4ibK)
+
 # ***[`Lec-83: HTTP, FTP, SMTP, POP | All Application Layer Protocols | Computer Networks`](https://youtu.be/pnoWCK82apU?si=SzOYyuIXq2KnJd4G)***
 [![Lec-83: HTTP, FTP, SMTP, POP | All Application Layer Protocols | Computer Networks](https://img.youtube.com/vi/pnoWCK82apU/0.jpg)](https://youtu.be/pnoWCK82apU?si=SzOYyuIXq2KnJd4G)
