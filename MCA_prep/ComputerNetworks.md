@@ -71,3 +71,6 @@
 
 # ***[`Lec-81: Domain Name System (DNS) in computer Networks`](https://youtu.be/vhfRArT11jc?si=9NYowWycrtQNvivc)***
 [![Lec-81: Domain Name System (DNS) in computer Networks](https://img.youtube.com/vi/vhfRArT11jc/0.jpg)](https://youtu.be/vhfRArT11jc?si=9NYowWycrtQNvivc)
+
+# ***[`Lec-83: HTTP, FTP, SMTP, POP | All Application Layer Protocols | Computer Networks`](https://youtu.be/pnoWCK82apU?si=SzOYyuIXq2KnJd4G)***
+[![Lec-83: HTTP, FTP, SMTP, POP | All Application Layer Protocols | Computer Networks](https://img.youtube.com/vi/pnoWCK82apU/0.jpg)](https://youtu.be/pnoWCK82apU?si=SzOYyuIXq2KnJd4G)
