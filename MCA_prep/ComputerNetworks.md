@@ -1,4 +1,3 @@
-
 **Computer Networks**
 
 # ***[Lec-4: TCP/IP Protocol Suite | Internet Protocol Suite | OSI vs TCP/IP](https://youtu.be/GfaHdjApnhU?si=ecrC0f-pdIjJw7-c)***
@@ -66,3 +65,6 @@
 
 # ***[Lec-77: TCP vs UDP differences in hindi](https://youtu.be/jJyXpMmXJI0?si=-SOC6_zyU_jI2bLS)***
 [![Lec-77: TCP vs UDP differences in hindi](https://img.youtube.com/vi/jJyXpMmXJI0/0.jpg)](https://youtu.be/jJyXpMmXJI0?si=-SOC6_zyU_jI2bLS)
+
+# ***[`Lec-80: Application layer of OSI model in Hindi | Application layer protocols & Port no`](https://youtu.be/8An0dRalJeM?si=ML5lcYQ6HD3i4bwO)***
+[![Lec-80: Application layer of OSI model in Hindi | Application layer protocols & Port no](https://img.youtube.com/vi/8An0dRalJeM/0.jpg)](https://youtu.be/8An0dRalJeM?si=ML5lcYQ6HD3i4bwO)
