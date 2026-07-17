@@ -80,3 +80,6 @@
 
 # ***[`Lec-93: What is Firewalls and How it Works | Packet Filtering firewall explained in Hindi Part-1`](https://youtu.be/o_vyfo3Hw0Y?si=TG9P3lg93MB6XWZl)***
 [![Lec-93: What is Firewalls and How it Works | Packet Filtering firewall explained in Hindi Part-1](https://img.youtube.com/vi/o_vyfo3Hw0Y/0.jpg)](https://youtu.be/o_vyfo3Hw0Y?si=TG9P3lg93MB6XWZl)
+
+# ***[`Lec-94: What is Application(Proxy) Firewall in Hindi | Network Security Part-2`](https://youtu.be/CHtTLireUCA?si=rXezOW2nQ2aXGHrt)***
+[![Lec-94: What is Application(Proxy) Firewall in Hindi | Network Security Part-2](https://img.youtube.com/vi/CHtTLireUCA/0.jpg)](https://youtu.be/CHtTLireUCA?si=rXezOW2nQ2aXGHrt)
