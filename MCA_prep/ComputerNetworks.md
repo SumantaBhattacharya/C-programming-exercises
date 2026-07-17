@@ -83,3 +83,6 @@
 
 # ***[`Lec-94: What is Application(Proxy) Firewall in Hindi | Network Security Part-2`](https://youtu.be/CHtTLireUCA?si=rXezOW2nQ2aXGHrt)***
 [![Lec-94: What is Application(Proxy) Firewall in Hindi | Network Security Part-2](https://img.youtube.com/vi/CHtTLireUCA/0.jpg)](https://youtu.be/CHtTLireUCA?si=rXezOW2nQ2aXGHrt)
+
+# ***[`Lec-98 : Bandwidth vs. Throughput vs. Latency | Computer Networks`](https://youtu.be/cDVNU2j26Bs?si=J2_8Wbhglo2Tk87n)***
+[![Lec-98 : Bandwidth vs. Throughput vs. Latency | Computer Networks](https://img.youtube.com/vi/cDVNU2j26Bs/0.jpg)](https://youtu.be/cDVNU2j26Bs?si=J2_8Wbhglo2Tk87n)
