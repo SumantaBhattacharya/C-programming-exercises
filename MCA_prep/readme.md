@@ -139,6 +139,9 @@ Here is the text from the image exactly as it appears:
 # **WB-JECA 2026 Machine Learning Mock Test 2 | Top Important Questions**
 [![WB-JECA 2026 Machine Learning Mock Test 2 | Top Important Questions](https://img.youtube.com/vi/ZnkWyHXEXjQ/0.jpg)](https://youtu.be/ZnkWyHXEXjQ?si=274aEB9PTBZVzwXw)
 
+# ***[DS Mock 1: Discuss MCQ on Array and Queue.](https://youtu.be/rCdZ5ZwCWiw?si=0sff95w0ttU-PS-c)***
+[![DS Mock 1: Discuss MCQ on Array and Queue.](https://img.youtube.com/vi/rCdZ5ZwCWiw/0.jpg)](https://youtu.be/rCdZ5ZwCWiw?si=0sff95w0ttU-PS-c)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
