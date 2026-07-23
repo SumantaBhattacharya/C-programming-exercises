@@ -89,3 +89,6 @@
 
 # ***[IPsec vs. SSH vs. SSL/TLS | Network Security Protocols](https://youtu.be/G9Px24hHlUA?si=m_KFZ-yIEJLzipZa)***
 [![IPsec vs. SSH vs. SSL/TLS | Network Security Protocols](https://img.youtube.com/vi/G9Px24hHlUA/0.jpg)](https://youtu.be/G9Px24hHlUA?si=m_KFZ-yIEJLzipZa)
+
+# ***[What is VPN | How VPN Works 🕵️‍♂️| Virtual Private Network (VPN) with Real Life Examples](https://youtu.be/JFXBjlT5cGU?si=Kc0Pst_ySiuTICcu)***
+[![What is VPN | How VPN Works 🕵️‍♂️| Virtual Private Network (VPN) with Real Life Examples](https://img.youtube.com/vi/JFXBjlT5cGU/0.jpg)](https://youtu.be/JFXBjlT5cGU?si=Kc0Pst_ySiuTICcu)
