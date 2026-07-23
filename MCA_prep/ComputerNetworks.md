@@ -86,3 +86,6 @@
 
 # ***[`Lec-98 : Bandwidth vs. Throughput vs. Latency | Computer Networks`](https://youtu.be/cDVNU2j26Bs?si=J2_8Wbhglo2Tk87n)***
 [![Lec-98 : Bandwidth vs. Throughput vs. Latency | Computer Networks](https://img.youtube.com/vi/cDVNU2j26Bs/0.jpg)](https://youtu.be/cDVNU2j26Bs?si=J2_8Wbhglo2Tk87n)
+
+# ***[IPsec vs. SSH vs. SSL/TLS | Network Security Protocols](https://youtu.be/G9Px24hHlUA?si=m_KFZ-yIEJLzipZa)***
+[![IPsec vs. SSH vs. SSL/TLS | Network Security Protocols](https://img.youtube.com/vi/G9Px24hHlUA/0.jpg)](https://youtu.be/G9Px24hHlUA?si=m_KFZ-yIEJLzipZa)
