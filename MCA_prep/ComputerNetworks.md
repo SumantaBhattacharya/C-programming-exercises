@@ -92,3 +92,6 @@
 
 # ***[What is VPN | How VPN Works 🕵️‍♂️| Virtual Private Network (VPN) with Real Life Examples](https://youtu.be/JFXBjlT5cGU?si=Kc0Pst_ySiuTICcu)***
 [![What is VPN | How VPN Works 🕵️‍♂️| Virtual Private Network (VPN) with Real Life Examples](https://img.youtube.com/vi/JFXBjlT5cGU/0.jpg)](https://youtu.be/JFXBjlT5cGU?si=Kc0Pst_ySiuTICcu)
+
+# ***[HTTP vs HTTPS 🚨 with Examples](https://youtu.be/FmgIQBQ87fo?si=PDnuSvXBoqgiQMfP)***
+[![HTTP vs HTTPS 🚨 with Examples](https://img.youtube.com/vi/FmgIQBQ87fo/0.jpg)](https://youtu.be/FmgIQBQ87fo?si=PDnuSvXBoqgiQMfP)
