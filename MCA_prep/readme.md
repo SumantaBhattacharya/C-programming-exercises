@@ -154,6 +154,9 @@ Here is the text from the image exactly as it appears:
 # ***[DS Mock Class: Full Mock 2 for JECA & SLST](https://youtu.be/gOz7C3DUNig?si=Q0V4a9QItdAUxdCM)***
 [![DS Mock Class: Full Mock 2 for JECA & SLST](https://img.youtube.com/vi/gOz7C3DUNig/0.jpg)](https://youtu.be/gOz7C3DUNig?si=Q0V4a9QItdAUxdCM)
 
+# ***[DS Mock Class: DS Full Mock 3: SLST & JECA](https://youtu.be/HA4xATEpkA4?si=LocZyZuiQB5aUz4o)***
+[![DS Mock Class: DS Full Mock 3: SLST & JECA](https://img.youtube.com/vi/HA4xATEpkA4/0.jpg)](https://youtu.be/HA4xATEpkA4?si=LocZyZuiQB5aUz4o)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
