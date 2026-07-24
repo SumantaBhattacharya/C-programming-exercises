@@ -148,6 +148,9 @@ Here is the text from the image exactly as it appears:
 # ***[DS Mock 1.1: Mock On Array and Stack](https://youtu.be/ocJGkg4i4fw?si=jjvXGHtfuPuahM99)***
 [![DS Mock 1.1: Mock On Array and Stack](https://img.youtube.com/vi/ocJGkg4i4fw/0.jpg)](https://youtu.be/ocJGkg4i4fw?si=jjvXGHtfuPuahM99)
 
+# ***[JECA Mock 1: Networking Mock 1](https://youtu.be/RoEbhEadHtQ?si=bzIg1MjMnM6SDrM5)***
+[![JECA Mock 1: Networking Mock 1](https://img.youtube.com/vi/RoEbhEadHtQ/0.jpg)](https://youtu.be/RoEbhEadHtQ?si=bzIg1MjMnM6SDrM5)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
