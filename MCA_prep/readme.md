@@ -145,6 +145,9 @@ Here is the text from the image exactly as it appears:
 # ***[DS Mock 2: Topic wise Mock Discussion 1 on Queue, Linklist, Tree](https://youtu.be/PGYG_gSDwaY?si=Is9wGP915IAz83IX)***
 [![DS Mock 2: Topic wise Mock Discussion 1 on Queue, Linklist, Tree](https://img.youtube.com/vi/PGYG_gSDwaY/0.jpg)](https://youtu.be/PGYG_gSDwaY?si=Is9wGP915IAz83IX)
 
+# ***[DS Mock 1.1: Mock On Array and Stack](https://youtu.be/ocJGkg4i4fw?si=jjvXGHtfuPuahM99)***
+[![DS Mock 1.1: Mock On Array and Stack](https://img.youtube.com/vi/ocJGkg4i4fw/0.jpg)](https://youtu.be/ocJGkg4i4fw?si=jjvXGHtfuPuahM99)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
