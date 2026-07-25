@@ -166,6 +166,9 @@ Here is the text from the image exactly as it appears:
 # ***[JECA & SLST OOPs Mock 2: Computer Science and Application- SLST](https://youtu.be/fzp33fNrNoc?si=iBBNh4IxiRZo7_1u)***
 [![JECA & SLST OOPs Mock 2: Computer Science and Application- SLST](https://img.youtube.com/vi/fzp33fNrNoc/0.jpg)](https://youtu.be/fzp33fNrNoc?si=iBBNh4IxiRZo7_1u)
 
+# ***[JECA & SLST OOPs Mock 3: Computer Science and Application- SLST](https://youtu.be/LT8im58gz_Y?si=tDSQ4b-xCndd5ouh)***
+[![JECA & SLST OOPs Mock 3: Computer Science and Application- SLST](https://img.youtube.com/vi/LT8im58gz_Y/0.jpg)](https://youtu.be/LT8im58gz_Y?si=tDSQ4b-xCndd5ouh)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
