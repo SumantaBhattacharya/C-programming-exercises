@@ -91,31 +91,31 @@ Here is the text from the image exactly as it appears:
 # **Most expected DBMS questions for JECA 2022**
 [![Most expected DBMS questions for JECA 2022](https://img.youtube.com/vi/PeKp0qdrTGA/0.jpg)](https://youtu.be/PeKp0qdrTGA?si=ak6apQv4b6LpPrgS)
 
-# **WB JECA 2023 EXAM PREPARATION || OOPS || Part - 1 || Most Expected MCQ Questions**
+# ***`WB JECA 2023 EXAM PREPARATION || OOPS || Part - 1 || Most Expected MCQ Questions`***
 [![WB JECA 2023 EXAM PREPARATION || OOPS || Part - 1 || Most Expected MCQ Questions](https://img.youtube.com/vi/PSmqVG1uVlY/0.jpg)](https://youtu.be/PSmqVG1uVlY?si=k4DCKiIwtF3OVSFb)
 
 # **WB JECA 2023 PREPARATION || OOPS - PART 2 || Most Expected MCQ Questions**
 [![WB JECA 2023 PREPARATION || OOPS - PART 2 || Most Expected MCQ Questions](https://img.youtube.com/vi/9WtzLNqrcVE/0.jpg)](https://youtu.be/9WtzLNqrcVE?si=mINXi4oIQvv3a0Ej)
 
-# **Operating System in One Shot | WB JECA 2023 Crash Course**
+# ***`Operating System in One Shot | WB JECA 2023 Crash Course`***
 [![Operating System in One Shot | WB JECA 2023 Crash Course](https://img.youtube.com/vi/vsU0_xvBFkk/0.jpg)](https://youtu.be/vsU0_xvBFkk?si=YyEpVFN2I0R8SUA9) 
 
-# **WB JECA 2023 PREPARATION || C Programming Language || Part 1 || Most Important MCQ Questions**
+# ***`WB JECA 2023 PREPARATION || C Programming Language || Part 1 || Most Important MCQ Questions`***
 [![WB JECA 2023 PREPARATION || C Programming Language || Part 1 || Most Important MCQ Questions](https://img.youtube.com/vi/vCPZA6us4Zc/0.jpg)](https://youtu.be/vCPZA6us4Zc?si=GRRT1sW18VYHb8Ak)
 
-# **WB JECA 2023 PREPARATION || C PROGRAMMING LANGUAGE || Part 2**
+# ***`WB JECA 2023 PREPARATION || C PROGRAMMING LANGUAGE || Part 2`***
 [![WB JECA 2023 PREPARATION || C PROGRAMMING LANGUAGE || Part 2](https://img.youtube.com/vi/H_9qxQ7VpQA/0.jpg)](https://youtu.be/H_9qxQ7VpQA?si=PwoLovTUTLbomwMa)
 
-# **WB JECA EXAM PREPARATION | MOCK TEST ANALYSIS ON C PROGRAMMING LANGUAGE | TARGET JECA 2023**
+# ***`WB JECA EXAM PREPARATION | MOCK TEST ANALYSIS ON C PROGRAMMING LANGUAGE | TARGET JECA 2023`***
 [![WB JECA EXAM PREPARATION | MOCK TEST ANALYSIS ON C PROGRAMMING LANGUAGE | TARGET JECA 2023](https://img.youtube.com/vi/xiO8Fyss2SI/0.jpg)](https://youtu.be/xiO8Fyss2SI?si=qPhMa04rmbj0VvFI)
 
 # **Data Structure Lecture 1 JECA 2022**
 [![Data Structure Lecture 1 JECA 2022](https://img.youtube.com/vi/pXgxkm4nPy8/0.jpg)](https://youtu.be/pXgxkm4nPy8?si=tD2ClNY1To4thO4J)
 
-# **Data Structure Lecture 2 JECA 2022**
-[![Data Structure Lecture 2 JECA 2022](https://img.youtube.com/vi/fPx56KBDeYA/0.jpg)](https://youtu.be/fPx56KBDeYA?si=7wuSnzg2VmRcUBGl)
+# ***Data Structure Lecture 2 JECA 2022***
+[![`Data Structure Lecture 2 JECA 2022`](https://img.youtube.com/vi/fPx56KBDeYA/0.jpg)](https://youtu.be/fPx56KBDeYA?si=7wuSnzg2VmRcUBGl)
 
-# **Machine Learning in ONE SHOT for WB JECA 2023**
+# ***`Machine Learning in ONE SHOT for WB JECA 2023`***
 [![Machine Learning in ONE SHOT for WB JECA 2023](https://img.youtube.com/vi/96IrU-c4oLI/0.jpg)](https://youtu.be/96IrU-c4oLI?si=oY_WzdFjMr6hqQq8)
 
 # **Operating System MCQs | For All Competitive Exams**
@@ -124,59 +124,62 @@ Here is the text from the image exactly as it appears:
 # **C language MCQs | C mcq questions and answers**
 [![C language MCQs | C mcq questions and answers](https://img.youtube.com/vi/Q6raLU5nK_w/0.jpg)](https://youtu.be/Q6raLU5nK_w?si=ic2D-RgSUwsusoYc)
 
-# **C MCQs | C MCQ Questions and Answers | Top 50 C Programming MCQs**
+# ***`C MCQs | C MCQ Questions and Answers | Top 50 C Programming MCQs`***
 [![C MCQs | C MCQ Questions and Answers | Top 50 C Programming MCQs](https://img.youtube.com/vi/yrRCVFyxL6A/0.jpg)](https://youtu.be/yrRCVFyxL6A?si=Wlzx1HuIH3UjHuwh)
 
-# **Top 20 C++ Mcq | C++ MCQs Questions and Answers**
+# ***`Top 20 C++ Mcq | C++ MCQs Questions and Answers`***
 [![Top 20 C++ Mcq | C++ MCQs Questions and Answers](https://img.youtube.com/vi/bw19ngoOs-4/0.jpg)](https://youtu.be/bw19ngoOs-4?si=OeO8m42JWkfvUp82)
 
-# **C++ MCQ | c++ mcq questions and answers**
+# ***`C++ MCQ | c++ mcq questions and answers`***
 [![C++ MCQ | c++ mcq questions and answers](https://img.youtube.com/vi/IE3G5F7mBPQ/0.jpg)](https://youtu.be/IE3G5F7mBPQ?si=55loRrp4svoEegqr)
 
-# **WB-JECA 2026 Machine Learning Mock Test 1 | Top Important Questions**
+# **`WB-JECA 2026 Machine Learning Mock Test 1 | Top Important Questions`**
 [![WB-JECA 2026 Machine Learning Mock Test 1 | Top Important Questions](https://img.youtube.com/vi/CkeKEdzvMX0/0.jpg)](https://youtu.be/CkeKEdzvMX0?si=U78lW3t97TQNvfZv)
 
-# **WB-JECA 2026 Machine Learning Mock Test 2 | Top Important Questions**
+# ***`WB-JECA 2026 Machine Learning Mock Test 2 | Top Important Questions`***
 [![WB-JECA 2026 Machine Learning Mock Test 2 | Top Important Questions](https://img.youtube.com/vi/ZnkWyHXEXjQ/0.jpg)](https://youtu.be/ZnkWyHXEXjQ?si=274aEB9PTBZVzwXw)
 
-# ***[DS Mock 1: Discuss MCQ on Array and Queue.](https://youtu.be/rCdZ5ZwCWiw?si=0sff95w0ttU-PS-c)***
+# ***[`DS Mock 1: Discuss MCQ on Array and Queue.`](https://youtu.be/rCdZ5ZwCWiw?si=0sff95w0ttU-PS-c)***
 [![DS Mock 1: Discuss MCQ on Array and Queue.](https://img.youtube.com/vi/rCdZ5ZwCWiw/0.jpg)](https://youtu.be/rCdZ5ZwCWiw?si=0sff95w0ttU-PS-c)
 
-# ***[DS Mock 2: Topic wise Mock Discussion 1 on Queue, Linklist, Tree](https://youtu.be/PGYG_gSDwaY?si=Is9wGP915IAz83IX)***
+# ***[`DS Mock 2: Topic wise Mock Discussion 1 on Queue, Linklist, Tree`](https://youtu.be/PGYG_gSDwaY?si=Is9wGP915IAz83IX)***
 [![DS Mock 2: Topic wise Mock Discussion 1 on Queue, Linklist, Tree](https://img.youtube.com/vi/PGYG_gSDwaY/0.jpg)](https://youtu.be/PGYG_gSDwaY?si=Is9wGP915IAz83IX)
 
-# ***[DS Mock 1.1: Mock On Array and Stack](https://youtu.be/ocJGkg4i4fw?si=jjvXGHtfuPuahM99)***
+# ***[`DS Mock 1.1: Mock On Array and Stack`](https://youtu.be/ocJGkg4i4fw?si=jjvXGHtfuPuahM99)***
 [![DS Mock 1.1: Mock On Array and Stack](https://img.youtube.com/vi/ocJGkg4i4fw/0.jpg)](https://youtu.be/ocJGkg4i4fw?si=jjvXGHtfuPuahM99)
 
-# ***[JECA Mock 1: Networking Mock 1](https://youtu.be/RoEbhEadHtQ?si=bzIg1MjMnM6SDrM5)***
+# ***[`JECA Mock 1: Networking Mock 1`](https://youtu.be/RoEbhEadHtQ?si=bzIg1MjMnM6SDrM5)***
 [![JECA Mock 1: Networking Mock 1](https://img.youtube.com/vi/RoEbhEadHtQ/0.jpg)](https://youtu.be/RoEbhEadHtQ?si=bzIg1MjMnM6SDrM5)
 
-# ***[DS Mock Class: Full Mock 2 for JECA & SLST](https://youtu.be/gOz7C3DUNig?si=Q0V4a9QItdAUxdCM)***
+# ***[`DS Mock Class: Full Mock 2 for JECA & SLST`](https://youtu.be/gOz7C3DUNig?si=Q0V4a9QItdAUxdCM)***
 [![DS Mock Class: Full Mock 2 for JECA & SLST](https://img.youtube.com/vi/gOz7C3DUNig/0.jpg)](https://youtu.be/gOz7C3DUNig?si=Q0V4a9QItdAUxdCM)
 
-# ***[DS Mock Class: DS Full Mock 3: SLST & JECA](https://youtu.be/HA4xATEpkA4?si=LocZyZuiQB5aUz4o)***
+# ***[`DS Mock Class: DS Full Mock 3: SLST & JECA`](https://youtu.be/HA4xATEpkA4?si=LocZyZuiQB5aUz4o)***
 [![DS Mock Class: DS Full Mock 3: SLST & JECA](https://img.youtube.com/vi/HA4xATEpkA4/0.jpg)](https://youtu.be/HA4xATEpkA4?si=LocZyZuiQB5aUz4o)
 
-# ***[DS Mock Class: DS Full Mock 4: SLST & JECA :: Computer SC & Application](https://youtu.be/0G2_GFeWyoA?si=cdaXYUYSNGlTpgcq)***
+# ***[`DS Mock Class: DS Full Mock 4: SLST & JECA :: Computer SC & Application`](https://youtu.be/0G2_GFeWyoA?si=cdaXYUYSNGlTpgcq)***
 [![DS Mock Class: DS Full Mock 4: SLST & JECA :: Computer SC & Application](https://img.youtube.com/vi/0G2_GFeWyoA/0.jpg)](https://youtu.be/0G2_GFeWyoA?si=cdaXYUYSNGlTpgcq)
 
-# ***[Networking Full Mock 1: SLST & JECA Preparation](https://youtu.be/QHOzbdKPyaI?si=OFjg_GGE81ckwLfl)***
+# ***[`Networking Full Mock 1: SLST & JECA Preparation`](https://youtu.be/QHOzbdKPyaI?si=OFjg_GGE81ckwLfl)***
 [![Networking Full Mock 1: SLST & JECA Preparation](https://img.youtube.com/vi/QHOzbdKPyaI/0.jpg)](https://youtu.be/QHOzbdKPyaI?si=OFjg_GGE81ckwLfl)
 
-# ***[JECA & SLST OOPs Mock 2: Computer Science and Application- SLST](https://youtu.be/fzp33fNrNoc?si=iBBNh4IxiRZo7_1u)***
+# ***[`JECA & SLST OOPs Mock 2: Computer Science and Application- SLST`](https://youtu.be/fzp33fNrNoc?si=iBBNh4IxiRZo7_1u)***
 [![JECA & SLST OOPs Mock 2: Computer Science and Application- SLST](https://img.youtube.com/vi/fzp33fNrNoc/0.jpg)](https://youtu.be/fzp33fNrNoc?si=iBBNh4IxiRZo7_1u)
 
-# ***[JECA & SLST OOPs Mock 3: Computer Science and Application- SLST](https://youtu.be/LT8im58gz_Y?si=tDSQ4b-xCndd5ouh)***
+# ***[`JECA & SLST OOPs Mock 3: Computer Science and Application- SLST`](https://youtu.be/LT8im58gz_Y?si=tDSQ4b-xCndd5ouh)***
 [![JECA & SLST OOPs Mock 3: Computer Science and Application- SLST](https://img.youtube.com/vi/LT8im58gz_Y/0.jpg)](https://youtu.be/LT8im58gz_Y?si=tDSQ4b-xCndd5ouh)
 
-# ***[JECA & SLST OOPs Mock 5: Computer Science and Application- SLST](https://youtu.be/oztJ-HInsnQ?si=pk1degTPyj5sGsWX)***
+# ***[`JECA & SLST OOPs Mock 5: Computer Science and Application- SLST`](https://youtu.be/oztJ-HInsnQ?si=pk1degTPyj5sGsWX)***
 [![JECA & SLST OOPs Mock 5: Computer Science and Application- SLST](https://img.youtube.com/vi/oztJ-HInsnQ/0.jpg)](https://youtu.be/oztJ-HInsnQ?si=pk1degTPyj5sGsWX)
 
-# ***[JECA Mock 1: Multiple Answer type Question: DS-OS-DBMS-NW](https://youtu.be/aG2uuRR6i2Q?si=Xasdyk_IinSEvta3)***
+# ***[`JECA Mock 1: Multiple Answer type Question: DS-OS-DBMS-NW`](https://youtu.be/aG2uuRR6i2Q?si=Xasdyk_IinSEvta3)***
 [![JECA Mock 1: Multiple Answer type Question: DS-OS-DBMS-NW](https://img.youtube.com/vi/aG2uuRR6i2Q/0.jpg)](https://youtu.be/aG2uuRR6i2Q?si=Xasdyk_IinSEvta3)
 
-# ***[Part 1 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://youtu.be/NltTCQAInWA?si=RSyIds0ocBKdd1np)***
+# ***[`Part 1 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca`](https://youtu.be/NltTCQAInWA?si=RSyIds0ocBKdd1np)***
 [![Part 1 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://img.youtube.com/vi/NltTCQAInWA/0.jpg)](https://youtu.be/NltTCQAInWA?si=RSyIds0ocBKdd1np)
+
+# ***[`Part 2 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca`](https://youtu.be/-HMHsizZPyI?si=_7AaWKHyG3tGHAUz)***
+[![Part 2 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://img.youtube.com/vi/-HMHsizZPyI/0.jpg)](https://youtu.be/-HMHsizZPyI?si=_7AaWKHyG3tGHAUz)
 
 # ***Certificate of Participation***
 
