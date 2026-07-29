@@ -175,6 +175,9 @@ Here is the text from the image exactly as it appears:
 # ***[JECA Mock 1: Multiple Answer type Question: DS-OS-DBMS-NW](https://youtu.be/aG2uuRR6i2Q?si=Xasdyk_IinSEvta3)***
 [![JECA Mock 1: Multiple Answer type Question: DS-OS-DBMS-NW](https://img.youtube.com/vi/aG2uuRR6i2Q/0.jpg)](https://youtu.be/aG2uuRR6i2Q?si=Xasdyk_IinSEvta3)
 
+# ***[Part 1 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://youtu.be/NltTCQAInWA?si=RSyIds0ocBKdd1np)***
+[![Part 1 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://img.youtube.com/vi/NltTCQAInWA/0.jpg)](https://youtu.be/NltTCQAInWA?si=RSyIds0ocBKdd1np)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
