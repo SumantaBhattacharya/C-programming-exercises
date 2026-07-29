@@ -181,6 +181,9 @@ Here is the text from the image exactly as it appears:
 # ***[`Part 2 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca`](https://youtu.be/-HMHsizZPyI?si=_7AaWKHyG3tGHAUz)***
 [![Part 2 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://img.youtube.com/vi/-HMHsizZPyI/0.jpg)](https://youtu.be/-HMHsizZPyI?si=_7AaWKHyG3tGHAUz)
 
+# **[Part 3 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://youtu.be/q6ofg6JnAcM?si=9ZJxLS3uhy1zIiye)**
+[![Part 3 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://img.youtube.com/vi/q6ofg6JnAcM/0.jpg)](https://youtu.be/q6ofg6JnAcM?si=9ZJxLS3uhy1zIiye)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
