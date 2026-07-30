@@ -179,14 +179,17 @@ Here is the text from the image exactly as it appears:
 # ***[`Part 2 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca`](https://youtu.be/-HMHsizZPyI?si=_7AaWKHyG3tGHAUz)***
 [![Part 2 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://img.youtube.com/vi/-HMHsizZPyI/0.jpg)](https://youtu.be/-HMHsizZPyI?si=_7AaWKHyG3tGHAUz)
 
-# **[Part 3 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://youtu.be/q6ofg6JnAcM?si=9ZJxLS3uhy1zIiye)**
+# **[`Part 3 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca`](https://youtu.be/q6ofg6JnAcM?si=9ZJxLS3uhy1zIiye)**
 [![Part 3 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://img.youtube.com/vi/q6ofg6JnAcM/0.jpg)](https://youtu.be/q6ofg6JnAcM?si=9ZJxLS3uhy1zIiye)
 
-# **[Part 4 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://youtu.be/CjO98ddxzL0?si=eKVmSc7F7vAtqy3e)**  
+# **[`Part 4 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca`](https://youtu.be/CjO98ddxzL0?si=eKVmSc7F7vAtqy3e)**  
 [![Part 4 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://img.youtube.com/vi/CjO98ddxzL0/0.jpg)](https://youtu.be/CjO98ddxzL0?si=eKVmSc7F7vAtqy3e)
 
-# **[Part 5 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://youtu.be/D-T1YESp-TU?si=Fdp1oiF-oq9jhEGF)**  
+# **[`Part 5 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca`](https://youtu.be/D-T1YESp-TU?si=Fdp1oiF-oq9jhEGF)**  
 [![Part 5 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://img.youtube.com/vi/D-T1YESp-TU/0.jpg)](https://youtu.be/D-T1YESp-TU?si=Fdp1oiF-oq9jhEGF)
+
+# **[`Part 6 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca`](https://youtu.be/UCzDoPXqGys?si=O9g5IIbweB1OGTRk)**  
+[![Part 6 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://img.youtube.com/vi/UCzDoPXqGys/0.jpg)](https://youtu.be/UCzDoPXqGys?si=O9g5IIbweB1OGTRk)
 
 # ***Certificate of Participation***
 
