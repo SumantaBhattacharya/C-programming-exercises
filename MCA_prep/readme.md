@@ -192,7 +192,10 @@ Here is the text from the image exactly as it appears:
 [![Part 6 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://img.youtube.com/vi/UCzDoPXqGys/0.jpg)](https://youtu.be/UCzDoPXqGys?si=O9g5IIbweB1OGTRk)
 
 # **[Part 7 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://youtu.be/a2b-NgVuiv0?si=SLlSkzXYPa6p1Vc_)**  
-[![Part 7 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://img.youtube.com/vi/a2b-NgVuiv0/0.jpg)](https://youtu.be/a2b-NgVuiv0?si=SLlSkzXYPa6p1Vc_)
+[![Part 7 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://img.youtube.com/vi/a2b-NgVuiv0/0.jpg)](https://youtu.be/a2b-NgVuiv0?si=SLlSkzXYPa6p1Vc)
+
+# **[Part 8 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://youtu.be/s7FT3n5njBA?si=0lcJy7LW_xhQG6Bi)**  
+[![Part 8 : C mcq questions with answers for placement | 500 MCQ Series | wb jeca](https://img.youtube.com/vi/s7FT3n5njBA/0.jpg)](https://youtu.be/s7FT3n5njBA?si=0lcJy7LW_xhQG6Bi)
 
 # ***Certificate of Participation***
 
