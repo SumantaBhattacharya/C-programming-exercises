@@ -200,6 +200,9 @@ Here is the text from the image exactly as it appears:
 # **[`Part 1: DBMS Mock test - DBMS most important questions for any competitive exams`](https://youtu.be/dYoyk-EjzyM?si=MD5mDFuTEnTJdq1L)**  
 [![Part 1: DBMS Mock test - DBMS most important questions for any competitive exams](https://img.youtube.com/vi/dYoyk-EjzyM/0.jpg)](https://youtu.be/dYoyk-EjzyM?si=MD5mDFuTEnTJdq1L)
 
+# **[`Part 2: DBMS mock test - DBMS most important questions for any competitive exams`](https://youtu.be/vYRABmNrvQU?si=ArATNH7PwHoc6VRk)**  
+[![Part 2: DBMS mock test - DBMS most important questions for any competitive exams](https://img.youtube.com/vi/vYRABmNrvQU/0.jpg)](https://youtu.be/vYRABmNrvQU?si=ArATNH7PwHoc6VRk)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
