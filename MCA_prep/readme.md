@@ -203,6 +203,9 @@ Here is the text from the image exactly as it appears:
 # **[`Part 2: DBMS mock test - DBMS most important questions for any competitive exams`](https://youtu.be/vYRABmNrvQU?si=ArATNH7PwHoc6VRk)**  
 [![Part 2: DBMS mock test - DBMS most important questions for any competitive exams](https://img.youtube.com/vi/vYRABmNrvQU/0.jpg)](https://youtu.be/vYRABmNrvQU?si=ArATNH7PwHoc6VRk)
 
+# **[Part 1: Networking mock test for any competitive exam | Networking MCQ](https://youtu.be/7b9lS-UpInQ?si=anWRnBs8uuWTYPdY)**  
+[![Part 1: Networking mock test for any competitive exam | Networking MCQ](https://img.youtube.com/vi/7b9lS-UpInQ/0.jpg)](https://youtu.be/7b9lS-UpInQ?si=anWRnBs8uuWTYPdY)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
