@@ -209,6 +209,9 @@ Here is the text from the image exactly as it appears:
 # **[`WBJECA Data Structure MCQs 🔥 | Most Important Questions with Answers | MCA Entrance Prep 2026`](https://youtu.be/OJ0LZAtPeIs?si=SMlSr7GgwwJygNTr)**  
 [![WBJECA Data Structure MCQs 🔥 | Most Important Questions with Answers | MCA Entrance Prep 2026 #jeca](https://img.youtube.com/vi/OJ0LZAtPeIs/0.jpg)](https://youtu.be/OJ0LZAtPeIs?si=SMlSr7GgwwJygNTr)
 
+# **[C Programming MCQs for JECA 2026 | Questions with Answers](https://youtu.be/iKr3TlimUQQ?si=vZE7YasnDDAA79CV)**  
+[![C Programming MCQs for JECA 2026 | Questions with Answers | #jecaexam #jeca #bangla](https://img.youtube.com/vi/iKr3TlimUQQ/0.jpg)](https://youtu.be/iKr3TlimUQQ?si=vZE7YasnDDAA79CV)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
