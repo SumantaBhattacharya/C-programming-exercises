@@ -65,6 +65,9 @@ Here is the text from the image exactly as it appears:
 # ***[JECA 2026 Mock Test 1 | Full Syllabus Practice | MCA Entrance Exam Preparation](https://youtu.be/ijGCIVQxZEA?si=gMgZz4SiWre0apWv)***
 [![JECA 2026 Mock Test 1 | Full Syllabus Practice | MCA Entrance Exam Preparation](https://img.youtube.com/vi/ijGCIVQxZEA/0.jpg)](https://youtu.be/ijGCIVQxZEA?si=gMgZz4SiWre0apWv)
 
+# **[JECA 2026 Mock Test 2 | Full Syllabus Practice | MCA Entrance Exam Preparation](https://youtu.be/0Z3ufmj0oUo?si=APVK90iPDbH8sJ7Y)**  
+[![JECA 2026 Mock Test 2 | Full Syllabus Practice | MCA Entrance Exam Preparation](https://img.youtube.com/vi/0Z3ufmj0oUo/0.jpg)](https://youtu.be/0Z3ufmj0oUo?si=APVK90iPDbH8sJ7Y)
+
 # ***C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 1***
 [![C Programming MCQs for JECA Exam 2025 | Important Questions & Answers Set 1](https://img.youtube.com/vi/4H5XOObRKAo/0.jpg)](https://youtu.be/4H5XOObRKAo?si=0pdRwlu8nicN8Iuw)
 
@@ -212,8 +215,8 @@ Here is the text from the image exactly as it appears:
 # **[C Programming MCQs for JECA 2026 | Questions with Answers](https://youtu.be/iKr3TlimUQQ?si=vZE7YasnDDAA79CV)**  
 [![C Programming MCQs for JECA 2026 | Questions with Answers | #jecaexam #jeca #bangla](https://img.youtube.com/vi/iKr3TlimUQQ/0.jpg)](https://youtu.be/iKr3TlimUQQ?si=vZE7YasnDDAA79CV)
 
-# **[JECA 2026 Mock Test 2 | Full Syllabus Practice | MCA Entrance Exam Preparation](https://youtu.be/0Z3ufmj0oUo?si=APVK90iPDbH8sJ7Y)**  
-[![JECA 2026 Mock Test 2 | Full Syllabus Practice | MCA Entrance Exam Preparation](https://img.youtube.com/vi/0Z3ufmj0oUo/0.jpg)](https://youtu.be/0Z3ufmj0oUo?si=APVK90iPDbH8sJ7Y)
+# **[`GATE CSE 2013`](https://youtu.be/Xh2bqt9mjjE?si=ApwyeOXyzhfvKcxx)**  
+[![GATE CSE 2013](https://img.youtube.com/vi/Xh2bqt9mjjE/0.jpg)](https://youtu.be/Xh2bqt9mjjE?si=ApwyeOXyzhfvKcxx)
 
 # ***Certificate of Participation***
 
