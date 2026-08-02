@@ -224,6 +224,9 @@ Here is the text from the image exactly as it appears:
 # **[Top DSA MCQs You Must Solve for Placements – Part 2](https://www.youtube.com/live/Xfe1pLQWXto?si=-fHr01tDrq4SDokH)**  
 [![Top DSA MCQs You Must Solve for Placements – Part 2 ✅](https://img.youtube.com/vi/Xfe1pLQWXto/0.jpg)](https://www.youtube.com/live/Xfe1pLQWXto?si=-fHr01tDrq4SDokH)
 
+# **[Sub-layers of the Data Link Layer](https://youtu.be/N1apF49Ih28?si=Qmj3G85BfpUrRdjd)**  
+[![Sub-layers of the Data Link Layer](https://img.youtube.com/vi/N1apF49Ih28/0.jpg)](https://youtu.be/N1apF49Ih28?si=Qmj3G85BfpUrRdjd)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
