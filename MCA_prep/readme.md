@@ -227,6 +227,9 @@ Here is the text from the image exactly as it appears:
 # **[Sub-layers of the Data Link Layer](https://youtu.be/N1apF49Ih28?si=Qmj3G85BfpUrRdjd)**  
 [![Sub-layers of the Data Link Layer](https://img.youtube.com/vi/N1apF49Ih28/0.jpg)](https://youtu.be/N1apF49Ih28?si=Qmj3G85BfpUrRdjd)
 
+# **[TCP/IP Model MCQs Most Asked in Exams | Important Questions & Answers](https://youtu.be/CIh3CwQSme8?si=vgW47FG3VB3Z_ygu)**  
+[![TCP/IP Model MCQs Most Asked in Exams | Important Questions & Answers](https://img.youtube.com/vi/CIh3CwQSme8/0.jpg)](https://youtu.be/CIh3CwQSme8?si=vgW47FG3VB3Z_ygu)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
