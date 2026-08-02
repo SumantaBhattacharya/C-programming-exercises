@@ -221,6 +221,9 @@ Here is the text from the image exactly as it appears:
 # **[GATE CSE 2013](https://youtu.be/H53xuw7e4AE?si=zMgKHUyydOOWOXGV)**  
 [![GATE CSE 2013](https://img.youtube.com/vi/H53xuw7e4AE/0.jpg)](https://youtu.be/H53xuw7e4AE?si=zMgKHUyydOOWOXGV)
 
+# **[Top DSA MCQs You Must Solve for Placements – Part 2](https://www.youtube.com/live/Xfe1pLQWXto?si=-fHr01tDrq4SDokH)**  
+[![Top DSA MCQs You Must Solve for Placements – Part 2 ✅](https://img.youtube.com/vi/Xfe1pLQWXto/0.jpg)](https://www.youtube.com/live/Xfe1pLQWXto?si=-fHr01tDrq4SDokH)
+
 # ***Certificate of Participation***
 
 [![C Programming Exercises img](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)](https://github.com/SumantaBhattacharya/C-programming-exercises/blob/main/f0baaf53-6424-43d5-8dcd-9a4cbc8a1fbe.jpg?raw=true)
