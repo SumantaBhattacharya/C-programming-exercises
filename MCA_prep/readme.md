@@ -146,6 +146,9 @@ Here is the text from the image exactly as it appears:
 # **[Top 50 Database MCQs | Database Questions and Answers | Part- 2](https://youtu.be/QtlMGdrZBG8?si=6_4Ctquytsu03uzF)**  
 [![Top 50 Database MCQs | Database Questions and Answers | Part- 2](https://img.youtube.com/vi/QtlMGdrZBG8/0.jpg)](https://youtu.be/QtlMGdrZBG8?si=6_4Ctquytsu03uzF)
 
+# **[Top 50 Database MCQs | Database Questions and Answers | Part- 3](https://youtu.be/XXTP6yBW6FU?si=-tWCGTMdaYqyCPLn)**  
+[![Top 50 Database MCQs | Database Questions and Answers | Part- 3](https://img.youtube.com/vi/XXTP6yBW6FU/0.jpg)](https://youtu.be/XXTP6yBW6FU?si=-tWCGTMdaYqyCPLn)
+
 # **`WB-JECA 2026 Machine Learning Mock Test 1 | Top Important Questions`**
 [![WB-JECA 2026 Machine Learning Mock Test 1 | Top Important Questions](https://img.youtube.com/vi/CkeKEdzvMX0/0.jpg)](https://youtu.be/CkeKEdzvMX0?si=U78lW3t97TQNvfZv)
 
