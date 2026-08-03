@@ -134,14 +134,17 @@ Here is the text from the image exactly as it appears:
 # ***`C++ MCQ | c++ mcq questions and answers`***
 [![C++ MCQ | c++ mcq questions and answers](https://img.youtube.com/vi/IE3G5F7mBPQ/0.jpg)](https://youtu.be/IE3G5F7mBPQ?si=55loRrp4svoEegqr)
 
-# **[TCP/IP Model MCQs Most Asked in Exams | Important Questions & Answers](https://youtu.be/CIh3CwQSme8?si=vgW47FG3VB3Z_ygu)**  
+# **[`TCP/IP Model MCQs Most Asked in Exams | Important Questions & Answers`](https://youtu.be/CIh3CwQSme8?si=vgW47FG3VB3Z_ygu)**  
 [![TCP/IP Model MCQs Most Asked in Exams | Important Questions & Answers](https://img.youtube.com/vi/CIh3CwQSme8/0.jpg)](https://youtu.be/CIh3CwQSme8?si=vgW47FG3VB3Z_ygu)
 
-# **[Top 100 DBMS MCQ | Database Management System MCQ](https://youtu.be/yGjNC9Fmvgc?si=vRo2elnr6zjNdSD-)**  
+# **[`Top 100 DBMS MCQ | Database Management System MCQ`](https://youtu.be/yGjNC9Fmvgc?si=vRo2elnr6zjNdSD-)**  
 [![Top 100 DBMS MCQ | Database Management System MCQ](https://img.youtube.com/vi/yGjNC9Fmvgc/0.jpg)](https://youtu.be/yGjNC9Fmvgc?si=vRo2elnr6zjNdSD-)
 
-# **[Database MCQs | Database Questions and Answers | Part- 1](https://youtu.be/mpojVyp6fXw?si=m-RHDsHmQNIz7wnW)**  
+# **[`Database MCQs | Database Questions and Answers | Part- 1`](https://youtu.be/mpojVyp6fXw?si=m-RHDsHmQNIz7wnW)**  
 [![Database MCQs | Database Questions and Answers | Part- 1](https://img.youtube.com/vi/mpojVyp6fXw/0.jpg)](https://youtu.be/mpojVyp6fXw?si=m-RHDsHmQNIz7wnW)
+
+# **[Top 50 Database MCQs | Database Questions and Answers | Part- 2](https://youtu.be/QtlMGdrZBG8?si=6_4Ctquytsu03uzF)**  
+[![Top 50 Database MCQs | Database Questions and Answers | Part- 2](https://img.youtube.com/vi/QtlMGdrZBG8/0.jpg)](https://youtu.be/QtlMGdrZBG8?si=6_4Ctquytsu03uzF)
 
 # **`WB-JECA 2026 Machine Learning Mock Test 1 | Top Important Questions`**
 [![WB-JECA 2026 Machine Learning Mock Test 1 | Top Important Questions](https://img.youtube.com/vi/CkeKEdzvMX0/0.jpg)](https://youtu.be/CkeKEdzvMX0?si=U78lW3t97TQNvfZv)
