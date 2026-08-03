@@ -134,6 +134,12 @@ Here is the text from the image exactly as it appears:
 # ***`C++ MCQ | c++ mcq questions and answers`***
 [![C++ MCQ | c++ mcq questions and answers](https://img.youtube.com/vi/IE3G5F7mBPQ/0.jpg)](https://youtu.be/IE3G5F7mBPQ?si=55loRrp4svoEegqr)
 
+# **[TCP/IP Model MCQs Most Asked in Exams | Important Questions & Answers](https://youtu.be/CIh3CwQSme8?si=vgW47FG3VB3Z_ygu)**  
+[![TCP/IP Model MCQs Most Asked in Exams | Important Questions & Answers](https://img.youtube.com/vi/CIh3CwQSme8/0.jpg)](https://youtu.be/CIh3CwQSme8?si=vgW47FG3VB3Z_ygu)
+
+# **[Top 100 DBMS MCQ | Database Management System MCQ](https://youtu.be/yGjNC9Fmvgc?si=vRo2elnr6zjNdSD-)**  
+[![Top 100 DBMS MCQ | Database Management System MCQ](https://img.youtube.com/vi/yGjNC9Fmvgc/0.jpg)](https://youtu.be/yGjNC9Fmvgc?si=vRo2elnr6zjNdSD-)
+
 # **`WB-JECA 2026 Machine Learning Mock Test 1 | Top Important Questions`**
 [![WB-JECA 2026 Machine Learning Mock Test 1 | Top Important Questions](https://img.youtube.com/vi/CkeKEdzvMX0/0.jpg)](https://youtu.be/CkeKEdzvMX0?si=U78lW3t97TQNvfZv)
 
@@ -226,9 +232,6 @@ Here is the text from the image exactly as it appears:
 
 # **[Sub-layers of the Data Link Layer](https://youtu.be/N1apF49Ih28?si=Qmj3G85BfpUrRdjd)**  
 [![Sub-layers of the Data Link Layer](https://img.youtube.com/vi/N1apF49Ih28/0.jpg)](https://youtu.be/N1apF49Ih28?si=Qmj3G85BfpUrRdjd)
-
-# **[TCP/IP Model MCQs Most Asked in Exams | Important Questions & Answers](https://youtu.be/CIh3CwQSme8?si=vgW47FG3VB3Z_ygu)**  
-[![TCP/IP Model MCQs Most Asked in Exams | Important Questions & Answers](https://img.youtube.com/vi/CIh3CwQSme8/0.jpg)](https://youtu.be/CIh3CwQSme8?si=vgW47FG3VB3Z_ygu)
 
 # ***Certificate of Participation***
 
