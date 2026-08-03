@@ -140,6 +140,9 @@ Here is the text from the image exactly as it appears:
 # **[Top 100 DBMS MCQ | Database Management System MCQ](https://youtu.be/yGjNC9Fmvgc?si=vRo2elnr6zjNdSD-)**  
 [![Top 100 DBMS MCQ | Database Management System MCQ](https://img.youtube.com/vi/yGjNC9Fmvgc/0.jpg)](https://youtu.be/yGjNC9Fmvgc?si=vRo2elnr6zjNdSD-)
 
+# **[Database MCQs | Database Questions and Answers | Part- 1](https://youtu.be/mpojVyp6fXw?si=m-RHDsHmQNIz7wnW)**  
+[![Database MCQs | Database Questions and Answers | Part- 1](https://img.youtube.com/vi/mpojVyp6fXw/0.jpg)](https://youtu.be/mpojVyp6fXw?si=m-RHDsHmQNIz7wnW)
+
 # **`WB-JECA 2026 Machine Learning Mock Test 1 | Top Important Questions`**
 [![WB-JECA 2026 Machine Learning Mock Test 1 | Top Important Questions](https://img.youtube.com/vi/CkeKEdzvMX0/0.jpg)](https://youtu.be/CkeKEdzvMX0?si=U78lW3t97TQNvfZv)
 
