@@ -239,6 +239,9 @@ Here is the text from the image exactly as it appears:
 # **[GATE CSE 2013](https://youtu.be/H53xuw7e4AE?si=zMgKHUyydOOWOXGV)**  
 [![GATE CSE 2013](https://img.youtube.com/vi/H53xuw7e4AE/0.jpg)](https://youtu.be/H53xuw7e4AE?si=zMgKHUyydOOWOXGV)
 
+# **[DSA MCQs for Placements](https://www.youtube.com/live/_8zRTDCxecU?si=y2NwoI7Z_wSpWp8x)**  
+[![DSA MCQs for Placements](https://img.youtube.com/vi/_8zRTDCxecU/0.jpg)](https://www.youtube.com/live/_8zRTDCxecU?si=y2NwoI7Z_wSpWp8x)
+
 # **[Top DSA MCQs You Must Solve for Placements – Part 2](https://www.youtube.com/live/Xfe1pLQWXto?si=-fHr01tDrq4SDokH)**  
 [![Top DSA MCQs You Must Solve for Placements – Part 2 ✅](https://img.youtube.com/vi/Xfe1pLQWXto/0.jpg)](https://www.youtube.com/live/Xfe1pLQWXto?si=-fHr01tDrq4SDokH)
 
