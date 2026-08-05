@@ -1,0 +1,46 @@
+TCP 3 way handshaking method.
+
+TCP Three way handshaking is a fundamental process 
+that establishes a reliable connection between two devices over TCP, IP Network. 
+
+During the handshake, 
+the client and the server exchange initial sequence of numbers 
+and confirm the connection establishment
+
+step 1 SYN 
+In the first step,
+the client requests to establish a connection with the server, 
+so it sends a segment with SYN (Synchronize sequence number)
+which informs this server that client likes to establish a communication. 
+
+step 2 (SYN+ACK)
+Server responds to the client request with SYN + ACK signal bit set 
+ACK (Acknowledgement) Signifies the response of the segment it received and SYN signifies the sequence of number which is likely to start the Segment with. 
+
+step 3 (ACK)
+In the last step, the client acknowledges the response of the server 
+And they both establish a reliable connection. 
+
+What is the purpose of the SYN flag in the TCP three away handshake.
+The SYN (SYNCHRONIZE SEQUENCE NUMBER) flag is used in the initial step of the handshake. 
+It informs the server that the client wants to establish a connection and specifies the sequence number for subsequent segment. 
+
+Different classes of IPV 4.
+IPV 4 is divided into five classes. 
+
+Class A 0 to 127. 
+Class B 128 to 191.
+Class C 192 to 223.
+Class D 224 to 239
+Class E 240 to 255. 
+
+Class A.
+Class A ranges lies from 0 to 127.
+IP addresses belongs to class A are assigned to the networks that contain large number of hosts.
+IP addresses belonging to class A ranges from 0.0.0.0 to 127.255.255.255
+Class A does possess a subnet mask.
+
+Class B. 
+Class B range lies from 128-191. 
+IP addresses belonging to class B are assigned to the networks that range from Medium size to large size networks.
+
