@@ -1,0 +1,112 @@
+1. What is Software engineering is concerned with. 
+A. hardware design 
+B. software development and maintenance 
+C. Mechanical engineering 
+D. None of the above
+
+2. The primary goal of software engineering is.
+A. fast coding 
+B. Quality software 
+C. Expensive system 
+D. large database. 
+
+3. Which of the following is not a part of Generic Process framework? 
+A. communication
+B. planning
+C. coding
+D. development
+
+Phases of SLDC.
+Requirement analysis
+Require analysis. First phase of SLDC which state the problem precisely, 
+it forms the basis of agreement between user and developer. 
+It specifies "what" not "how". 
+and output is the SRS (Software Requirement Specification) document. 
+
+Design.
+Design is the major step in moving from problem domain to solution domain. This includes Architectural design High level design and detail design. 
+
+Architectural design is the process of defining the components and the connectors in the system. 
+High level design is the process of designing the modules and data structures in the architecture
+Detail design is the process of designing the logic of the modules. 
+
+Coding.
+In this phase, the developers write code according to the design specification using a programming language. 
+Coding converts the design into code in specific language. 
+Coding phase effects both testing and maintenance. 
+
+Testing
+In testing phase, the testers tests The functionality of the system or program.
+Defects gets found in the stage Defects like bugs and errors must be found and removed to achieve high quality as the user expected.
+
+Development. 
+After all these phases, the program or software is deployed to the production environment. 
+Deployment involves installation, configuration and making it available to end users.
+
+Maintenance.
+The phase involves maintaining monitoring, bug fixing, troubleshooting and making updates as needed. 
+It aims to ensure enhancement of the user experience. 
+
+4. What is the Software Process model?
+A. design
+B. blueprint 
+C. representation and development steps 
+D. diagram 
+
+Software process model is the blueprint. 
+
+5. Waterfall model is?
+A. iterative model 
+B. sequential model
+C. random model
+D. agile model
+
+Waterfall model is the oldest and widely used model
+It is a sequential approach to software development where phases flows downwards in a linear order
+
+Feasibility study. 
+Feasibility study is a study to whether a project is feasible or not.
+It evaluates whether the is cost effective or not? 
+It evaluates whether the project can be implemented using the available technologies and resources. 
+
+Requirement Analysis and Specification: 
+Requirement analysis. Is the face to gather the requirements From the stakeholders 
+and Specify the document to them properly.
+
+Design.
+Design is the major step in moving from problem domain to solution domain. This includes Architectural design High level design and detail design. 
+
+Architectural design is the process of defining the components and the connectors in the system. 
+High level design is the process of designing the modules and data structures in the architecture
+Detail design is the process of designing the logic of the modules. 
+
+Coding.
+In this phase, the developers write code according to the design specification using a programming language. 
+Coding converts the design into code in specific language. 
+Coding phase effects both testing and maintenance. 
+
+Testing
+In testing phase, the testers tests The functionality of the system or program.
+Defects gets found in the stage Defects like bugs and errors must be found and removed to achieve high quality as the user expected.
+
+Development. 
+After all these phases, the program or software is deployed to the production environment. 
+Deployment involves installation, configuration and making it available to end users.
+
+Maintenance.
+The phase involves maintaining monitoring, bug fixing, troubleshooting and making updates as needed. 
+It aims to ensure enhancement of the user experience. 
+
+Advantages
+i. The waterfall model serves as natural and basic approach, making it suitable for small projects. 
+ii. Conceptually simple 
+iii. Easy to administrator in a. Conceptual way. 
+
+#include <stdio.h>
+int main() {
+    char arr[] = "Hello";
+    char *ptr = arr;
+    *(ptr + 1) = 'a';
+    printf("%s", arr);
+    return 0;
+}
