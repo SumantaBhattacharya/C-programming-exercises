@@ -6,3 +6,6 @@
 
 # **[`Introduction to derivative of Logarithmic Functions|Differentiation|BBA|BCA|B.COM|B.techDream Maths`](https://youtu.be/Qzou0hxwRqY?si=JsulV8KXqkrgfHi8)**  
 [![Introduction to derivative of Logarithmic Functions|Differentiation|BBA|BCA|B.COM|B.techDream Maths](https://img.youtube.com/vi/Qzou0hxwRqY/0.jpg)](https://youtu.be/Qzou0hxwRqY?si=JsulV8KXqkrgfHi8)
+
+# **[`Introduction to Logarithmic differentiation |Differentiation|BBA|BCA|B.COM|B.Tech|Dream Maths`](https://youtu.be/giK6prCP7RU?si=XP_8CmYcIOrS9b1V)**  
+[![Introduction to Logarithmic differentiation |Differentiation|BBA|BCA|B.COM|B.Tech|Dream Maths](https://img.youtube.com/vi/giK6prCP7RU/0.jpg)](https://youtu.be/giK6prCP7RU?si=XP_8CmYcIOrS9b1V)
