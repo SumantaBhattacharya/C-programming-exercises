@@ -12,3 +12,6 @@
 
 # ***[`Introduction to Integration|Fundamental Formulas|BBA|BCA|B.COM|B.TECH|Dream Maths`](https://youtu.be/AHEyh0z3bcM?si=twMP4EZtxnhpeYmf)*** 
 [![Introduction to Integration|Fundamental Formulas|BBA|BCA|B.COM|B.TECH|Dream Maths](https://img.youtube.com/vi/AHEyh0z3bcM/0.jpg)](https://youtu.be/AHEyh0z3bcM?si=twMP4EZtxnhpeYmf)
+
+# ***[`Introduction to Integration by Parts|Integration|BBA|BCA|BCOM|BTECH|Dream Maths`](https://youtu.be/P0qeUx7XFS8?si=siy8Vm_gwSyk921k)***  
+[![Introduction to Integration by Parts|Integration|BBA|BCA|BCOM|BTECH|Dream Maths](https://img.youtube.com/vi/P0qeUx7XFS8/0.jpg)](https://youtu.be/P0qeUx7XFS8?si=siy8Vm_gwSyk921k)
