@@ -15,3 +15,6 @@
 
 # ***[`Introduction to Integration by Parts|Integration|BBA|BCA|BCOM|BTECH|Dream Maths`](https://youtu.be/P0qeUx7XFS8?si=siy8Vm_gwSyk921k)***  
 [![Introduction to Integration by Parts|Integration|BBA|BCA|BCOM|BTECH|Dream Maths](https://img.youtube.com/vi/P0qeUx7XFS8/0.jpg)](https://youtu.be/P0qeUx7XFS8?si=siy8Vm_gwSyk921k)
+
+# ***[`Definite Integral Using Indefinite Integral|Integration|BBA|BCA|B.COM|B.TECH|Dream Maths`](https://youtu.be/TNSlhBhRVfc?si=0j8NVG4IpRvvdZ__)***  
+[![Definite Integral Using Indefinite Integral|Integration|BBA|BCA|B.COM|B.TECH|Dream Maths](https://img.youtube.com/vi/TNSlhBhRVfc/0.jpg)](https://youtu.be/TNSlhBhRVfc?si=0j8NVG4IpRvvdZ__)
