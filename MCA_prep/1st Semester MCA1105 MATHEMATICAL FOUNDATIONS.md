@@ -18,3 +18,6 @@
 
 # ***[`Definite Integral Using Indefinite Integral|Integration|BBA|BCA|B.COM|B.TECH|Dream Maths`](https://youtu.be/TNSlhBhRVfc?si=0j8NVG4IpRvvdZ__)***  
 [![Definite Integral Using Indefinite Integral|Integration|BBA|BCA|B.COM|B.TECH|Dream Maths](https://img.youtube.com/vi/TNSlhBhRVfc/0.jpg)](https://youtu.be/TNSlhBhRVfc?si=0j8NVG4IpRvvdZ__)
+
+# ***[`Changing limits after substitution|Definite Integral|IntegrationIBBA|BCA|B.COM|B.TECH|Dream Maths`](https://youtu.be/kSTDseiMDXk?si=zEtK2zbPd3SoLrT1)***  
+[![Changing limits after substitution|Definite Integral|IntegrationIBBA|BCA|B.COM|B.TECH|Dream Maths](https://img.youtube.com/vi/kSTDseiMDXk/0.jpg)](https://youtu.be/kSTDseiMDXk?si=zEtK2zbPd3SoLrT1)
