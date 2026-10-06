@@ -24,3 +24,6 @@
 
 # **[INTRODUCTION TO DETERMINANTS | MATRICES PART-6|BBA MATHS SEM-1| EX -9.3](https://youtu.be/CJaNIRGcPoQ?si=L9Bx46Xjfw8-K4RY)**  
 [![INTRODUCTION TO DETERMINANTS | MATRICES PART-6|BBA MATHS SEM-1| EX -9.3](https://img.youtube.com/vi/CJaNIRGcPoQ/0.jpg)](https://youtu.be/CJaNIRGcPoQ?si=L9Bx46Xjfw8-K4RY)
+
+# **[How to find the rank of a matrix|BBA Maths|BCA Maths](https://youtu.be/JG81aBmCpkk?si=4LG7eDPvTWIexqWa)**  
+[![How to find the rank of a matrix|BBA Maths|BCA Maths](https://img.youtube.com/vi/JG81aBmCpkk/0.jpg)](https://youtu.be/JG81aBmCpkk?si=4LG7eDPvTWIexqWa)
