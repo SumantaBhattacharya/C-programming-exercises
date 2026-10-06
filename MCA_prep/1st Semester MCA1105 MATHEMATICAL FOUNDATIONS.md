@@ -21,3 +21,6 @@
 
 # ***[`Changing limits after substitution|Definite Integral|IntegrationIBBA|BCA|B.COM|B.TECH|Dream Maths`](https://youtu.be/kSTDseiMDXk?si=zEtK2zbPd3SoLrT1)***  
 [![Changing limits after substitution|Definite Integral|IntegrationIBBA|BCA|B.COM|B.TECH|Dream Maths](https://img.youtube.com/vi/kSTDseiMDXk/0.jpg)](https://youtu.be/kSTDseiMDXk?si=zEtK2zbPd3SoLrT1)
+
+# **[INTRODUCTION TO DETERMINANTS | MATRICES PART-6|BBA MATHS SEM-1| EX -9.3](https://youtu.be/CJaNIRGcPoQ?si=L9Bx46Xjfw8-K4RY)**  
+[![INTRODUCTION TO DETERMINANTS | MATRICES PART-6|BBA MATHS SEM-1| EX -9.3](https://img.youtube.com/vi/CJaNIRGcPoQ/0.jpg)](https://youtu.be/CJaNIRGcPoQ?si=L9Bx46Xjfw8-K4RY)
