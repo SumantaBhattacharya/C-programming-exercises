@@ -27,3 +27,7 @@
 
 # **[How to find the rank of a matrix|BBA Maths|BCA Maths](https://youtu.be/JG81aBmCpkk?si=4LG7eDPvTWIexqWa)**  
 [![How to find the rank of a matrix|BBA Maths|BCA Maths](https://img.youtube.com/vi/JG81aBmCpkk/0.jpg)](https://youtu.be/JG81aBmCpkk?si=4LG7eDPvTWIexqWa)
+
+# **[2. Types of Matrices | Part 1 | Very Important](https://youtu.be/MDCmYMgT7cc?si=1K8F56GQswz91iGO)**  
+[![2. Types of Matrices | Part 1 | Very Important](https://img.youtube.com/vi/MDCmYMgT7cc/0.jpg)](https://youtu.be/MDCmYMgT7cc?si=1K8F56GQswz91iGO)
+
