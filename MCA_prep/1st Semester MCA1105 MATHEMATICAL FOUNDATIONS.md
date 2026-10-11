@@ -36,3 +36,6 @@
 
 # **[3. Types of Matrices | Part 2 | Most Important](https://youtu.be/ulYZrkczuok?si=2_PmnSDJs6q4it5M)**
 [![3. Types of Matrices | Part 2 | Most Important](https://img.youtube.com/vi/ulYZrkczuok/0.jpg)](https://youtu.be/ulYZrkczuok?si=2_PmnSDJs6q4it5M)
+
+# **[Introduction to Linear Equations|BBA Maths|BCA Maths|B.COM Maths](https://youtu.be/JaBA1TP18rA?si=HElIEeXl5yW7Cpam)**  
+[![Introduction to Linear Equations|BBA Maths|BCA Maths|B.COM Maths](https://img.youtube.com/vi/JaBA1TP18rA/0.jpg)](https://youtu.be/JaBA1TP18rA?si=HElIEeXl5yW7Cpam)
