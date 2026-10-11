@@ -34,3 +34,5 @@
 # **[5. Rank of 3x4 Matrix by Echelon form | Complete Concept](https://youtu.be/x9PMrZK1NTw)**  
 [![5. Rank of 3x4 Matrix by Echelon form | Complete Concept](https://img.youtube.com/vi/x9PMrZK1NTw/0.jpg)](https://youtu.be/x9PMrZK1NTw)
 
+# **[3. Types of Matrices | Part 2 | Most Important](https://youtu.be/ulYZrkczuok?si=2_PmnSDJs6q4it5M)**
+[![3. Types of Matrices | Part 2 | Most Important](https://img.youtube.com/vi/ulYZrkczuok/0.jpg)](https://youtu.be/ulYZrkczuok?si=2_PmnSDJs6q4it5M)
