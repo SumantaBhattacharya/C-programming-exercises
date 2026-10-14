@@ -39,3 +39,7 @@
 
 # **[Introduction to Linear Equations|BBA Maths|BCA Maths|B.COM Maths](https://youtu.be/JaBA1TP18rA?si=HElIEeXl5yW7Cpam)**  
 [![Introduction to Linear Equations|BBA Maths|BCA Maths|B.COM Maths](https://img.youtube.com/vi/JaBA1TP18rA/0.jpg)](https://youtu.be/JaBA1TP18rA?si=HElIEeXl5yW7Cpam)
+
+# **[Vector Space | Definition Of Vector Space | Examples Of Vector Space | Linear Algebra](https://youtu.be/1XlT3Y2oyAU?si=EZY8UMW8uADQXPgv)**  
+[![Vector Space | Definition Of Vector Space | Examples Of Vector Space | Linear Algebra](https://img.youtube.com/vi/1XlT3Y2oyAU/0.jpg)](https://youtu.be/1XlT3Y2oyAU?si=EZY8UMW8uADQXPgv)
+
