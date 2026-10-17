@@ -43,3 +43,5 @@
 # **[Vector Space | Definition Of Vector Space | Examples Of Vector Space | Linear Algebra](https://youtu.be/1XlT3Y2oyAU?si=EZY8UMW8uADQXPgv)**  
 [![Vector Space | Definition Of Vector Space | Examples Of Vector Space | Linear Algebra](https://img.youtube.com/vi/1XlT3Y2oyAU/0.jpg)](https://youtu.be/1XlT3Y2oyAU?si=EZY8UMW8uADQXPgv)
 
+# **[Scalar multiplication of matrix| Addition and Difference of matrices|Very important Questions](https://youtu.be/gmpVpbEa41Q?si=OtVT4pqBDp4YFY4e)**  
+[![Scalar multiplication of matrix| Addition and Difference of matrices|Very important Questions](https://img.youtube.com/vi/gmpVpbEa41Q/0.jpg)](https://youtu.be/gmpVpbEa41Q?si=OtVT4pqBDp4YFY4e)
