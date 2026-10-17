@@ -22,26 +22,29 @@
 # ***[`Changing limits after substitution|Definite Integral|IntegrationIBBA|BCA|B.COM|B.TECH|Dream Maths`](https://youtu.be/kSTDseiMDXk?si=zEtK2zbPd3SoLrT1)***  
 [![Changing limits after substitution|Definite Integral|IntegrationIBBA|BCA|B.COM|B.TECH|Dream Maths](https://img.youtube.com/vi/kSTDseiMDXk/0.jpg)](https://youtu.be/kSTDseiMDXk?si=zEtK2zbPd3SoLrT1)
 
-# **[INTRODUCTION TO DETERMINANTS | MATRICES PART-6|BBA MATHS SEM-1| EX -9.3](https://youtu.be/CJaNIRGcPoQ?si=L9Bx46Xjfw8-K4RY)**  
+# **[`INTRODUCTION TO DETERMINANTS | MATRICES PART-6|BBA MATHS SEM-1| EX -9.3`](https://youtu.be/CJaNIRGcPoQ?si=L9Bx46Xjfw8-K4RY)**  
 [![INTRODUCTION TO DETERMINANTS | MATRICES PART-6|BBA MATHS SEM-1| EX -9.3](https://img.youtube.com/vi/CJaNIRGcPoQ/0.jpg)](https://youtu.be/CJaNIRGcPoQ?si=L9Bx46Xjfw8-K4RY)
 
-# **[How to find the rank of a matrix|BBA Maths|BCA Maths](https://youtu.be/JG81aBmCpkk?si=4LG7eDPvTWIexqWa)**  
+# **[`How to find the rank of a matrix|BBA Maths|BCA Maths`](https://youtu.be/JG81aBmCpkk?si=4LG7eDPvTWIexqWa)**  
 [![How to find the rank of a matrix|BBA Maths|BCA Maths](https://img.youtube.com/vi/JG81aBmCpkk/0.jpg)](https://youtu.be/JG81aBmCpkk?si=4LG7eDPvTWIexqWa)
 
-# **[2. Types of Matrices | Part 1 | Very Important](https://youtu.be/MDCmYMgT7cc?si=1K8F56GQswz91iGO)**  
+# **[`2. Types of Matrices | Part 1 | Very Important`](https://youtu.be/MDCmYMgT7cc?si=1K8F56GQswz91iGO)**  
 [![2. Types of Matrices | Part 1 | Very Important](https://img.youtube.com/vi/MDCmYMgT7cc/0.jpg)](https://youtu.be/MDCmYMgT7cc?si=1K8F56GQswz91iGO)
 
-# **[5. Rank of 3x4 Matrix by Echelon form | Complete Concept](https://youtu.be/x9PMrZK1NTw)**  
+# **[`5. Rank of 3x4 Matrix by Echelon form | Complete Concept`](https://youtu.be/x9PMrZK1NTw)**  
 [![5. Rank of 3x4 Matrix by Echelon form | Complete Concept](https://img.youtube.com/vi/x9PMrZK1NTw/0.jpg)](https://youtu.be/x9PMrZK1NTw)
 
-# **[3. Types of Matrices | Part 2 | Most Important](https://youtu.be/ulYZrkczuok?si=2_PmnSDJs6q4it5M)**
+# **[`3. Types of Matrices | Part 2 | Most Important`](https://youtu.be/ulYZrkczuok?si=2_PmnSDJs6q4it5M)**
 [![3. Types of Matrices | Part 2 | Most Important](https://img.youtube.com/vi/ulYZrkczuok/0.jpg)](https://youtu.be/ulYZrkczuok?si=2_PmnSDJs6q4it5M)
 
-# **[Introduction to Linear Equations|BBA Maths|BCA Maths|B.COM Maths](https://youtu.be/JaBA1TP18rA?si=HElIEeXl5yW7Cpam)**  
+# **[`Introduction to Linear Equations|BBA Maths|BCA Maths|B.COM Maths`](https://youtu.be/JaBA1TP18rA?si=HElIEeXl5yW7Cpam)**  
 [![Introduction to Linear Equations|BBA Maths|BCA Maths|B.COM Maths](https://img.youtube.com/vi/JaBA1TP18rA/0.jpg)](https://youtu.be/JaBA1TP18rA?si=HElIEeXl5yW7Cpam)
 
-# **[Vector Space | Definition Of Vector Space | Examples Of Vector Space | Linear Algebra](https://youtu.be/1XlT3Y2oyAU?si=EZY8UMW8uADQXPgv)**  
+# **[`Vector Space | Definition Of Vector Space | Examples Of Vector Space | Linear Algebra`](https://youtu.be/1XlT3Y2oyAU?si=EZY8UMW8uADQXPgv)**  
 [![Vector Space | Definition Of Vector Space | Examples Of Vector Space | Linear Algebra](https://img.youtube.com/vi/1XlT3Y2oyAU/0.jpg)](https://youtu.be/1XlT3Y2oyAU?si=EZY8UMW8uADQXPgv)
 
-# **[Scalar multiplication of matrix| Addition and Difference of matrices|Very important Questions](https://youtu.be/gmpVpbEa41Q?si=OtVT4pqBDp4YFY4e)**  
+# **[`Scalar multiplication of matrix| Addition and Difference of matrices|Very important Questions`](https://youtu.be/gmpVpbEa41Q?si=OtVT4pqBDp4YFY4e)**  
 [![Scalar multiplication of matrix| Addition and Difference of matrices|Very important Questions](https://img.youtube.com/vi/gmpVpbEa41Q/0.jpg)](https://youtu.be/gmpVpbEa41Q?si=OtVT4pqBDp4YFY4e)
+
+# **[`MULTIPLICATION OF MATRICES| MOST IMPORTANT| BBA MATHS`](https://youtu.be/z-d3aDXwxd0?si=qFliOUNkscD8urcR)**
+[![MULTIPLICATION OF MATRICES| MOST IMPORTANT| BBA MATHS](https://img.youtube.com/vi/z-d3aDXwxd0/0.jpg)](https://youtu.be/z-d3aDXwxd0?si=qFliOUNkscD8urcR)
