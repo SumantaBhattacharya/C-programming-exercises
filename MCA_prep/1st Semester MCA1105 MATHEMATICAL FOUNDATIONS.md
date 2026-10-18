@@ -54,3 +54,6 @@
 
 # **[`POSITIVE INTEGRAL POWERS OF MATRICES | MATRICES PART-5 | ex-9.2`](https://youtu.be/U2pIGI3NmYI?si=vEXlpFydyG8BNkHJ)**
 [![POSITIVE INTEGRAL POWERS OF MATRICES | MATRICES PART-5 | BBA MATHS SEM-1| ex-9.2](https://img.youtube.com/vi/U2pIGI3NmYI/0.jpg)](https://youtu.be/U2pIGI3NmYI?si=vEXlpFydyG8BNkHJ)
+
+# **[`SINGULAR AND NON-SINGULAR MATRICES| TRANSPOSE OF A MATRIX| MATRICES PART-7`](https://youtu.be/TxT8a7etJxo?si=F1aEgpYqhTs7kq_r)**
+[![SINGULAR AND NON-SINGULAR MATRICES| TRANSPOSE OF A MATRIX| MATRICES PART-7](https://img.youtube.com/vi/TxT8a7etJxo/0.jpg)](https://youtu.be/TxT8a7etJxo?si=F1aEgpYqhTs7kq_r)
