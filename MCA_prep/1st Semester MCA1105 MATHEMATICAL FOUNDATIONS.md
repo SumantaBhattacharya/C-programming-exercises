@@ -57,3 +57,6 @@
 
 # **[`SINGULAR AND NON-SINGULAR MATRICES| TRANSPOSE OF A MATRIX| MATRICES PART-7`](https://youtu.be/TxT8a7etJxo?si=F1aEgpYqhTs7kq_r)**
 [![SINGULAR AND NON-SINGULAR MATRICES| TRANSPOSE OF A MATRIX| MATRICES PART-7](https://img.youtube.com/vi/TxT8a7etJxo/0.jpg)](https://youtu.be/TxT8a7etJxo?si=F1aEgpYqhTs7kq_r)
+
+# **[`MINORS AND C0-FACTORS |ADJOINT OF A MATRIX| MATRICES PART-8`](https://youtu.be/SrsD-G9HcHI?si=ifDRudnlHdNUgKc_)**  
+[![MINORS AND C0-FACTORS |ADJOINT OF A MATRIX| MATRICES PART-8| BBA MATHS SEM-1](https://img.youtube.com/vi/SrsD-G9HcHI/0.jpg)](https://youtu.be/SrsD-G9HcHI?si=ifDRudnlHdNUgKc_)
