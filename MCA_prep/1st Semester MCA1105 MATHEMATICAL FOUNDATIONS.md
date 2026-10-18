@@ -49,5 +49,8 @@
 # **[`MULTIPLICATION OF MATRICES| MOST IMPORTANT`](https://youtu.be/z-d3aDXwxd0?si=qFliOUNkscD8urcR)**
 [![MULTIPLICATION OF MATRICES| MOST IMPORTANT MATHS](https://img.youtube.com/vi/z-d3aDXwxd0/0.jpg)](https://youtu.be/z-d3aDXwxd0?si=qFliOUNkscD8urcR)
 
-# **[`Multiplication of Matrices |Questions of Multiplication of Matrices BBA maths`](https://youtu.be/BPP-XV6v1ro?si=yRtws2TcJxGxKPXf)**
+# **[`Multiplication of Matrices |Questions of Multiplication of Matrices`](https://youtu.be/BPP-XV6v1ro?si=yRtws2TcJxGxKPXf)**
 [![Multiplication of Matrices |Questions of Multiplication of Matrices BBA maths sem-1](https://img.youtube.com/vi/BPP-XV6v1ro/0.jpg)](https://youtu.be/BPP-XV6v1ro?si=yRtws2TcJxGxKPXf)
+
+# **[`POSITIVE INTEGRAL POWERS OF MATRICES | MATRICES PART-5 | ex-9.2`](https://youtu.be/U2pIGI3NmYI?si=vEXlpFydyG8BNkHJ)**
+[![POSITIVE INTEGRAL POWERS OF MATRICES | MATRICES PART-5 | BBA MATHS SEM-1| ex-9.2](https://img.youtube.com/vi/U2pIGI3NmYI/0.jpg)](https://youtu.be/U2pIGI3NmYI?si=vEXlpFydyG8BNkHJ)
