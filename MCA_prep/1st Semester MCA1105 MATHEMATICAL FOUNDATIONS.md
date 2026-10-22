@@ -61,5 +61,8 @@
 # ***[`MINORS AND C0-FACTORS |ADJOINT OF A MATRIX| MATRICES PART-8`](https://youtu.be/SrsD-G9HcHI?si=ifDRudnlHdNUgKc_)***  
 [![MINORS AND C0-FACTORS |ADJOINT OF A MATRIX| MATRICES PART-8| BBA MATHS SEM-1](https://img.youtube.com/vi/SrsD-G9HcHI/0.jpg)](https://youtu.be/SrsD-G9HcHI?si=ifDRudnlHdNUgKc_)
 
+# ***[`INVERSE OF A SQUARE MATRIS| MATRICES PART-9`](https://youtu.be/8etZ03H3oAY?si=72RjT_nVf1DSoW2x)***  
+[![INVERSE OF A SQUARE MATRIX| MATRICES PART-9| BBA MATHS SEM-1](https://img.youtube.com/vi/8etZ03H3oAY/0.jpg)](https://youtu.be/8etZ03H3oAY?si=72RjT_nVf1DSoW2x)
+
 # ***[`Vector Subspace | Linearly Independent | Linearly Dependents Vectors | Linear Algebra`](https://youtu.be/rDrQH9ma82o?si=yvqL6fwT3myArLAw)***
 [![Vector Subspace | Linearly Independent | Linearly Dependents Vectors | Linear Algebra](https://img.youtube.com/vi/rDrQH9ma82o/0.jpg)](https://youtu.be/rDrQH9ma82o?si=yvqL6fwT3myArLAw)
