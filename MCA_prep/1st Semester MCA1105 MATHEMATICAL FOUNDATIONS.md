@@ -66,3 +66,6 @@
 
 # ***[`Vector Subspace | Linearly Independent | Linearly Dependents Vectors | Linear Algebra`](https://youtu.be/rDrQH9ma82o?si=yvqL6fwT3myArLAw)***
 [![Vector Subspace | Linearly Independent | Linearly Dependents Vectors | Linear Algebra](https://img.youtube.com/vi/rDrQH9ma82o/0.jpg)](https://youtu.be/rDrQH9ma82o?si=yvqL6fwT3myArLAw)
+
+# ***[`Cramer's rule of matrix|solution of system of linear Equations | part-1`](https://youtu.be/pYoFqi4f-5I?si=VbDVoZGR1hOweR1u)***  
+[![Cramer's rule of matrix|solution of system of linear Equations | part-1|BBA maths sem1](https://img.youtube.com/vi/pYoFqi4f-5I/0.jpg)](https://youtu.be/pYoFqi4f-5I?si=VbDVoZGR1hOweR1u)
