@@ -69,3 +69,6 @@
 
 # ***[`Cramer's rule of matrix|solution of system of linear Equations | part-1`](https://youtu.be/pYoFqi4f-5I?si=VbDVoZGR1hOweR1u)***  
 [![Cramer's rule of matrix|solution of system of linear Equations | part-1|BBA maths sem1](https://img.youtube.com/vi/pYoFqi4f-5I/0.jpg)](https://youtu.be/pYoFqi4f-5I?si=VbDVoZGR1hOweR1u)
+
+# ***[`Cramer's rule 3×3 matrices| Solution of system of linear equations part-2| sem-1`](https://youtu.be/Ap0X5fC_Imc?si=rDLYn4Z4v1vx2Lhp)***
+[![Cramer's rule 3×3 matrices| Solution of system of linear equations part-2| BBA maths sem-1](https://img.youtube.com/vi/Ap0X5fC_Imc/0.jpg)](https://youtu.be/Ap0X5fC_Imc?si=rDLYn4Z4v1vx2Lhp)
