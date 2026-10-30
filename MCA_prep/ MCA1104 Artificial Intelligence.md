@@ -4,5 +4,8 @@
 # ***[`What is Hard Computing? [ In Hindi ]`](https://youtu.be/Supt_9NuyPQ?si=QOrIm4vw5Zc0R6cJ)***
 [![What is Hard Computing? [ In Hindi ] 🔥🔥](https://img.youtube.com/vi/Supt_9NuyPQ/0.jpg)](https://youtu.be/Supt_9NuyPQ?si=QOrIm4vw5Zc0R6cJ)
 
+# ***[`Introduction to Soft Computing`](https://youtu.be/ebpblD2j9Gw?si=e-cF40yeU-D9KSdD)***
+[![Introduction to Soft Computing 🔥🔥](https://img.youtube.com/vi/ebpblD2j9Gw/0.jpg)](https://youtu.be/ebpblD2j9Gw?si=e-cF40yeU-D9KSdD)
+
 # ***[`Basics Of Soft Computing ll Soft Computing Course Explained in Hindi`](https://youtu.be/sMkgF2PzFY0)***
 [![Basics Of Soft Computing ll Soft Computing Course Explained in Hindi](https://img.youtube.com/vi/sMkgF2PzFY0/0.jpg)](https://youtu.be/sMkgF2PzFY0)
