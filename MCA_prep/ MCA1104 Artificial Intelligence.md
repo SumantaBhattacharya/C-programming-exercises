@@ -9,3 +9,6 @@
 
 # ***[`Basics Of Soft Computing ll Soft Computing Course Explained in Hindi`](https://youtu.be/sMkgF2PzFY0)***
 [![Basics Of Soft Computing ll Soft Computing Course Explained in Hindi](https://img.youtube.com/vi/sMkgF2PzFY0/0.jpg)](https://youtu.be/sMkgF2PzFY0)
+
+# ***[`Soft Computing Tools / Paradigm : Fuzzy Logic, Neural Network, Evolutionary Computing Explained`](https://youtu.be/GjKTJ9E-7RM?si=IGqZrMT4JLR186La)***
+[![Soft Computing Tools / Paradigm : Fuzzy Logic, Neural Network, Evolutionary Computing Explained](https://img.youtube.com/vi/GjKTJ9E-7RM/0.jpg)](https://youtu.be/GjKTJ9E-7RM?si=IGqZrMT4JLR186La)
