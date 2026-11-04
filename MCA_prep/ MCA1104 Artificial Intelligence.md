@@ -12,3 +12,6 @@
 
 # ***[`Soft Computing Tools / Paradigm : Fuzzy Logic, Neural Network, Evolutionary Computing Explained`](https://youtu.be/GjKTJ9E-7RM?si=IGqZrMT4JLR186La)***
 [![Soft Computing Tools / Paradigm : Fuzzy Logic, Neural Network, Evolutionary Computing Explained](https://img.youtube.com/vi/GjKTJ9E-7RM/0.jpg)](https://youtu.be/GjKTJ9E-7RM?si=IGqZrMT4JLR186La)
+
+# **[Lec-3: What is Artificial Intelligence | Learn AI with Real Life Examples | Can Machine Think?](https://youtu.be/s-s9ilkMVj8?si=TCuwrb8Ca7PSyGT_)**
+[![Lec-3: What is Artificial Intelligence | Learn AI with Real Life Examples | Can Machine Think??](https://img.youtube.com/vi/s-s9ilkMVj8/0.jpg)](https://youtu.be/s-s9ilkMVj8?si=TCuwrb8Ca7PSyGT_)
