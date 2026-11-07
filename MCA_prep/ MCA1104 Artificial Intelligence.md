@@ -18,3 +18,6 @@
 
 # ***[`Lec-4: What is State Space Search | Introduction to Problem Solving in Artificial Intelligence`](https://youtu.be/E5jVBqe59EE)***
 [![Lec-4: What is State Space Search | Introduction to Problem Solving in Artificial Intelligence](https://img.youtube.com/vi/E5jVBqe59EE/0.jpg)](https://youtu.be/E5jVBqe59EE)
+
+# ***[L-5.4: Traveling Salesman Problem | Dynamic Programming](https://youtu.be/3QiSyc7KyC4?si=j9s8TbGulponVYCL)***
+[![L-5.4: Traveling Salesman Problem | Dynamic Programming](https://img.youtube.com/vi/3QiSyc7KyC4/0.jpg)](https://youtu.be/3QiSyc7KyC4?si=j9s8TbGulponVYCL)
