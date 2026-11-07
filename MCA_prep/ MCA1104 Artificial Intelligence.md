@@ -27,3 +27,6 @@
 
 # ***[`Lec-6: Informed vs Uninformed vs Adversarial Search With Examples | Artificial Intelligence`](https://youtu.be/YatDNnaJ1TU?si=0_xEYnQBqSue0g13)***
 [![Lec-6: Informed vs Uninformed vs Adversarial Search With Examples | Artificial Intelligence](https://img.youtube.com/vi/YatDNnaJ1TU/0.jpg)](https://youtu.be/YatDNnaJ1TU?si=0_xEYnQBqSue0g13)
+
+# ***[`Lec-7: Breadth First Search (BFS) with example | Uninformed Search | Artificial Intelligence`](https://youtu.be/qul0f79gxGs?si=OK_6HUTw_qbw89ny)***
+[![Lec-7: Breadth First Search (BFS) with example | Uninformed Search | Artificial Intelligence](https://img.youtube.com/vi/qul0f79gxGs/0.jpg)](https://youtu.be/qul0f79gxGs?si=OK_6HUTw_qbw89ny)
