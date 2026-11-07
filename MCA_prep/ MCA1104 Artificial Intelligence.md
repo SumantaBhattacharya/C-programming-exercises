@@ -24,3 +24,6 @@
 
 # ***[`Lec-5: Uninformed Vs Informed Search in Artificial Intelligence with Example`](https://youtu.be/gZpUcsB9TFc?si=3MfOc6n8N6Fj1kZM)***
 [![Lec-5: Uninformed Vs Informed Search in Artificial Intelligence with Example](https://img.youtube.com/vi/gZpUcsB9TFc/0.jpg)](https://youtu.be/gZpUcsB9TFc?si=3MfOc6n8N6Fj1kZM)
+
+# ***[`Lec-6: Informed vs Uninformed vs Adversarial Search With Examples | Artificial Intelligence`](https://youtu.be/YatDNnaJ1TU?si=0_xEYnQBqSue0g13)***
+[![Lec-6: Informed vs Uninformed vs Adversarial Search With Examples | Artificial Intelligence](https://img.youtube.com/vi/YatDNnaJ1TU/0.jpg)](https://youtu.be/YatDNnaJ1TU?si=0_xEYnQBqSue0g13)
