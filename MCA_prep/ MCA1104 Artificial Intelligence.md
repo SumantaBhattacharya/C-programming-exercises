@@ -33,3 +33,6 @@
 
 # ***[`Lec 33: Fuzzy Logic in Artificial Intelligence with Example | Artificial Intelligence`](https://youtu.be/vof2vhfqoBo)***
 [![Lec 33: Fuzzy Logic in Artificial Intelligence with Example | Artificial Intelligence](https://img.youtube.com/vi/vof2vhfqoBo/0.jpg)](https://youtu.be/vof2vhfqoBo)
+
+# ***[`Lec-34: Various Operations in Fuzzy Logic with Example | Union, Intersection, Complement etc.`](https://youtu.be/o-2O4fmIu3E?si=bUOutri1toBdxOOX)***
+[![Lec-34: Various Operations in Fuzzy Logic with Example | Union, Intersection, Complement etc.](https://img.youtube.com/vi/o-2O4fmIu3E/0.jpg)](https://youtu.be/o-2O4fmIu3E?si=bUOutri1toBdxOOX)
