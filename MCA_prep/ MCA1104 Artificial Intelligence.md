@@ -30,3 +30,6 @@
 
 # ***[`Lec-7: Breadth First Search (BFS) with example | Uninformed Search | Artificial Intelligence`](https://youtu.be/qul0f79gxGs?si=OK_6HUTw_qbw89ny)***
 [![Lec-7: Breadth First Search (BFS) with example | Uninformed Search | Artificial Intelligence](https://img.youtube.com/vi/qul0f79gxGs/0.jpg)](https://youtu.be/qul0f79gxGs?si=OK_6HUTw_qbw89ny)
+
+# ***[`Lec 33: Fuzzy Logic in Artificial Intelligence with Example | Artificial Intelligence`](https://youtu.be/vof2vhfqoBo)***
+[![Lec 33: Fuzzy Logic in Artificial Intelligence with Example | Artificial Intelligence](https://img.youtube.com/vi/vof2vhfqoBo/0.jpg)](https://youtu.be/vof2vhfqoBo)
