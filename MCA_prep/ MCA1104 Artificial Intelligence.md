@@ -39,3 +39,6 @@
 
 # ***[`1. Introduction to Classical Sets or Crisp Sets in Fuzzy Set Fuzzy Logic by Mahesh Huddar`](https://youtu.be/CGioNXsTgiw?si=lfWyqcVRFcGzKxR4)***
 [![1. Introduction to Classical Sets or Crisp Sets in Fuzzy Set Fuzzy Logic by Mahesh Huddar](https://img.youtube.com/vi/CGioNXsTgiw/0.jpg)](https://youtu.be/CGioNXsTgiw?si=lfWyqcVRFcGzKxR4)
+
+# ***[`2. Operations on Classical Sets or Crisp Sets | Union | Intersection in Fuzzy Logic by Mahesh Huddar`](https://youtu.be/BtsqdxaGdew?si=JzYIwzWZLOw8WeJE)***
+[![2. Operations on Classical Sets or Crisp Sets | Union | Intersection in Fuzzy Logic by Mahesh Huddar](https://img.youtube.com/vi/BtsqdxaGdew/0.jpg)](https://youtu.be/BtsqdxaGdew?si=JzYIwzWZLOw8WeJE)
