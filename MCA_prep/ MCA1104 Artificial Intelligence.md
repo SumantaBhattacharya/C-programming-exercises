@@ -39,3 +39,6 @@
 
 # ***[`7. Fuzzy Sets Solved Example Union Intersection Complement Difference in Fuzzy Logic Mahesh Huddar`](https://youtu.be/kc-LUuLLEhw?si=VpKZnZu8LB4uMA5e)***
 [![7. Fuzzy Sets Solved Example Union Intersection Complement Difference in Fuzzy Logic Mahesh Huddar](https://img.youtube.com/vi/kc-LUuLLEhw/0.jpg)](https://youtu.be/kc-LUuLLEhw?si=VpKZnZu8LB4uMA5e)
+
+# ***[`8. Fuzzy Sets Solved Example Union Intersection Complement Difference in Fuzzy Logic Mahesh Huddar`](https://youtu.be/xDXrhwGr-10?si=twvzIiHzC1nHK4q1)***
+[![8. Fuzzy Sets Solved Example Union Intersection Complement Difference in Fuzzy Logic Mahesh Huddar](https://img.youtube.com/vi/xDXrhwGr-10/0.jpg)](https://youtu.be/xDXrhwGr-10?si=twvzIiHzC1nHK4q1)
