@@ -36,3 +36,6 @@
 
 # ***[`Lec-34: Various Operations in Fuzzy Logic with Example | Union, Intersection, Complement etc.`](https://youtu.be/o-2O4fmIu3E?si=bUOutri1toBdxOOX)***
 [![Lec-34: Various Operations in Fuzzy Logic with Example | Union, Intersection, Complement etc.](https://img.youtube.com/vi/o-2O4fmIu3E/0.jpg)](https://youtu.be/o-2O4fmIu3E?si=bUOutri1toBdxOOX)
+
+# ***[`1. Introduction to Classical Sets or Crisp Sets in Fuzzy Set Fuzzy Logic by Mahesh Huddar`](https://youtu.be/CGioNXsTgiw?si=lfWyqcVRFcGzKxR4)***
+[![1. Introduction to Classical Sets or Crisp Sets in Fuzzy Set Fuzzy Logic by Mahesh Huddar](https://img.youtube.com/vi/CGioNXsTgiw/0.jpg)](https://youtu.be/CGioNXsTgiw?si=lfWyqcVRFcGzKxR4)
