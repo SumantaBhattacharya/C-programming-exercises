@@ -36,9 +36,9 @@
 
 # ***[`Lec-34: Various Operations in Fuzzy Logic with Example | Union, Intersection, Complement etc.`](https://youtu.be/o-2O4fmIu3E?si=bUOutri1toBdxOOX)***
 [![Lec-34: Various Operations in Fuzzy Logic with Example | Union, Intersection, Complement etc.](https://img.youtube.com/vi/o-2O4fmIu3E/0.jpg)](https://youtu.be/o-2O4fmIu3E?si=bUOutri1toBdxOOX)
-Fuzzy Logic Mahesh Huddar`](https://youtu.be/kc-LUuLLEhw?si=VpKZnZu8LB4uMA5e)***
-[![7. Fuzzy Sets Solved Example Union Intersection Complement Difference in Fuzz
-# ***[`7. Fuzzy Sets Solved Example Union Intersection Complement Difference in y Logic Mahesh Huddar](https://img.youtube.com/vi/kc-LUuLLEhw/0.jpg)](https://youtu.be/kc-LUuLLEhw?si=VpKZnZu8LB4uMA5e)
+
+# ***[7. Fuzzy Sets Solved Example Union Intersection Complement Difference in Fuzzy Logic Mahesh Huddar](https://youtu.be/kc-LUuLLEhw?si=VpKZnZu8LB4uMA5e)***
+[![7. Fuzzy Sets Solved Example Union Intersection Complement Difference in Fuzzy Logic Mahesh Huddar](https://img.youtube.com/vi/kc-LUuLLEhw/0.jpg)](https://youtu.be/kc-LUuLLEhw?si=VpKZnZu8LB4uMA5e)
 
 # ***[`8. Fuzzy Sets Solved Example Union Intersection Complement Difference in Fuzzy Logic Mahesh Huddar`](https://youtu.be/xDXrhwGr-10?si=twvzIiHzC1nHK4q1)***
 [![8. Fuzzy Sets Solved Example Union Intersection Complement Difference in Fuzzy Logic Mahesh Huddar](https://img.youtube.com/vi/xDXrhwGr-10/0.jpg)](https://youtu.be/xDXrhwGr-10?si=twvzIiHzC1nHK4q1)
