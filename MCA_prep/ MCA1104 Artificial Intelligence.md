@@ -48,3 +48,6 @@
 
 # ***[`10. Find the algebraic sum & product, bounded sum & difference given fuzzy Sets by Mahesh Huddar`](https://youtu.be/6pFdocuBU7c?si=AdxxPjDE2Ps2g_Iq)***
 [![10. Find the algebraic sum & product, bounded sum & difference given fuzzy Sets by Mahesh Huddar](https://img.youtube.com/vi/6pFdocuBU7c/0.jpg)](https://youtu.be/6pFdocuBU7c?si=AdxxPjDE2Ps2g_Iq)
+
+# ***[`11. Find the algebraic sum & product, bounded sum & difference given fuzzy Sets by Mahesh Huddar`](https://youtu.be/z8RkQ5lwd8w?si=9O8pqNsSp90AjIfb)***
+[![11. Find the algebraic sum & product, bounded sum & difference given fuzzy Sets by Mahesh Huddar](https://img.youtube.com/vi/z8RkQ5lwd8w/0.jpg)](https://youtu.be/z8RkQ5lwd8w?si=9O8pqNsSp90AjIfb)
