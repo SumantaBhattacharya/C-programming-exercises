@@ -45,3 +45,6 @@
 
 # ***[`9. Fuzzy Sets Solved Example Union Intersection Complement and Difference Fuzzy Logic Mahesh Huddar`](https://youtu.be/wCG5ckmMBJQ?si=Qq0Z8AWqKiZkvFau)***
 [![9. Fuzzy Sets Solved Example Union Intersection Complement and Difference Fuzzy Logic Mahesh Huddar](https://img.youtube.com/vi/wCG5ckmMBJQ/0.jpg)](https://youtu.be/wCG5ckmMBJQ?si=Qq0Z8AWqKiZkvFau)
+
+# ***[`10. Find the algebraic sum & product, bounded sum & difference given fuzzy Sets by Mahesh Huddar`](https://youtu.be/6pFdocuBU7c?si=AdxxPjDE2Ps2g_Iq)***
+[![10. Find the algebraic sum & product, bounded sum & difference given fuzzy Sets by Mahesh Huddar](https://img.youtube.com/vi/6pFdocuBU7c/0.jpg)](https://youtu.be/6pFdocuBU7c?si=AdxxPjDE2Ps2g_Iq)
