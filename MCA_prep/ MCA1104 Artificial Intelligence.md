@@ -54,3 +54,6 @@
 
 # ***[`12. How to perform Cartesian Product on fuzzy sets Fuzzy Logic in Soft Computing by Mahesh Huddar`](https://youtu.be/MPfzFOXskZQ?si=zUefaidEYhc05lcN)***
 [![12. How to perform Cartesian Product on fuzzy sets Fuzzy Logic in Soft Computing by Mahesh Huddar](https://img.youtube.com/vi/MPfzFOXskZQ/0.jpg)](https://youtu.be/MPfzFOXskZQ?si=zUefaidEYhc05lcN)
+
+# ***[`13. How to perform Max-Min and Max Product Composition between two fuzzy sets by Mahesh Huddar`](https://youtu.be/MSw2XuhDnOw?si=8QqUEPSU3rIMUTJn)***
+[![13. How to perform Max-Min and Max Product Composition between two fuzzy sets by Mahesh Huddar](https://img.youtube.com/vi/MSw2XuhDnOw/0.jpg)](https://youtu.be/MSw2XuhDnOw?si=8QqUEPSU3rIMUTJn)
