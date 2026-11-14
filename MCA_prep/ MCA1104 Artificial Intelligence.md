@@ -51,3 +51,6 @@
 
 # ***[`11. Find the algebraic sum & product, bounded sum & difference given fuzzy Sets by Mahesh Huddar`](https://youtu.be/z8RkQ5lwd8w?si=9O8pqNsSp90AjIfb)***
 [![11. Find the algebraic sum & product, bounded sum & difference given fuzzy Sets by Mahesh Huddar](https://img.youtube.com/vi/z8RkQ5lwd8w/0.jpg)](https://youtu.be/z8RkQ5lwd8w?si=9O8pqNsSp90AjIfb)
+
+# ***[`12. How to perform Cartesian Product on fuzzy sets Fuzzy Logic in Soft Computing by Mahesh Huddar`](https://youtu.be/MPfzFOXskZQ?si=zUefaidEYhc05lcN)***
+[![12. How to perform Cartesian Product on fuzzy sets Fuzzy Logic in Soft Computing by Mahesh Huddar](https://img.youtube.com/vi/MPfzFOXskZQ/0.jpg)](https://youtu.be/MPfzFOXskZQ?si=zUefaidEYhc05lcN)
