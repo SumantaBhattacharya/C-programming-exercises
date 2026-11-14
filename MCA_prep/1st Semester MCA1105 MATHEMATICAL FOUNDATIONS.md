@@ -72,3 +72,6 @@
 
 # ***[`Cramer's rule 3×3 matrices| Solution of system of linear equations part-2| sem-1`](https://youtu.be/Ap0X5fC_Imc?si=rDLYn4Z4v1vx2Lhp)***
 [![Cramer's rule 3×3 matrices| Solution of system of linear equations part-2| BBA maths sem-1](https://img.youtube.com/vi/Ap0X5fC_Imc/0.jpg)](https://youtu.be/Ap0X5fC_Imc?si=rDLYn4Z4v1vx2Lhp)
+
+# ***[`Introduction to Eigen values eigen vectors|Dream Maths`](https://youtu.be/h1RQw7yaoGM?si=6RIdxBfAG-_67e5z)***
+[![Introduction to Eigen values eigen vectors|Dream Maths](https://img.youtube.com/vi/h1RQw7yaoGM/0.jpg)](https://youtu.be/h1RQw7yaoGM?si=6RIdxBfAG-_67e5z)
