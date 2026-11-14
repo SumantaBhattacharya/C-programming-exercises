@@ -75,3 +75,6 @@
 
 # ***[`Introduction to Eigen values eigen vectors|Dream Maths`](https://youtu.be/h1RQw7yaoGM?si=6RIdxBfAG-_67e5z)***
 [![Introduction to Eigen values eigen vectors|Dream Maths](https://img.youtube.com/vi/h1RQw7yaoGM/0.jpg)](https://youtu.be/h1RQw7yaoGM?si=6RIdxBfAG-_67e5z)
+
+# ***[`Question of eigen value and eigen vectors|Dream Maths`](https://youtu.be/KWbsCN9OLIM?si=YYOSBqE1lSbBVv7q)***
+[![Question of eigen value and eigen vectors|Dream Maths](https://img.youtube.com/vi/KWbsCN9OLIM/0.jpg)](https://youtu.be/KWbsCN9OLIM?si=YYOSBqE1lSbBVv7q)
