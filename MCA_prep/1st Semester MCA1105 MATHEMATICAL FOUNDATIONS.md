@@ -67,6 +67,16 @@
 # ***[`Vector Subspace | Linearly Independent | Linearly Dependents Vectors | Linear Algebra`](https://youtu.be/rDrQH9ma82o?si=yvqL6fwT3myArLAw)***
 [![Vector Subspace | Linearly Independent | Linearly Dependents Vectors | Linear Algebra](https://img.youtube.com/vi/rDrQH9ma82o/0.jpg)](https://youtu.be/rDrQH9ma82o?si=yvqL6fwT3myArLAw)
 
+# ***[`Vector Subspace | Basis & Dimension | Examples Of Basis | Linear Algebra`](https://youtu.be/Pc2dWW3aSrk?si=Br0M7YTeiQS9LpkU)***
+[![Vector Subspace | Basis & Dimension | Examples Of Basis | Linear Algebra](https://img.youtube.com/vi/Pc2dWW3aSrk/0.jpg)](https://youtu.be/Pc2dWW3aSrk?si=Br0M7YTeiQS9LpkU)
+
+**Example - 5**
+
+Let \(V_3(R)\) be a finite dimensional vector space. Find the co-ordinate vector of \(\alpha = (3, 1, -4)\) relative to the basis \(B = \{\alpha_1, \alpha_2, \alpha_3\}\), where 
+\(\alpha_1 = (1, 1, 1), \alpha_2 = (0, 1, 1), \alpha_3 = (0, 0, 1)\).
+
+---
+
 # ***[`Cramer's rule of matrix|solution of system of linear Equations | part-1`](https://youtu.be/pYoFqi4f-5I?si=VbDVoZGR1hOweR1u)***  
 [![Cramer's rule of matrix|solution of system of linear Equations | part-1|BBA maths sem1](https://img.youtube.com/vi/pYoFqi4f-5I/0.jpg)](https://youtu.be/pYoFqi4f-5I?si=VbDVoZGR1hOweR1u)
 
@@ -139,7 +149,7 @@ Here is the step-by-step breakdown of how to integrate \(e^{-x}\) and evaluate i
 *   \(\Gamma(3) = \Gamma(2+1) = 2 \cdot \Gamma(2) = 2 \cdot 1 = 2 = 2!\)
 
 
-### 🧮 Evaluating Γ(3/2) and Γ(5/2)
+### Evaluating Γ(3/2) and Γ(5/2)
 
 1.  **Base Value:** \(\Gamma(1/2) = \sqrt{\pi}\)
 
@@ -162,15 +172,5 @@ The Beta function and Gamma function are linked:
  B(m, n) = \frac{\Gamma(m)\Gamma(n)}{\Gamma(m+n)} 
 \]
 where \(m > 0\) and \(n > 0\) .
-
----
-
-# ***[`Vector Subspace | Basis & Dimension | Examples Of Basis | Linear Algebra`](https://youtu.be/Pc2dWW3aSrk?si=Br0M7YTeiQS9LpkU)***
-[![Vector Subspace | Basis & Dimension | Examples Of Basis | Linear Algebra](https://img.youtube.com/vi/Pc2dWW3aSrk/0.jpg)](https://youtu.be/Pc2dWW3aSrk?si=Br0M7YTeiQS9LpkU)
-
-**Example - 5**
-
-Let \(V_3(R)\) be a finite dimensional vector space. Find the co-ordinate vector of \(\alpha = (3, 1, -4)\) relative to the basis \(B = \{\alpha_1, \alpha_2, \alpha_3\}\), where 
-\(\alpha_1 = (1, 1, 1), \alpha_2 = (0, 1, 1), \alpha_3 = (0, 0, 1)\).
 
 ---
