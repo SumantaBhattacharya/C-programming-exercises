@@ -174,3 +174,36 @@ The Beta function and Gamma function are linked:
 where \(m > 0\) and \(n > 0\) .
 
 ---
+
+# ***[`Calculus | Mean Value Theorem | Important formulae | Rolles`](https://youtu.be/vGwurRO3b-c?si=TnsbFufnjtNInjfC)***
+[![Calculus | Mean Value Theorem | Important formulae | Rolles, Lagrange & Cauchy](https://img.youtube.com/vi/vGwurRO3b-c/0.jpg)](https://youtu.be/vGwurRO3b-c?si=TnsbFufnjtNInjfC)
+
+**II. Mean Value Theorem**
+
+**1. Rolle's Theorem**
+Let f(x) be defined in closed interval [a, b] such that
+(i) f(x) is continuous in [a, b]
+(ii) f(x) is differentiable in (a, b)
+(iii) f(a) = f(b)
+then their exist atleast one point c ∈ (a, b) such that f'(c) = 0.
+
+---
+
+**2. Lagrange's Mean Value Theorem**
+Let f(x) be defined in a [a, b] such that
+(i) f(x) is continuous in [a, b]
+(ii) f(x) is differentiable in (a, b) then their exist atleast one point c ∈ (a, b) such that \(f'(c) = \frac{f(b) - f(a)}{b - a}\)
+
+---
+
+**3. Cauchy's Mean Value Theorem**
+Let f(x) and g(x) be defined in a [a, b] such that
+(i) f(x) and g(x) are continuous in [a, b]
+(ii) f(x) and g(x) are differentiable in [a, b]
+(iii) g'(x) ≠ 0 ∀ x ∈ (a, b)
+then their exist atleast one point c ∈ (a, b) such that
+\[
+ \frac{f'(c)}{g'(c)} = \frac{f(b) - f(a)}{g(b) - g(a)} 
+\]
+
+---
