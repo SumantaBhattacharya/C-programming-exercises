@@ -57,3 +57,6 @@
 
 # ***[`13. How to perform Max-Min and Max Product Composition between two fuzzy sets by Mahesh Huddar`](https://youtu.be/MSw2XuhDnOw?si=8QqUEPSU3rIMUTJn)***
 [![13. How to perform Max-Min and Max Product Composition between two fuzzy sets by Mahesh Huddar](https://img.youtube.com/vi/MSw2XuhDnOw/0.jpg)](https://youtu.be/MSw2XuhDnOw?si=8QqUEPSU3rIMUTJn)
+
+# **[`13.1 Cartesian Product, Max–Min & Max–Product Composition in Fuzzy Relations by Vidya Mahesh Huddar`](https://youtu.be/EwtplXYVaZc?si=EHd0J8IBpNnwv0kX)**
+[![13.1 Cartesian Product, Max–Min & Max–Product Composition in Fuzzy Relations by Vidya Mahesh Huddar](https://img.youtube.com/vi/EwtplXYVaZc/0.jpg)](https://youtu.be/EwtplXYVaZc?si=EHd0J8IBpNnwv0kX)
