@@ -60,3 +60,16 @@
 
 # **[`13.1 Cartesian Product, Max–Min & Max–Product Composition in Fuzzy Relations by Vidya Mahesh Huddar`](https://youtu.be/EwtplXYVaZc?si=EHd0J8IBpNnwv0kX)**
 [![13.1 Cartesian Product, Max–Min & Max–Product Composition in Fuzzy Relations by Vidya Mahesh Huddar](https://img.youtube.com/vi/EwtplXYVaZc/0.jpg)](https://youtu.be/EwtplXYVaZc?si=EHd0J8IBpNnwv0kX)
+
+# ***[`14. Membership Functions and Features of Membership Functions in Fuzzy Logic by Mahesh Huddar`](https://youtu.be/y1lPebFtM_4?si=aLYuyY14PKIavzuh)***
+[![14. Membership Functions and Features of Membership Functions in Fuzzy Logic by Mahesh Huddar](https://img.youtube.com/vi/y1lPebFtM_4/0.jpg)](https://youtu.be/y1lPebFtM_4?si=aLYuyY14PKIavzuh)
+
+**2. Membership Function**
+A curve that maps elements from the input space to their membership values (between 0 and 1).
+
+*   **Core:** The region where the membership value is exactly **1** (complete membership).
+*   **Support:** The region where the membership value is **greater than 0** (non-zero membership). 
+*   **Boundary (Crossover Points):** The region where the membership value is **greater than 0 but less than 1** (\(0 < \mu < 1\)). 
+    *  **Boundary = Support - Core**.
+
+---
