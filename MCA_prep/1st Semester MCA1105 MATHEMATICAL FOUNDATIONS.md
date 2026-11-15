@@ -164,3 +164,13 @@ The Beta function and Gamma function are linked:
 where \(m > 0\) and \(n > 0\) .
 
 ---
+
+# ***[`Vector Subspace | Basis & Dimension | Examples Of Basis | Linear Algebra`](https://youtu.be/Pc2dWW3aSrk?si=Br0M7YTeiQS9LpkU)***
+[![Vector Subspace | Basis & Dimension | Examples Of Basis | Linear Algebra](https://img.youtube.com/vi/Pc2dWW3aSrk/0.jpg)](https://youtu.be/Pc2dWW3aSrk?si=Br0M7YTeiQS9LpkU)
+
+**Example - 5**
+
+Let \(V_3(R)\) be a finite dimensional vector space. Find the co-ordinate vector of \(\alpha = (3, 1, -4)\) relative to the basis \(B = \{\alpha_1, \alpha_2, \alpha_3\}\), where 
+\(\alpha_1 = (1, 1, 1), \alpha_2 = (0, 1, 1), \alpha_3 = (0, 0, 1)\).
+
+---
