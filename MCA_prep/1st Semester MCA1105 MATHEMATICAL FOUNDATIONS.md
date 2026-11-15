@@ -78,3 +78,6 @@
 
 # ***[`Question of eigen value and eigen vectors|Dream Maths`](https://youtu.be/KWbsCN9OLIM?si=YYOSBqE1lSbBVv7q)***
 [![Question of eigen value and eigen vectors|Dream Maths](https://img.youtube.com/vi/KWbsCN9OLIM/0.jpg)](https://youtu.be/KWbsCN9OLIM?si=YYOSBqE1lSbBVv7q)
+
+# ***[`19. Beta Function | Complete Concept | Multiple Integrals | Most Important`](https://youtu.be/ffNpqBVyYew?si=aHLhqCow-tFRsZ-x)***
+[![19. Beta Function | Complete Concept | Multiple Integrals | Most Important](https://img.youtube.com/vi/ffNpqBVyYew/0.jpg)](https://youtu.be/ffNpqBVyYew?si=aHLhqCow-tFRsZ-x)
