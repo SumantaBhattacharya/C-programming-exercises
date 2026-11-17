@@ -1,5 +1,8 @@
 <!-- my first programming language which i leaned on the 1st year of my graduation -->
 
+# **[C Programming Crash Course [Bangla] | C Programming Full Course in One Video](https://youtu.be/tDmzVx8x_9A)**  
+[![C Programming Crash Course [Bangla] | C Programming Full Course in One Video](https://img.youtube.com/vi/tDmzVx8x_9A/0.jpg)](https://youtu.be/tDmzVx8x_9A)
+
 # ***[Introduction to Programming :- C Programming Tutorial | C Programming Bangla Tutorial](https://youtu.be/tFehm6nAeAc?si=3lAIG5NbaR27BJRX)***
 [![Introduction to Programming :- C Programming Tutorial | C Programming Bangla Tutorial](https://img.youtube.com/vi/tFehm6nAeAc/0.jpg)](https://youtu.be/tFehm6nAeAc?si=3lAIG5NbaR27BJRX)
 
