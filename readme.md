@@ -1,13 +1,21 @@
 <!-- my first programming language which i leaned on the 1st year of my graduation -->
 
+<!--
 # **[C Programming Crash Course [Bangla] | C Programming Full Course in One Video](https://youtu.be/tDmzVx8x_9A)**  
 [![C Programming Crash Course [Bangla] | C Programming Full Course in One Video](https://img.youtube.com/vi/tDmzVx8x_9A/0.jpg)](https://youtu.be/tDmzVx8x_9A)
+-->
 
 # ***[Introduction to Programming :- C Programming Tutorial | C Programming Bangla Tutorial](https://youtu.be/tFehm6nAeAc?si=3lAIG5NbaR27BJRX)***
 [![Introduction to Programming :- C Programming Tutorial | C Programming Bangla Tutorial](https://img.youtube.com/vi/tFehm6nAeAc/0.jpg)](https://youtu.be/tFehm6nAeAc?si=3lAIG5NbaR27BJRX)
 
 # ***[Low Level vs High-Level Programming Language:-C Programming Tutorial For Beginners in Bangla](https://youtu.be/m1D_XVfNlD0?si=CUtOLczuk8gdPED4)***
 [![Low Level vs High-Level Programming Language:-C Programming Tutorial For Beginners in Bangla](https://img.youtube.com/vi/m1D_XVfNlD0/0.jpg)](https://youtu.be/m1D_XVfNlD0?si=CUtOLczuk8gdPED4)
+
+# ***[Compiler vs Interpreter| C Language Tutorial For Beginners in Bangla |C Programming Tutorial Bangla](https://youtu.be/i8BB3OP1siM?si=w6xCWgkc2rIclY_S)***
+[![Compiler vs Interpreter| C Language Tutorial For Beginners in Bangla |C Programming Tutorial Bangla](https://img.youtube.com/vi/i8BB3OP1siM/0.jpg)](https://youtu.be/i8BB3OP1siM?si=w6xCWgkc2rIclY_S)
+
+# ***[Difference Between FLOWCHART and ALGORITHM - C Language Tutorial|C Bangla Tutorial[YOUTH CAREER HUB]](https://youtu.be/2oljKfKUbE4?si=kjem8ywef95SuMTL)***
+[![Difference Between FLOWCHART and ALGORITHM - C Language Tutorial|C Bangla Tutorial[YOUTH CAREER HUB]](https://img.youtube.com/vi/2oljKfKUbE4/0.jpg)](https://youtu.be/2oljKfKUbE4?si=kjem8ywef95SuMTL)
 
 # ***#1: Getting Started with C Programming| C Programming for Beginners***  
 
