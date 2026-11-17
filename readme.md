@@ -17,6 +17,9 @@
 # ***[Difference Between FLOWCHART and ALGORITHM - C Language Tutorial|C Bangla Tutorial[YOUTH CAREER HUB]](https://youtu.be/2oljKfKUbE4?si=kjem8ywef95SuMTL)***
 [![Difference Between FLOWCHART and ALGORITHM - C Language Tutorial|C Bangla Tutorial[YOUTH CAREER HUB]](https://img.youtube.com/vi/2oljKfKUbE4/0.jpg)](https://youtu.be/2oljKfKUbE4?si=kjem8ywef95SuMTL)
 
+# ***[How to install vs code on windows10 for c programming in 2021 - c language tutorial for beginners](https://youtu.be/o83pD-JUom0?si=6_Lor5BfgI1eMZqR)***
+[![How to install vs code on windows10 for c programming in 2021 - c language tutorial for beginners](https://img.youtube.com/vi/o83pD-JUom0/0.jpg)](https://youtu.be/o83pD-JUom0?si=6_Lor5BfgI1eMZqR)
+
 # ***#1: Getting Started with C Programming| C Programming for Beginners***  
 
 [![Getting Started with C Programming | C Programming for Beginners](https://img.youtube.com/vi/KnvbUiSxvbM/0.jpg)](https://youtu.be/KnvbUiSxvbM?si=KHH5YlK5jjFIlLuk)
