@@ -73,3 +73,8 @@ A curve that maps elements from the input space to their membership values (betw
     *  **Boundary = Support - Core**.
 
 ---
+
+# ***[`16. Find λ cut sets | lambda cut sets using Zadeh’s notation in Fuzzy Logic by Vidya Mahesh Huddar`](https://youtu.be/6xUWV4_-OZ8)***
+[![16. Find λ cut sets | lambda cut sets using Zadeh’s notation in Fuzzy Logic by Vidya Mahesh Huddar](https://img.youtube.com/vi/6xUWV4_-OZ8/0.jpg)](https://youtu.be/6xUWV4_-OZ8)
+
+\[ A_\lambda = \{\in X \mid \mu_A(x) \geq \lambda \} \]
