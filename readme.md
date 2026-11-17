@@ -3,6 +3,9 @@
 # ***[Introduction to Programming :- C Programming Tutorial | C Programming Bangla Tutorial](https://youtu.be/tFehm6nAeAc?si=3lAIG5NbaR27BJRX)***
 [![Introduction to Programming :- C Programming Tutorial | C Programming Bangla Tutorial](https://img.youtube.com/vi/tFehm6nAeAc/0.jpg)](https://youtu.be/tFehm6nAeAc?si=3lAIG5NbaR27BJRX)
 
+# ***[Low Level vs High-Level Programming Language:-C Programming Tutorial For Beginners in Bangla](https://youtu.be/m1D_XVfNlD0?si=CUtOLczuk8gdPED4)***
+[![Low Level vs High-Level Programming Language:-C Programming Tutorial For Beginners in Bangla](https://img.youtube.com/vi/m1D_XVfNlD0/0.jpg)](https://youtu.be/m1D_XVfNlD0?si=CUtOLczuk8gdPED4)
+
 # ***#1: Getting Started with C Programming| C Programming for Beginners***  
 
 [![Getting Started with C Programming | C Programming for Beginners](https://img.youtube.com/vi/KnvbUiSxvbM/0.jpg)](https://youtu.be/KnvbUiSxvbM?si=KHH5YlK5jjFIlLuk)
