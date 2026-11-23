@@ -17,14 +17,17 @@
 # ***[`Difference Between FLOWCHART and ALGORITHM - C Language Tutorial|C Bangla Tutorial[YOUTH CAREER HUB`]](https://youtu.be/2oljKfKUbE4?si=kjem8ywef95SuMTL)***
 [![Difference Between FLOWCHART and ALGORITHM - C Language Tutorial|C Bangla Tutorial[YOUTH CAREER HUB]](https://img.youtube.com/vi/2oljKfKUbE4/0.jpg)](https://youtu.be/2oljKfKUbE4?si=kjem8ywef95SuMTL)
 
+# ***[`C Programming For Beginners - Assignment Solution - C Programming Bangla Tutorial`](https://youtu.be/F4w3qyZBisM?si=Ck8kZfLa5vXQQw_w)***
+[![C Programming For Beginners - Assignment Solution - C Programming Bangla Tutorial](https://img.youtube.com/vi/F4w3qyZBisM/0.jpg)](https://youtu.be/F4w3qyZBisM?si=Ck8kZfLa5vXQQw_w)
+
 # ***[`How to install vs code on windows10 for c programming in 2021 - c language tutorial for beginners`](https://youtu.be/o83pD-JUom0?si=6_Lor5BfgI1eMZqR)***
 [![How to install vs code on windows10 for c programming in 2021 - c language tutorial for beginners](https://img.youtube.com/vi/o83pD-JUom0/0.jpg)](https://youtu.be/o83pD-JUom0?si=6_Lor5BfgI1eMZqR)
 
 # ***[`Basic Structure of C Program | C Programming Tutorial for Beginners | C Programming Bangla Tutorial`](https://youtu.be/qpxaXplGhK4?si=YMZtwwBBBZNHMkea)***
 [![Basic Structure of C Program | C Programming Tutorial for Beginners | C Programming Bangla Tutorial](https://img.youtube.com/vi/qpxaXplGhK4/0.jpg)](https://youtu.be/qpxaXplGhK4?si=YMZtwwBBBZNHMkea)
 
-# ***[`C Programming For Beginners - Assignment Solution - C Programming Bangla Tutorial`](https://youtu.be/F4w3qyZBisM?si=Ck8kZfLa5vXQQw_w)***
-[![C Programming For Beginners - Assignment Solution - C Programming Bangla Tutorial](https://img.youtube.com/vi/F4w3qyZBisM/0.jpg)](https://youtu.be/F4w3qyZBisM?si=Ck8kZfLa5vXQQw_w)
+# ***[`variable in c programming | c programming for beginners | C Programming Bangla Tutorial`](https://youtu.be/yzpEPC8lzn4?si=_iXj6MWRl_Y9n43o)***
+[![variable in c programming | c programming for beginners | C Programming Bangla Tutorial](https://img.youtube.com/vi/yzpEPC8lzn4/0.jpg)](https://youtu.be/yzpEPC8lzn4?si=_iXj6MWRl_Y9n43o)
 
 # ***#1: Getting Started with C Programming| C Programming for Beginners***  
 
