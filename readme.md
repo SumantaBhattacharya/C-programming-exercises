@@ -20,6 +20,9 @@
 # ***[How to install vs code on windows10 for c programming in 2021 - c language tutorial for beginners](https://youtu.be/o83pD-JUom0?si=6_Lor5BfgI1eMZqR)***
 [![How to install vs code on windows10 for c programming in 2021 - c language tutorial for beginners](https://img.youtube.com/vi/o83pD-JUom0/0.jpg)](https://youtu.be/o83pD-JUom0?si=6_Lor5BfgI1eMZqR)
 
+# ***[Basic Structure of C Program | C Programming Tutorial for Beginners | C Programming Bangla Tutorial](https://youtu.be/qpxaXplGhK4?si=YMZtwwBBBZNHMkea)***
+[![Basic Structure of C Program | C Programming Tutorial for Beginners | C Programming Bangla Tutorial](https://img.youtube.com/vi/qpxaXplGhK4/0.jpg)](https://youtu.be/qpxaXplGhK4?si=YMZtwwBBBZNHMkea)
+
 # ***#1: Getting Started with C Programming| C Programming for Beginners***  
 
 [![Getting Started with C Programming | C Programming for Beginners](https://img.youtube.com/vi/KnvbUiSxvbM/0.jpg)](https://youtu.be/KnvbUiSxvbM?si=KHH5YlK5jjFIlLuk)
