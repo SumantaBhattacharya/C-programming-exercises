@@ -14,7 +14,7 @@
 # ***[`Compiler vs Interpreter| C Language Tutorial For Beginners in Bangla |C Programming Tutorial Bangla`](https://youtu.be/i8BB3OP1siM?si=w6xCWgkc2rIclY_S)***
 [![Compiler vs Interpreter| C Language Tutorial For Beginners in Bangla |C Programming Tutorial Bangla](https://img.youtube.com/vi/i8BB3OP1siM/0.jpg)](https://youtu.be/i8BB3OP1siM?si=w6xCWgkc2rIclY_S)
 
-# ***[`Difference Between FLOWCHART and ALGORITHM - C Language Tutorial|C Bangla Tutorial[YOUTH CAREER HUB`]](https://youtu.be/2oljKfKUbE4?si=kjem8ywef95SuMTL)***
+# ***[`Difference Between FLOWCHART and ALGORITHM - C Language Tutorial|C Bangla Tutorial[YOUTH CAREER HUB]`](https://youtu.be/2oljKfKUbE4?si=kjem8ywef95SuMTL)***
 [![Difference Between FLOWCHART and ALGORITHM - C Language Tutorial|C Bangla Tutorial[YOUTH CAREER HUB]](https://img.youtube.com/vi/2oljKfKUbE4/0.jpg)](https://youtu.be/2oljKfKUbE4?si=kjem8ywef95SuMTL)
 
 # ***[`C Programming For Beginners - Assignment Solution - C Programming Bangla Tutorial`](https://youtu.be/F4w3qyZBisM?si=Ck8kZfLa5vXQQw_w)***
@@ -28,6 +28,9 @@
 
 # ***[`variable in c programming | c programming for beginners | C Programming Bangla Tutorial`](https://youtu.be/yzpEPC8lzn4?si=_iXj6MWRl_Y9n43o)***
 [![variable in c programming | c programming for beginners | C Programming Bangla Tutorial](https://img.youtube.com/vi/yzpEPC8lzn4/0.jpg)](https://youtu.be/yzpEPC8lzn4?si=_iXj6MWRl_Y9n43o)
+
+# **[C Programming Tutorial | Data Types in C Programming [Part-1]](https://youtu.be/uX6GINHVnyc?si=Qd9YFL9lGNpr5NPm)**
+[![C Programming Tutorial | Data Types in C Programming [Part-1]](https://img.youtube.com/vi/uX6GINHVnyc/0.jpg)](https://youtu.be/uX6GINHVnyc?si=Qd9YFL9lGNpr5NPm)
 
 # ***#1: Getting Started with C Programming| C Programming for Beginners***  
 
