@@ -78,6 +78,30 @@ A curve that maps elements from the input space to their membership values (betw
 [![16. Find λ cut sets | lambda cut sets using Zadeh’s notation in Fuzzy Logic by Vidya Mahesh Huddar](https://img.youtube.com/vi/6xUWV4_-OZ8/0.jpg)](https://youtu.be/6xUWV4_-OZ8)
 
 \[ A_\lambda = \{\in X \mid \mu_A(x) \geq \lambda \} \]
+
 ---
+
+# ***[`Lec-30: Model Based Reflex Agent in Artificial Intelligence in HINDI with Real Life Examples`](https://youtu.be/xKxh3fQwU8E?si=o_nKP-qGE6hIEymm)***
+[![Lec-30: Model Based Reflex Agent in Artificial Intelligence in HINDI with Real Life Examples](https://img.youtube.com/vi/xKxh3fQwU8E/0.jpg)](https://youtu.be/xKxh3fQwU8E?si=o_nKP-qGE6hIEymm)
+
+*Partially observable environment.*
+*Store percept history.*
+
+---
+
 # ***[`Lec-31: Goal Based Agents in Artificial Intelligence with real life examples in HINDI`](https://youtu.be/HsdiMkKnNLk?si=rlSURG3mhggHG1NQ)***
 [![Lec-31: Goal Based Agents in Artificial Intelligence with real life examples in HINDI](https://img.youtube.com/vi/HsdiMkKnNLk/0.jpg)](https://youtu.be/HsdiMkKnNLk?si=rlSURG3mhggHG1NQ)
+
+Expansion of model based on reflex Agents
+Desirable situation
+Searching and planning
+
+***2. Explain the basic features of Goal Based agent with relevant 
+diagram.***  5  
+
+---
+***Expansion of a Model-Based Reflex Agent***: *Goal Based agent is build based on a model-based reflex agent explicitly adding goals and planning.* 
+***Planning & Search***: *Determines a sequence of actions to move from the current state to a goal state"*
+***Goal Evaluation***: *It asks "What will happen if I do action A? will that make the agent closer to the goal?"*
+
+---
