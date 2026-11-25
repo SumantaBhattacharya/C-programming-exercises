@@ -78,3 +78,6 @@ A curve that maps elements from the input space to their membership values (betw
 [![16. Find λ cut sets | lambda cut sets using Zadeh’s notation in Fuzzy Logic by Vidya Mahesh Huddar](https://img.youtube.com/vi/6xUWV4_-OZ8/0.jpg)](https://youtu.be/6xUWV4_-OZ8)
 
 \[ A_\lambda = \{\in X \mid \mu_A(x) \geq \lambda \} \]
+---
+# ***[`Lec-31: Goal Based Agents in Artificial Intelligence with real life examples in HINDI`](https://youtu.be/HsdiMkKnNLk?si=rlSURG3mhggHG1NQ)***
+[![Lec-31: Goal Based Agents in Artificial Intelligence with real life examples in HINDI](https://img.youtube.com/vi/HsdiMkKnNLk/0.jpg)](https://youtu.be/HsdiMkKnNLk?si=rlSURG3mhggHG1NQ)
