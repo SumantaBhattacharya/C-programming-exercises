@@ -81,6 +81,28 @@ A curve that maps elements from the input space to their membership values (betw
 
 ---
 
+# ***[`Lec-28: Introduction to Intelligent Agents and their types with Example in Artificial Intelligence`](https://youtu.be/BkedAnQfJ_U)***
+[![Lec-28: Introduction to Intelligent Agents and their types with Example in Artificial Intelligence](https://img.youtube.com/vi/BkedAnQfJ_U/0.jpg)](https://youtu.be/BkedAnQfJ_U)
+
+- ***Goals of Agent***
+  - *High performance*
+  - *Optimised Result*
+  - *Rational Action*
+
+***P***: *Performance.*
+***E***: *Environment.* 
+***A***: *Action*
+***S***: *Sensors.*
+
+- ***Types of agent:***
+  - *Simple reflex agent*
+  - *Module based reflex*
+  - *Goal based agent*
+  - *Utility based agent*
+  - *Learning agent.*
+
+---
+
 # ***[`Lec-30: Model Based Reflex Agent in Artificial Intelligence in HINDI with Real Life Examples`](https://youtu.be/xKxh3fQwU8E?si=o_nKP-qGE6hIEymm)***
 [![Lec-30: Model Based Reflex Agent in Artificial Intelligence in HINDI with Real Life Examples](https://img.youtube.com/vi/xKxh3fQwU8E/0.jpg)](https://youtu.be/xKxh3fQwU8E?si=o_nKP-qGE6hIEymm)
 
