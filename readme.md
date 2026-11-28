@@ -35,6 +35,9 @@
 # **[float double and char datatype in c Program | C Programming Bangla Tutorial](https://youtu.be/tkCzXEKDSYw?si=Ho01-8AL59lzN1l5)**
 [![float double and char datatype in c Program | C Programming Bangla Tutorial](https://img.youtube.com/vi/tkCzXEKDSYw/0.jpg)](https://youtu.be/tkCzXEKDSYw?si=Ho01-8AL59lzN1l5)
 
+# **[C Programming For Beginners - Constants in C Program | C Programming Bangla Tutorial.](https://youtu.be/vGXlZ9eRinU?si=zzrtgUk3_jxGWxyX)**
+[![C Programming For Beginners - Constants in C Program | C Programming Bangla Tutorial.](https://img.youtube.com/vi/vGXlZ9eRinU/0.jpg)](https://youtu.be/vGXlZ9eRinU?si=zzrtgUk3_jxGWxyX)
+
 # ***#1: Getting Started with C Programming| C Programming for Beginners***  
 
 [![Getting Started with C Programming | C Programming for Beginners](https://img.youtube.com/vi/KnvbUiSxvbM/0.jpg)](https://youtu.be/KnvbUiSxvbM?si=KHH5YlK5jjFIlLuk)
