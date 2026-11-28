@@ -215,3 +215,6 @@ then their exist atleast one point c ∈ (a, b) such that
 
 # ***[`Expansion of log1+x using Maclaurin's series`](https://youtu.be/e55PjDTHko0?si=9uw10x34qnIICWA0)***
 [![Expansion of log1+x using Maclaurin's series](https://img.youtube.com/vi/e55PjDTHko0/0.jpg)](https://youtu.be/e55PjDTHko0?si=9uw10x34qnIICWA0)
+
+# ***[Prove that (x)/((1 + x)) lt log (1 + x) lt x for x gt 0 | 12 | APPLICATIONS OF DERIVATIVES](https://youtu.be/4YB5k-w3LFA?si=bsDqEGZrByA7AMLP)***
+[![Prove that (x)/((1 + x)) lt log (1 + x) lt x for x gt 0 | 12 | APPLICATIONS OF DERIVATIVES](https://img.youtube.com/vi/4YB5k-w3LFA/0.jpg)](https://youtu.be/4YB5k-w3LFA?si=bsDqEGZrByA7AMLP)
