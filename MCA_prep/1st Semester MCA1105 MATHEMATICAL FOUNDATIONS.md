@@ -210,3 +210,8 @@ then their exist atleast one point c ∈ (a, b) such that
 
 # ***[`Introduction to Taylor's Series|Proof and Examples|BCA|BBA|B.COM|B.TECH|Maths|Dream Maths`](https://youtu.be/-LeHCl6e04Y?si=ghxsGoOk00dYscja)***
 [![Introduction to Taylor's Series|Proof and Examples|BCA|BBA|B.COM|B.TECH|Maths|Dream Maths](https://img.youtube.com/vi/-LeHCl6e04Y/0.jpg)](https://youtu.be/-LeHCl6e04Y?si=ghxsGoOk00dYscja)
+
+---
+
+# ***[`Expansion of log1+x using Maclaurin's series`](https://youtu.be/e55PjDTHko0?si=9uw10x34qnIICWA0)***
+[![Expansion of log1+x using Maclaurin's series](https://img.youtube.com/vi/e55PjDTHko0/0.jpg)](https://youtu.be/e55PjDTHko0?si=9uw10x34qnIICWA0)
