@@ -32,6 +32,9 @@
 # **[C Programming Tutorial | Data Types in C Programming [Part-1]](https://youtu.be/uX6GINHVnyc?si=Qd9YFL9lGNpr5NPm)**
 [![C Programming Tutorial | Data Types in C Programming [Part-1]](https://img.youtube.com/vi/uX6GINHVnyc/0.jpg)](https://youtu.be/uX6GINHVnyc?si=Qd9YFL9lGNpr5NPm)
 
+# **[float double and char datatype in c Program | C Programming Bangla Tutorial](https://youtu.be/tkCzXEKDSYw?si=Ho01-8AL59lzN1l5)**
+[![float double and char datatype in c Program | C Programming Bangla Tutorial](https://img.youtube.com/vi/tkCzXEKDSYw/0.jpg)](https://youtu.be/tkCzXEKDSYw?si=Ho01-8AL59lzN1l5)
+
 # ***#1: Getting Started with C Programming| C Programming for Beginners***  
 
 [![Getting Started with C Programming | C Programming for Beginners](https://img.youtube.com/vi/KnvbUiSxvbM/0.jpg)](https://youtu.be/KnvbUiSxvbM?si=KHH5YlK5jjFIlLuk)
