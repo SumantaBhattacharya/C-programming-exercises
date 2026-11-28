@@ -41,6 +41,9 @@
 # ***[Keywords & Identifier :- C Programming Tutorial | C Programming Bangla Tutorial](https://youtu.be/yqT5a1-xHlc?si=1oATaTECMwL39H9E)***
 [![Keywords & Identifier :- C Programming Tutorial | C Programming Bangla Tutorial](https://img.youtube.com/vi/yqT5a1-xHlc/0.jpg)](https://youtu.be/yqT5a1-xHlc?si=1oATaTECMwL39H9E)
 
+# **[Scanf in C Programming :- C programming Tutorial | C Programming Bangla Tutorial](https://youtu.be/9no4A9YEFU8?si=-vI1-CT1YGRZkM07)**
+[![Scanf in C Programming :- C programming Tutorial | C Programming Bangla Tutorial](https://img.youtube.com/vi/9no4A9YEFU8/0.jpg)](https://youtu.be/9no4A9YEFU8?si=-vI1-CT1YGRZkM07)
+
 # ***#1: Getting Started with C Programming| C Programming for Beginners***  
 
 [![Getting Started with C Programming | C Programming for Beginners](https://img.youtube.com/vi/KnvbUiSxvbM/0.jpg)](https://youtu.be/KnvbUiSxvbM?si=KHH5YlK5jjFIlLuk)
